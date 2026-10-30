@@ -1,0 +1,8 @@
+question,KG classique,KG LLM
+Where was Marie Curie born?,"['Russian Empire', 'Warsaw']","['Warsaw, Russian Empire']"
+Who worked at CERN?,['Francis Halzen'],"['Francis Halzen', 'Frank Wilczek', 'Isidor Rabi', 'Jack Steinberger', 'Martinus J. G. Veltman', 'Simon van der Meer']"
+Who worked at Bell Labs?,"['Arthur Ashkin', 'John Bardeen']","['Arthur Ashkin', 'Herbert Kroemer', 'John Bardeen']"
+Which awards did Enrico Fermi receive?,['Nobel Prize in Physics'],"['Enrico Fermi Award', 'Enrico Fermi Institute', 'Fermi 1 (breeder reactor)', 'Fermi National Accelerator Laboratory (Fermilab)', 'Nobel Prize in Physics']"
+Who studied at the University of Cambridge?,Aucune réponse dans le KG,"['Arthur Compton', 'Brian Josephson', 'Didier Queloz', 'Edward Victor Appleton', 'Ernest Walton', 'John Clarke', 'Martin Ryle']"
+Who shared the prize with John Bardeen?,['Walter Brattain'],"['John Robert Schrieffer', 'Leon Cooper', 'Walter Brattain', 'William Shockley']"
+Who received the Wolf Prize?,"['Leon M. Lederman', 'Masatoshi Koshiba', 'Roger Penrose']","['David Thouless', 'Masatoshi Koshiba']"

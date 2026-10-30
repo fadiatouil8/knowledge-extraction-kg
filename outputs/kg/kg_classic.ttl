@@ -1,0 +1,2176 @@
+@prefix ex: <http://example.org/nobel-kg/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ex:Alain_Aspect a ex:Person ;
+    rdfs:label "Alain Aspect" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1947 ;
+    ex:shared_prize_with ex:Anton_Zeilinger,
+        ex:John_Clauser ;
+    ex:worked_at ex:Bell .
+
+ex:Albert_Fert a ex:Person ;
+    rdfs:label "Albert Fert" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1938 ;
+    ex:shared_prize_with ex:Peter_Grunberg ;
+    ex:worked_at ex:Michigan_State_University,
+        ex:National_Scientific_Research_Centre,
+        ex:Paris_Saclay_University,
+        ex:Thales_Group,
+        ex:Unite_mixte_de_recherche .
+
+ex:Andre_Geim a ex:Person ;
+    rdfs:label "Andre Geim" ;
+    ex:award_received ex:Ig_Nobel_Prize,
+        ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1958 ;
+    ex:worked_at ex:National_Graphene_Institute,
+        ex:Royal_Society_Research,
+        ex:School_of_Physics,
+        ex:University_of_Hong_Kong,
+        ex:University_of_Manchester .
+
+ex:Andrea_M__Ghez a ex:Person ;
+    rdfs:label "Andrea M. Ghez" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1965 ;
+    ex:worked_at ex:Lauren_B__Leichtman .
+
+ex:Antony_Hewish a ex:Person ;
+    rdfs:label "Antony Hewish" ;
+    ex:award_received ex:Eddington_Medal,
+        ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1924 ;
+    ex:shared_prize_with ex:Martin_Ryle .
+
+ex:Arthur_Ashkin a ex:Person ;
+    rdfs:label "Arthur Ashkin" ;
+    ex:award_received ex:Nobel_Prize_in_Physics_2018 ;
+    ex:born_on ex:1922 ;
+    ex:worked_at ex:Bell_Labs .
+
+ex:Arthur_Compton a ex:Person ;
+    rdfs:label "Arthur Compton" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1892 ;
+    ex:shared_prize_with ex:C__T__R__Wilson ;
+    ex:worked_at ex:Metallurgical_Laboratory .
+
+ex:Arthur_Leonard_Schawlow a ex:Person ;
+    rdfs:label "Arthur Leonard Schawlow" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1921 ;
+    ex:shared_prize_with ex:Kai_Siegbahn,
+        ex:Nicolaas_Bloembergen .
+
+ex:Bertram_Brockhouse a ex:Person ;
+    rdfs:label "Bertram Brockhouse" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1918 ;
+    ex:shared_prize_with ex:Clifford_Shull .
+
+ex:Brian_Schmidt a ex:Person ;
+    rdfs:label "Brian Schmidt" ;
+    ex:award_received ex:Laureate_Fellowship,
+        ex:Nobel_Prize_in_Physics,
+        ex:Shaw_Prize ;
+    ex:born_on ex:1967 ;
+    ex:shared_prize_with ex:Adam_Riess,
+        ex:Saul_Perlmutter .
+
+ex:Burton_Richter a ex:Person ;
+    rdfs:label "Burton Richter" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1931 ;
+    ex:worked_at ex:BNL,
+        ex:Brookhaven_National_Laboratory,
+        ex:Stanford_Linear_Accelerator_Center .
+
+ex:C__V__Raman a ex:Person ;
+    rdfs:label "C. V. Raman" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1888 ;
+    ex:educated_at ex:St_Aloysius ;
+    ex:worked_at ex:Indian_Academy_of_Sciences,
+        ex:Indian_Finance_Service,
+        ex:Indian_Institute_of_Science,
+        ex:Rajabazar_Science_College,
+        ex:Raman_Research_Institute,
+        ex:University_of_Calcutta .
+
+ex:Carl_Wieman a ex:Person ;
+    rdfs:label "Carl Wieman" ;
+    ex:award_received ex:Nobel_Prize_in_Physics,
+        ex:Yidan_Prize_in_Education_Research ;
+    ex:born_on ex:1951 ;
+    ex:educated_at ex:STEM ;
+    ex:shared_prize_with ex:Bose_Einstein,
+        ex:Wolfgang_Ketterle ;
+    ex:worked_at ex:Cornell_University,
+        ex:PhET_Interactive_Simulations,
+        ex:Stanford_Graduate_School_of_Education,
+        ex:Stanford_University,
+        ex:Stanford_University_School_of_Engineering .
+
+ex:Charles_Edouard_Guillaume a ex:Person ;
+    rdfs:label "Charles-Édouard Guillaume" ;
+    ex:award_received ex:Guthrie_Lecture,
+        ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1861 .
+
+ex:Charles_H__Townes a ex:Person ;
+    rdfs:label "Charles H. Townes" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1915 ;
+    ex:shared_prize_with ex:Alexander_Prokhorov,
+        ex:Nikolay_Basov ;
+    ex:worked_at ex:University_of_California__Berkeley .
+
+ex:Daniel_C__Tsui a ex:Person ;
+    rdfs:label "Daniel C. Tsui" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1939 ;
+    ex:shared_prize_with ex:Horst_L__Stormer,
+        ex:Robert_B__Laughlin ;
+    ex:worked_at ex:Princeton_University .
+
+ex:Didier_Queloz a ex:Person ;
+    rdfs:label "Didier Queloz" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1966 ;
+    ex:shared_prize_with ex:Jim_Peebles ;
+    ex:worked_at ex:Center,
+        ex:ETH_Zurich,
+        ex:Trinity_College,
+        ex:University_of_Cambridge .
+
+ex:Edward_Mills_Purcell a ex:Person ;
+    rdfs:label "Edward Mills Purcell" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1912 ;
+    ex:shared_prize_with ex:Felix_Bloch .
+
+ex:Edward_Victor_Appleton a ex:Person ;
+    rdfs:label "Edward Victor Appleton" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1892 ;
+    ex:worked_at ex:King_s_College_London,
+        ex:Western_Front .
+
+ex:Emilio_Segre a ex:Person ;
+    rdfs:label "Emilio Segrè" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_in ex:Rome,
+        ex:Tivoli ;
+    ex:born_on ex:1905 ;
+    ex:educated_at ex:University_of_Rome_La_Sapienza ;
+    ex:worked_at ex:Lawrence_Radiation_Laboratory,
+        ex:Los_Alamos_National_Laboratory,
+        ex:Manhattan_Project,
+        ex:Physics_Laboratory,
+        ex:University_of_Palermo,
+        ex:University_of_Rome .
+
+ex:Ernest_Lawrence a ex:Person ;
+    rdfs:label "Ernest Lawrence" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1901 ;
+    ex:worked_at ex:Lawrence_Berkeley_National_Laboratory,
+        ex:Lawrence_Livermore_National_Laboratory,
+        ex:Manhattan_Project,
+        ex:University_of_California__Berkeley .
+
+ex:Ernest_Rutherford a ex:Person ;
+    rdfs:label "Ernest Rutherford" ;
+    ex:educated_at ex:Cavendish_Laboratory ;
+    ex:worked_at ex:Cavendish_Laboratory .
+
+ex:Ernst_Ruska a ex:Person ;
+    rdfs:label "Ernst Ruska" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1906 .
+
+ex:Ferenc_Krausz a ex:Person ;
+    rdfs:label "Ferenc Krausz" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1962 ;
+    ex:shared_prize_with ex:Anne_L_Huillier,
+        ex:Pierre_Agostini ;
+    ex:worked_at ex:LMU_Munich,
+        ex:Max_Planck_Institute_of_Quantum_Optics,
+        ex:University_of_Hong_Kong .
+
+ex:Francis_Halzen a ex:Person ;
+    rdfs:label "Francis Halzen" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_in ex:Belgium ;
+    ex:born_on ex:1944 ;
+    ex:educated_at ex:Catholic_University_of_Leuven ;
+    ex:worked_at ex:CERN,
+        ex:IceCube_Neutrino_Observatory,
+        ex:University_of_Wisconsin_Madison .
+
+ex:Frederick_Reines a ex:Person ;
+    rdfs:label "Frederick Reines" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1918 ;
+    ex:worked_at ex:Operation_Greenhouse .
+
+ex:Gabriel_Lippmann a ex:Person ;
+    rdfs:label "Gabriel Lippmann" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1845 .
+
+ex:George_Paget_Thomson a ex:Person ;
+    rdfs:label "George Paget Thomson" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1892 ;
+    ex:shared_prize_with ex:Clinton_Davisson .
+
+ex:Gerard__t_Hooft a ex:Person ;
+    rdfs:label "Gerard 't Hooft" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:shared_prize_with ex:J__G__Veltman .
+
+ex:Gustav_Ludwig_Hertz a ex:Person ;
+    rdfs:label "Gustav Ludwig Hertz" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1887 ;
+    ex:shared_prize_with ex:James_Franck .
+
+ex:Hans_Bethe a ex:Person ;
+    rdfs:label "Hans Bethe" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1906 ;
+    ex:worked_at ex:CNO,
+        ex:Cornell_University,
+        ex:Theoretical_Division .
+
+ex:Heike_Kamerlingh_Onnes a ex:Person ;
+    rdfs:label "Heike Kamerlingh Onnes" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1853 ;
+    ex:worked_at ex:Kamerlingh_Onnes .
+
+ex:Hendrik_Lorentz a ex:Person ;
+    rdfs:label "Hendrik Lorentz" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1853 ;
+    ex:shared_prize_with ex:Pieter_Zeeman .
+
+ex:Herbert_Kroemer a ex:Person ;
+    rdfs:label "Herbert Kroemer" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1928 ;
+    ex:shared_prize_with ex:Zhores_Alferov .
+
+ex:Hideki_Yukawa a ex:Person ;
+    rdfs:label "Hideki Yukawa" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1907 .
+
+ex:Hugh_David_Politzer a ex:Person ;
+    rdfs:label "Hugh David Politzer" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1949 ;
+    ex:shared_prize_with ex:Frank_Wilczek ;
+    ex:worked_at ex:California_Institute_of_Technology,
+        ex:Richard_Chace .
+
+ex:Igor_Tamm a ex:Person ;
+    rdfs:label "Igor Tamm" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1895 .
+
+ex:Ilya_Frank a ex:Person ;
+    rdfs:label "Ilya Frank" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1908 .
+
+ex:Isidor_Rabi a ex:Person ;
+    rdfs:label "Isidor Rabi" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_in ex:Austria,
+        ex:Rymanow ;
+    ex:born_on ex:1898 ;
+    ex:worked_at ex:Atomic_Energy_Commission,
+        ex:Ballistic_Research_Laboratory,
+        ex:General_Advisory_Committee,
+        ex:MIT,
+        ex:Manhattan_Project,
+        ex:Massachusetts_Institute_of_Technology,
+        ex:Office_of_Defense_Mobilization,
+        ex:Radiation_Laboratory,
+        ex:University .
+
+ex:Jack_Kilby a ex:Person ;
+    rdfs:label "Jack Kilby" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1923 ;
+    ex:worked_at ex:Texas_Instruments .
+
+ex:James_Chadwick a ex:Person ;
+    rdfs:label "James Chadwick" ;
+    ex:award_received ex:Nobel_Prize_in_Physics,
+        ex:Research_Fellowship ;
+    ex:born_on ex:1891 ;
+    ex:educated_at ex:Caius_College,
+        ex:Victoria_University_of_Manchester ;
+    ex:worked_at ex:Cavendish_Laboratory,
+        ex:Manhattan_Project,
+        ex:University_of_Liverpool .
+
+ex:James_Cronin a ex:Person ;
+    rdfs:label "James Cronin" ;
+    ex:award_received ex:Ernest_Orlando_Lawrence_Award,
+        ex:National_Medal_of_Science,
+        ex:Nobel_Prize_in_Physics_for_a,
+        ex:Quantrell_Award ;
+    ex:born_on ex:1931 ;
+    ex:shared_prize_with ex:Val_Logsdon_Fitch ;
+    ex:worked_at ex:University_of_Chicago .
+
+ex:James_Rainwater a ex:Person ;
+    rdfs:label "James Rainwater" ;
+    ex:award_received ex:Lawrence_Award,
+        ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1917 ;
+    ex:worked_at ex:Manhattan_Project .
+
+ex:Jean_Perrin a ex:Person ;
+    rdfs:label "Jean Perrin" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1870 .
+
+ex:Jerome_Isaac_Friedman a ex:Person ;
+    rdfs:label "Jerome Isaac Friedman" ;
+    ex:award_received ex:Nobel_Prize_in_Physics_along ;
+    ex:born_on ex:1930 ;
+    ex:shared_prize_with ex:Henry_Kendall,
+        ex:Richard_Taylor ;
+    ex:worked_at ex:Massachusetts_Institute_of_Technology .
+
+ex:Johannes_Diderik_van_der_Waals a ex:Person ;
+    rdfs:label "Johannes Diderik van der Waals" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1837 ;
+    ex:worked_at ex:University_of_Amsterdam .
+
+ex:John_Hopfield a ex:Person ;
+    rdfs:label "John Hopfield" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1933 ;
+    ex:shared_prize_with ex:Geoffrey_Hinton ;
+    ex:worked_at ex:Princeton_University .
+
+ex:John_Robert_Schrieffer a ex:Person ;
+    rdfs:label "John Robert Schrieffer" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1931 ;
+    ex:shared_prize_with ex:Leon_Cooper .
+
+ex:John_William_Strutt__3rd_Baron_Rayleigh a ex:Person ;
+    rdfs:label "John William Strutt, 3rd Baron Rayleigh" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1842 ;
+    ex:worked_at ex:Royal_Society,
+        ex:University_of_Cambridge .
+
+ex:Joseph_Hooton_Taylor_Jr a ex:Person ;
+    rdfs:label "Joseph Hooton Taylor Jr" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1941 ;
+    ex:shared_prize_with ex:Russell_Alan_Hulse .
+
+ex:Kenneth_G__Wilson a ex:Person ;
+    rdfs:label "Kenneth G. Wilson" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1936 .
+
+ex:Klaus_von_Klitzing a ex:Person ;
+    rdfs:label "Klaus von Klitzing" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1943 .
+
+ex:Leo_Esaki a ex:Person ;
+    rdfs:label "Leo Esaki" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1925 ;
+    ex:shared_prize_with ex:Brian_Josephson,
+        ex:Ivar_Giaever .
+
+ex:Lev_Landau a ex:Person ;
+    rdfs:label "Lev Landau" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1908 .
+
+ex:Luis_Walter_Alvarez a ex:Person ;
+    rdfs:label "Luis Walter Alvarez" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1911 ;
+    ex:educated_at ex:University_of_Chicago ;
+    ex:worked_at ex:Enrico_Fermi,
+        ex:IFF,
+        ex:MIT_Radiation_Laboratory,
+        ex:Manhattan_Project,
+        ex:Radiation_Laboratory,
+        ex:University_of_California__Berkeley .
+
+ex:Maria_Goeppert_Mayer a ex:Person ;
+    rdfs:label "Maria Goeppert Mayer" ;
+    ex:award_received ex:Maria_Goeppert_Mayer_Award,
+        ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1906 ;
+    ex:shared_prize_with ex:Eugene_Wigner,
+        ex:J__Hans_D__Jensen ;
+    ex:worked_at ex:Argonne_National_Laboratory,
+        ex:Columbia_University,
+        ex:Johns_Hopkins_University,
+        ex:Los_Alamos_Laboratory,
+        ex:Manhattan_Project_at_Columbia,
+        ex:University_of_California,
+        ex:University_of_Chicago .
+
+ex:Marie_Curie a ex:Person ;
+    rdfs:label "Marie Curie" ;
+    ex:award_received ex:Nobel_Prize_in_Chemistry,
+        ex:Nobel_Prize_in_Physics ;
+    ex:born_in ex:Russian_Empire,
+        ex:Warsaw ;
+    ex:born_on ex:1867 ;
+    ex:died_in ex:France,
+        ex:Sancellemoz ;
+    ex:educated_at ex:Flying_University ;
+    ex:worked_at ex:Curie_Institute .
+
+ex:Martinus_J__G__Veltman a ex:Person ;
+    rdfs:label "Martinus J. G. Veltman" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1931 ;
+    ex:shared_prize_with ex:Gerardus .
+
+ex:Masatoshi_Koshiba a ex:Person ;
+    rdfs:label "Masatoshi Koshiba" ;
+    ex:award_received ex:Nobel_Prize_in_Physics,
+        ex:Wolf_Prize ;
+    ex:born_on ex:1926 ;
+    ex:shared_prize_with ex:Raymond_Davis_Jr ;
+    ex:worked_at ex:University_of_Tokyo .
+
+ex:Max_Planck a ex:Person ;
+    rdfs:label "Max Planck" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1858 .
+
+ex:Max_von_Laue a ex:Person ;
+    rdfs:label "Max von Laue" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1879 .
+
+ex:Melvin_Schwartz a ex:Person ;
+    rdfs:label "Melvin Schwartz" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1932 ;
+    ex:shared_prize_with ex:Jack_Steinberger,
+        ex:Leon_M__Lederman .
+
+ex:Nevill_Mott a ex:Person ;
+    rdfs:label "Nevill Mott" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1905 .
+
+ex:Niels_Bohr a ex:Person ;
+    rdfs:label "Niels Bohr" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1885 ;
+    ex:worked_at ex:Institute_of_Theoretical_Physics,
+        ex:Niels_Bohr_Institute,
+        ex:University_of_Copenhagen .
+
+ex:Otto_Stern a ex:Person ;
+    rdfs:label "Otto Stern" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1888 .
+
+ex:Paul_Dirac a ex:Person ;
+    rdfs:label "Paul Dirac" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1902 ;
+    ex:educated_at ex:St_John_s_College,
+        ex:University_of_Bristol ;
+    ex:shared_prize_with ex:Erwin_Schrodinger ;
+    ex:worked_at ex:Florida_State_University,
+        ex:University_of_Cambridge .
+
+ex:Pavel_Cherenkov a ex:Person ;
+    rdfs:label "Pavel Cherenkov" ;
+    ex:award_received ex:Nobel_Prize_in_Physics_with_Ilya_Frank_and_Igor_Tamm ;
+    ex:born_on ex:1904 .
+
+ex:Percy_Williams_Bridgman a ex:Person ;
+    rdfs:label "Percy Williams Bridgman" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1882 .
+
+ex:Philipp_Lenard a ex:Person ;
+    rdfs:label "Philipp Lenard" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1862 .
+
+ex:Richard_E__Taylor a ex:Person ;
+    rdfs:label "Richard E. Taylor" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1929 ;
+    ex:shared_prize_with ex:Henry_Kendall,
+        ex:Jerome_Friedman ;
+    ex:worked_at ex:Stanford_University .
+
+ex:Robert_Coleman_Richardson a ex:Person ;
+    rdfs:label "Robert Coleman Richardson" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_in ex:D_C,
+        ex:Washington ;
+    ex:born_on ex:1937 ;
+    ex:educated_at ex:Duke_University ;
+    ex:shared_prize_with ex:David_Lee,
+        ex:Douglas_Osheroff .
+
+ex:Robert_Millikan a ex:Person ;
+    rdfs:label "Robert Millikan" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1868 ;
+    ex:worked_at ex:Society_for_Science___the_Public .
+
+ex:Roger_Penrose a ex:Person ;
+    rdfs:label "Roger Penrose" ;
+    ex:award_received ex:Nobel_Prize_in_Physics,
+        ex:Royal_Society_Science_Book_Prize_for_The_Emperor,
+        ex:Wolf_Prize ;
+    ex:born_on ex:1931 ;
+    ex:shared_prize_with ex:Stephen_Hawking ;
+    ex:worked_at ex:St_John_s_College,
+        ex:University_College_London,
+        ex:University_of_Oxford,
+        ex:Wadham_College .
+
+ex:Rudolf_Mossbauer a ex:Person ;
+    rdfs:label "Rudolf Mössbauer" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1929 ;
+    ex:shared_prize_with ex:Robert_Hofstadter .
+
+ex:Samuel_C__C__Ting a ex:Person ;
+    rdfs:label "Samuel C. C. Ting" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1936 ;
+    ex:shared_prize_with ex:Burton ;
+    ex:worked_at ex:MIT,
+        ex:Massachusetts_Institute_of_Technology .
+
+ex:Shin_ichiro_Tomonaga a ex:Person ;
+    rdfs:label "Shin'ichirō Tomonaga" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1906 ;
+    ex:shared_prize_with ex:Julian_Schwinger,
+        ex:Richard_Feynman ;
+    ex:worked_at ex:QED .
+
+ex:Simon_van_der_Meer a ex:Person ;
+    rdfs:label "Simon van der Meer" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1925 ;
+    ex:shared_prize_with ex:Carlo_Rubbia .
+
+ex:Steven_Chu a ex:Person ;
+    rdfs:label "Steven Chu" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1948 ;
+    ex:shared_prize_with ex:Claude_Cohen_Tannoudji,
+        ex:William_Daniel_Phillips ;
+    ex:worked_at ex:Bell_Laboratories,
+        ex:Lawrence_Berkeley_National_Laboratory,
+        ex:Molecular_and_Cellular_Physiology,
+        ex:Stanford_University,
+        ex:University_of_California__Berkeley .
+
+ex:Syukuro_Manabe a ex:Person ;
+    rdfs:label "Syukuro Manabe" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1931 ;
+    ex:shared_prize_with ex:Klaus_Hasselmann .
+
+ex:Theodor_W__Hansch a ex:Person ;
+    rdfs:label "Theodor W. Hänsch" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1941 ;
+    ex:shared_prize_with ex:John_L__Hall,
+        ex:Roy_J__Glauber ;
+    ex:worked_at ex:Max_Planck_Institut_fur_Quantenoptik .
+
+ex:Toshihide_Maskawa a ex:Person ;
+    rdfs:label "Toshihide Maskawa" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1940 .
+
+ex:Vitaly_Ginzburg a ex:Person ;
+    rdfs:label "Vitaly Ginzburg" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1916 ;
+    ex:shared_prize_with ex:Alexei_Abrikosov,
+        ex:Anthony_Leggett ;
+    ex:worked_at ex:Lebedev_Physical_Institute,
+        ex:Russian_Academy_of_Sciences,
+        ex:Russian_Jewish_Congress .
+
+ex:Walter_Brattain a ex:Person ;
+    rdfs:label "Walter Brattain" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1902 ;
+    ex:shared_prize_with ex:John_Bardeen,
+        ex:William_Shockley .
+
+ex:Walther_Bothe a ex:Person ;
+    rdfs:label "Walther Bothe" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1891 ;
+    ex:shared_prize_with ex:Max_Born ;
+    ex:worked_at ex:Heidelberg_University,
+        ex:Kaiser_Wilhelm_Institute_for_Medical_Research,
+        ex:Physics_Institute,
+        ex:University_of_Giessen .
+
+ex:Werner_Heisenberg a ex:Person ;
+    rdfs:label "Werner Heisenberg" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1901 ;
+    ex:worked_at ex:Kaiser_Wilhelm_Institute_for_Physics,
+        ex:Max_Planck_Institute_for_Physics,
+        ex:Max_Planck_Institute_for_Physics_and_Astrophysics .
+
+ex:Wilhelm_Wien a ex:Person ;
+    rdfs:label "Wilhelm Wien" ;
+    ex:award_received ex:Nobel_Prize_in_Physics .
+
+ex:William_Alfred_Fowler a ex:Person ;
+    rdfs:label "William Alfred Fowler" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1911 .
+
+ex:Wolfgang_Paul a ex:Person ;
+    rdfs:label "Wolfgang Paul" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1913 ;
+    ex:worked_at ex:Hans_Georg_Dehmelt .
+
+ex:Wolfgang_Pauli a ex:Person ;
+    rdfs:label "Wolfgang Pauli" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1900 ;
+    ex:shared_prize_with ex:Albert_Einstein .
+
+ex:Yang_Chen_Ning a ex:Person ;
+    rdfs:label "Yang Chen-Ning" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1922 ;
+    ex:shared_prize_with ex:Tsung_Dao_Lee .
+
+ex:Yoichiro_Nambu a ex:Person ;
+    rdfs:label "Yoichiro Nambu" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1921 ;
+    ex:worked_at ex:University_of_Chicago .
+
+ex:1837 a ex:Year ;
+    rdfs:label "1837" .
+
+ex:1842 a ex:Year ;
+    rdfs:label "1842" .
+
+ex:1845 a ex:Year ;
+    rdfs:label "1845" .
+
+ex:1858 a ex:Year ;
+    rdfs:label "1858" .
+
+ex:1861 a ex:Year ;
+    rdfs:label "1861" .
+
+ex:1862 a ex:Year ;
+    rdfs:label "1862" .
+
+ex:1867 a ex:Year ;
+    rdfs:label "1867" .
+
+ex:1868 a ex:Year ;
+    rdfs:label "1868" .
+
+ex:1870 a ex:Year ;
+    rdfs:label "1870" .
+
+ex:1882 a ex:Year ;
+    rdfs:label "1882" .
+
+ex:1885 a ex:Year ;
+    rdfs:label "1885" .
+
+ex:1887 a ex:Year ;
+    rdfs:label "1887" .
+
+ex:1895 a ex:Year ;
+    rdfs:label "1895" .
+
+ex:1898 a ex:Year ;
+    rdfs:label "1898" .
+
+ex:1900 a ex:Year ;
+    rdfs:label "1900" .
+
+ex:1903 a ex:Year ;
+    rdfs:label "1903" .
+
+ex:1904 a ex:Year ;
+    rdfs:label "1904" .
+
+ex:1907 a ex:Year ;
+    rdfs:label "1907" .
+
+ex:1910 a ex:Year ;
+    rdfs:label "1910" .
+
+ex:1912 a ex:Year ;
+    rdfs:label "1912" .
+
+ex:1913 a ex:Year ;
+    rdfs:label "1913" .
+
+ex:1914 a ex:Year ;
+    rdfs:label "1914" .
+
+ex:1915 a ex:Year ;
+    rdfs:label "1915" .
+
+ex:1917 a ex:Year ;
+    rdfs:label "1917" .
+
+ex:1920 a ex:Year ;
+    rdfs:label "1920" .
+
+ex:1923 a ex:Year ;
+    rdfs:label "1923" .
+
+ex:1934 a ex:Year ;
+    rdfs:label "1934" .
+
+ex:1935 a ex:Year ;
+    rdfs:label "1935" .
+
+ex:1937 a ex:Year ;
+    rdfs:label "1937" .
+
+ex:1946 a ex:Year ;
+    rdfs:label "1946" .
+
+ex:1947 a ex:Year ;
+    rdfs:label "1947" .
+
+ex:1948 a ex:Year ;
+    rdfs:label "1948" .
+
+ex:1949 a ex:Year ;
+    rdfs:label "1949" .
+
+ex:1950 a ex:Year ;
+    rdfs:label "1950" .
+
+ex:1953 a ex:Year ;
+    rdfs:label "1953" .
+
+ex:1954 a ex:Year ;
+    rdfs:label "1954" .
+
+ex:1960 a ex:Year ;
+    rdfs:label "1960" .
+
+ex:1962 a ex:Year ;
+    rdfs:label "1962" .
+
+ex:1965 a ex:Year ;
+    rdfs:label "1965" .
+
+ex:1966 a ex:Year ;
+    rdfs:label "1966" .
+
+ex:1967 a ex:Year ;
+    rdfs:label "1967" .
+
+ex:Adam_Riess a ex:Person ;
+    rdfs:label "Adam Riess" .
+
+ex:Albert_Einstein a ex:Person ;
+    rdfs:label "Albert Einstein" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_in ex:Kingdom_of_Wurttemberg ;
+    ex:born_on ex:1879 ;
+    ex:worked_at ex:Humboldt_University_of_Berlin,
+        ex:Kaiser_Wilhelm_Institute_for_Physics,
+        ex:Prussian_Academy_of_Sciences,
+        ex:Swiss_Patent_Office .
+
+ex:Albert_Einstein_Award a ex:Award ;
+    rdfs:label "Albert Einstein Award" .
+
+ex:Alexei_Abrikosov a ex:Person ;
+    rdfs:label "Alexei Abrikosov" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1928 .
+
+ex:Anne_L_Huillier a ex:Person ;
+    rdfs:label "Anne L'Huillier" ;
+    ex:award_received ex:Nobel_Prize_in_Physics,
+        ex:Wolf_Prize_in_Physics ;
+    ex:born_on ex:1958 ;
+    ex:worked_at ex:Lund_University,
+        ex:attosecond_physics_group .
+
+ex:Anthony_Leggett a ex:Person ;
+    rdfs:label "Anthony Leggett" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1938 ;
+    ex:worked_at ex:University_of_Illinois_Urbana_Champaign .
+
+ex:Argonne_National_Laboratory a ex:Organization ;
+    rdfs:label "Argonne National Laboratory" .
+
+ex:Arizona_State_University a ex:Organization ;
+    rdfs:label "Arizona State University" .
+
+ex:Arthur_B__McDonald a ex:Person ;
+    rdfs:label "Arthur B. McDonald" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1943 ;
+    ex:shared_prize_with ex:Takaaki_Kajita ;
+    ex:worked_at ex:Sudbury_Neutrino_Observatory_Collaboration .
+
+ex:Arthur_Schawlow a ex:Person ;
+    rdfs:label "Arthur Schawlow" .
+
+ex:Atomic_Energy_Research_Establishment a ex:Organization ;
+    rdfs:label "Atomic Energy Research Establishment" .
+
+ex:Austria a ex:Place ;
+    rdfs:label "Austria" .
+
+ex:BNL a ex:Organization ;
+    rdfs:label "BNL" .
+
+ex:Ballistic_Research_Laboratory a ex:Organization ;
+    rdfs:label "Ballistic Research Laboratory" .
+
+ex:Barry_Barish a ex:Person ;
+    rdfs:label "Barry Barish" ;
+    ex:award_received ex:National_Medal_of_Science,
+        ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1936 ;
+    ex:shared_prize_with ex:Biden,
+        ex:Kip_Thorne,
+        ex:Rainer_Weiss ;
+    ex:worked_at ex:California_Institute_of_Technology,
+        ex:Nobel_Laureate,
+        ex:Stony_Brook_University,
+        ex:University_of_California__Riverside .
+
+ex:Barry_C__Barish a ex:Person ;
+    rdfs:label "Barry C. Barish" .
+
+ex:Belgium a ex:Place ;
+    rdfs:label "Belgium" .
+
+ex:Bell_Laboratories a ex:Organization ;
+    rdfs:label "Bell Laboratories" .
+
+ex:Biden a ex:Person ;
+    rdfs:label "Biden" .
+
+ex:Bose_Einstein a ex:Person ;
+    rdfs:label "Bose-Einstein" .
+
+ex:Boston_University a ex:Organization ;
+    rdfs:label "Boston University" .
+
+ex:Brookhaven_National_Laboratory a ex:Organization ;
+    rdfs:label "Brookhaven National Laboratory" .
+
+ex:Brown_University a ex:Organization ;
+    rdfs:label "Brown University" .
+
+ex:Burton a ex:Person ;
+    rdfs:label "Burton" .
+
+ex:CCD a ex:Organization ;
+    rdfs:label "CCD" .
+
+ex:CERN a ex:Organization ;
+    rdfs:label "CERN" .
+
+ex:CNO a ex:Organization ;
+    rdfs:label "CNO" .
+
+ex:C__T__R__Wilson a ex:Person ;
+    rdfs:label "C. T. R. Wilson" .
+
+ex:Caius_College a ex:Organization ;
+    rdfs:label "Caius College" .
+
+ex:Carlo_Rubbia a ex:Person ;
+    rdfs:label "Carlo Rubbia" .
+
+ex:Catholic_University_of_Leuven a ex:Organization ;
+    rdfs:label "Catholic University of Leuven" .
+
+ex:Center a ex:Organization ;
+    rdfs:label "Center" .
+
+ex:Chicago_Pile_1 a ex:Organization ;
+    rdfs:label "Chicago Pile-1" .
+
+ex:Claude_Cohen_Tannoudji a ex:Person ;
+    rdfs:label "Claude Cohen-Tannoudji" .
+
+ex:Clifford_Shull a ex:Person ;
+    rdfs:label "Clifford Shull" .
+
+ex:Clinton_Davisson a ex:Person ;
+    rdfs:label "Clinton Davisson" .
+
+ex:College_de_France a ex:Organization ;
+    rdfs:label "Collège de France" .
+
+ex:Communist_Party a ex:Organization ;
+    rdfs:label "Communist Party" .
+
+ex:Curie_Institute a ex:Organization ;
+    rdfs:label "Curie Institute" .
+
+ex:D_C a ex:Place ;
+    rdfs:label "D.C" .
+
+ex:Daniel_Chalonge_Medal a ex:Award ;
+    rdfs:label "Daniel Chalonge Medal" .
+
+ex:David_Gross a ex:Person ;
+    rdfs:label "David Gross" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1941 ;
+    ex:shared_prize_with ex:Frank_Wilczek ;
+    ex:worked_at ex:KITP,
+        ex:Kavli_Institute_for_Theoretical_Physics,
+        ex:UCSB,
+        ex:University_of_California .
+
+ex:David_J__Wineland a ex:Person ;
+    rdfs:label "David J. Wineland" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1944 ;
+    ex:shared_prize_with ex:Serge_Haroche ;
+    ex:worked_at ex:National_Institute_of_Standards_and_Technology,
+        ex:Physical_Measurement_Laboratory .
+
+ex:David_Thouless a ex:Person ;
+    rdfs:label "David Thouless" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1934 ;
+    ex:shared_prize_with ex:F__Duncan_M__Haldane,
+        ex:J__Michael_Kosterlitz .
+
+ex:Donna_Strickland a ex:Person ;
+    rdfs:label "Donna Strickland" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1959 ;
+    ex:shared_prize_with ex:Gerard_Mourou ;
+    ex:worked_at ex:Presidential_Advisory_Committee,
+        ex:University_of_Waterloo .
+
+ex:Duke_University a ex:Organization ;
+    rdfs:label "Duke University" .
+
+ex:Duncan_Haldane a ex:Person ;
+    rdfs:label "Duncan Haldane" ;
+    ex:award_received ex:Nobel_Prize_in ;
+    ex:born_on ex:1951 ;
+    ex:worked_at ex:Princeton_University,
+        ex:Sherman_Fairchild_University .
+
+ex:ETH_Zurich a ex:Organization ;
+    rdfs:label "ETH Zurich" .
+
+ex:Eddington_Medal a ex:Award ;
+    rdfs:label "Eddington Medal" .
+
+ex:Einstein_Medal a ex:Award ;
+    rdfs:label "Einstein Medal" .
+
+ex:Enrico_Fermi a ex:Person ;
+    rdfs:label "Enrico Fermi" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1901 ;
+    ex:worked_at ex:Atomic_Energy_Commission,
+        ex:Chicago_Pile_1,
+        ex:General_Advisory_Committee,
+        ex:Institute_for_Nuclear_Studies,
+        ex:Manhattan_Project,
+        ex:University_of_Chicago .
+
+ex:Ernest_Walton a ex:Person ;
+    rdfs:label "Ernest Walton" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1903 ;
+    ex:shared_prize_with ex:John_Cockcroft ;
+    ex:worked_at ex:Trinity_College_Dublin,
+        ex:University_of_Cambridge,
+        ex:physics_department .
+
+ex:Erwin_Schrodinger a ex:Person ;
+    rdfs:label "Erwin Schrödinger" .
+
+ex:Eugene_Wigner a ex:Person ;
+    rdfs:label "Eugene Wigner" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1902 ;
+    ex:worked_at ex:Atomic_Energy_Commission,
+        ex:General_Advisory_Committee,
+        ex:Manhattan_Project,
+        ex:National_Bureau_of_Standards,
+        ex:National_Research_Council .
+
+ex:Exceptional_Scientific_Achievement_Medal a ex:Award ;
+    rdfs:label "Exceptional Scientific Achievement Medal" .
+
+ex:F__Duncan_M__Haldane a ex:Person ;
+    rdfs:label "F. Duncan M. Haldane" .
+
+ex:Felix_Bloch a ex:Person ;
+    rdfs:label "Felix Bloch" .
+
+ex:Fermi_National_Accelerator_Laboratory a ex:Organization ;
+    rdfs:label "Fermi National Accelerator Laboratory" .
+
+ex:Florida_State_University a ex:Organization ;
+    rdfs:label "Florida State University" .
+
+ex:Flying_University a ex:Organization ;
+    rdfs:label "Flying University" .
+
+ex:France a ex:Place ;
+    rdfs:label "France" .
+
+ex:Geoffrey_Hinton a ex:Person ;
+    rdfs:label "Geoffrey Hinton" .
+
+ex:George_E__Smith a ex:Person ;
+    rdfs:label "George E. Smith" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1930 ;
+    ex:shared_prize_with ex:Willard_Boyle ;
+    ex:worked_at ex:CCD .
+
+ex:George_Smoot a ex:Person ;
+    rdfs:label "George Smoot" ;
+    ex:award_received ex:Daniel_Chalonge_Medal,
+        ex:Einstein_Medal,
+        ex:Ernest_Orlando_Lawrence_Award,
+        ex:Exceptional_Scientific_Achievement_Medal,
+        ex:Gruber_Prize,
+        ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1945 ;
+    ex:shared_prize_with ex:John_C__Mather ;
+    ex:worked_at ex:Omnibus_Appropriations,
+        ex:Paris_Center_for_Cosmological_Physics .
+
+ex:Gerard_Mourou a ex:Person ;
+    rdfs:label "Gérard Mourou" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1944 ;
+    ex:shared_prize_with ex:Donna_Strickland .
+
+ex:Gerardus a ex:Person ;
+    rdfs:label "Gerardus" .
+
+ex:Google_Quantum_AI a ex:Organization ;
+    rdfs:label "Google Quantum AI" .
+
+ex:Gruber_Prize a ex:Award ;
+    rdfs:label "Gruber Prize" .
+
+ex:Guthrie_Lecture a ex:Award ;
+    rdfs:label "Guthrie Lecture" .
+
+ex:H__David_Politzer a ex:Person ;
+    rdfs:label "H. David Politzer" .
+
+ex:Hans_Georg_Dehmelt a ex:Person ;
+    rdfs:label "Hans Georg Dehmelt" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1922 .
+
+ex:Heidelberg_University a ex:Organization ;
+    rdfs:label "Heidelberg University" .
+
+ex:Horst_L__Stormer a ex:Person ;
+    rdfs:label "Horst L. Störmer" .
+
+ex:Humboldt_University_of_Berlin a ex:Organization ;
+    rdfs:label "Humboldt University of Berlin" .
+
+ex:IFF a ex:Organization ;
+    rdfs:label "IFF" .
+
+ex:IceCube_Neutrino_Observatory a ex:Organization ;
+    rdfs:label "IceCube Neutrino Observatory" .
+
+ex:Ig_Nobel_Prize a ex:Award ;
+    rdfs:label "Ig Nobel Prize" .
+
+ex:Illinois_Mathematics_and_Science_Academy a ex:Organization ;
+    rdfs:label "Illinois Mathematics and Science Academy" .
+
+ex:Indian_Academy_of_Sciences a ex:Organization ;
+    rdfs:label "Indian Academy of Sciences" .
+
+ex:Indian_Finance_Service a ex:Organization ;
+    rdfs:label "Indian Finance Service" .
+
+ex:Indian_Institute_of_Science a ex:Organization ;
+    rdfs:label "Indian Institute of Science" .
+
+ex:Institute_for_Nuclear_Studies a ex:Organization ;
+    rdfs:label "Institute for Nuclear Studies" .
+
+ex:Institute_of_Theoretical_Physics a ex:Organization ;
+    rdfs:label "Institute of Theoretical Physics" .
+
+ex:Ivar_Giaever a ex:Person ;
+    rdfs:label "Ivar Giaever" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1929 ;
+    ex:shared_prize_with ex:Brian_Josephson .
+
+ex:J__G__Veltman a ex:Person ;
+    rdfs:label "J. G. Veltman" .
+
+ex:J__Hans_D__Jensen a ex:Person ;
+    rdfs:label "J. Hans D. Jensen" .
+
+ex:J__Michael_Kosterlitz a ex:Person ;
+    rdfs:label "J. Michael Kosterlitz" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1943 ;
+    ex:shared_prize_with ex:David_Thouless,
+        ex:Duncan_Haldane ;
+    ex:worked_at ex:Brown_University .
+
+ex:Jack_Steinberger a ex:Person ;
+    rdfs:label "Jack Steinberger" ;
+    ex:award_received ex:Matteucci_Medal,
+        ex:Nobel_Prize_in_Physics,
+        ex:United_States_National_Medal_of_Science ;
+    ex:born_on ex:1921 ;
+    ex:worked_at ex:Columbia_University,
+        ex:University_of_California .
+
+ex:James_Franck a ex:Person ;
+    rdfs:label "James Franck" .
+
+ex:Jerome_Friedman a ex:Person ;
+    rdfs:label "Jerome Friedman" .
+
+ex:Jim_Peebles a ex:Person ;
+    rdfs:label "Jim Peebles" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1935 ;
+    ex:worked_at ex:Princeton_University .
+
+ex:John_Bardeen a ex:Person ;
+    rdfs:label "John Bardeen" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_in ex:Wisconsin ;
+    ex:born_on ex:1908 ;
+    ex:educated_at ex:Princeton_University,
+        ex:University_of_Wisconsin ;
+    ex:worked_at ex:Bell_Labs,
+        ex:University_of_Illinois .
+
+ex:John_C__Mather a ex:Person ;
+    rdfs:label "John C. Mather" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1946 ;
+    ex:shared_prize_with ex:George_Smoot ;
+    ex:worked_at ex:Omnibus_Appropriations,
+        ex:University_of_Maryland_College_of_Computer .
+
+ex:John_Clarke a ex:Person ;
+    rdfs:label "John Clarke" ;
+    ex:born_on ex:1942 ;
+    ex:worked_at ex:University_of_California__Berkeley .
+
+ex:John_Clauser a ex:Person ;
+    rdfs:label "John Clauser" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1942 ;
+    ex:shared_prize_with ex:Anton_Zeilinger ;
+    ex:worked_at ex:Bell .
+
+ex:John_Cockcroft a ex:Person ;
+    rdfs:label "John Cockcroft" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:educated_at ex:Manchester_Municipal_College_of_Technology,
+        ex:Metropolitan_Vickers_Trafford,
+        ex:Royal_Field_Artillery,
+        ex:Western_Front ;
+    ex:shared_prize_with ex:Ernest_Walton ;
+    ex:worked_at ex:Atomic_Energy_Research_Establishment,
+        ex:Ministry_of_Supply,
+        ex:Montreal_Laboratory .
+
+ex:John_L__Hall a ex:Person ;
+    rdfs:label "John L. Hall" .
+
+ex:John_M__Martinis a ex:Person ;
+    rdfs:label "John M. Martinis" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1958 ;
+    ex:shared_prize_with ex:Michel_Devoret ;
+    ex:worked_at ex:Quantum_AI_Lab,
+        ex:University_of_California .
+
+ex:John_Van_Vleck a ex:Person ;
+    rdfs:label "John Van Vleck" .
+
+ex:Johns_Hopkins_University a ex:Organization ;
+    rdfs:label "Johns Hopkins University" .
+
+ex:Joseph_Hooton_Taylor a ex:Person ;
+    rdfs:label "Joseph Hooton Taylor" .
+
+ex:KITP a ex:Organization ;
+    rdfs:label "KITP" .
+
+ex:Kaiser_Wilhelm_Institute_for_Medical_Research a ex:Organization ;
+    rdfs:label "Kaiser Wilhelm Institute for Medical Research" .
+
+ex:Kamerlingh_Onnes a ex:Organization ;
+    rdfs:label "Kamerlingh Onnes" .
+
+ex:Kamioka_Observatory___Kamiokande a ex:Organization ;
+    rdfs:label "Kamioka Observatory - Kamiokande" .
+
+ex:Kavli_Institute_for_Theoretical_Physics a ex:Organization ;
+    rdfs:label "Kavli Institute for Theoretical Physics" .
+
+ex:King_s_College_London a ex:Organization ;
+    rdfs:label "King's College London" .
+
+ex:Kingdom_of_Wurttemberg a ex:Place ;
+    rdfs:label "Kingdom of Württemberg" .
+
+ex:Klaus_Hasselmann a ex:Person ;
+    rdfs:label "Klaus Hasselmann" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1931 ;
+    ex:worked_at ex:Max_Planck_Institute_for_Meteorology,
+        ex:Scripps_Institution_of_Oceanography,
+        ex:University_of_Cambridge,
+        ex:University_of_Hamburg .
+
+ex:Kurt_Godel a ex:Person ;
+    rdfs:label "Kurt Gödel" .
+
+ex:LMU_Munich a ex:Organization ;
+    rdfs:label "LMU Munich" .
+
+ex:Laureate_Fellowship a ex:Award ;
+    rdfs:label "Laureate Fellowship" .
+
+ex:Lauren_B__Leichtman a ex:Organization ;
+    rdfs:label "Lauren B. Leichtman &" .
+
+ex:Lawrence_Award a ex:Award ;
+    rdfs:label "Lawrence Award" .
+
+ex:Lawrence_Livermore_National_Laboratory a ex:Organization ;
+    rdfs:label "Lawrence Livermore National Laboratory" .
+
+ex:Lawrence_Radiation_Laboratory a ex:Organization ;
+    rdfs:label "Lawrence Radiation Laboratory" .
+
+ex:Lebedev_Physical_Institute a ex:Organization ;
+    rdfs:label "Lebedev Physical Institute" .
+
+ex:Leon_Cooper a ex:Person ;
+    rdfs:label "Leon Cooper" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1930 .
+
+ex:Leon_M__Lederman a ex:Person ;
+    rdfs:label "Leon M. Lederman" ;
+    ex:award_received ex:Nobel_Prize_in_Physics,
+        ex:Wolf_Prize ;
+    ex:born_on ex:1922 ;
+    ex:shared_prize_with ex:Martin_Lewis_Perl ;
+    ex:worked_at ex:Fermi_National_Accelerator_Laboratory,
+        ex:Illinois_Mathematics_and_Science_Academy .
+
+ex:Lewis_Thomas_Prize a ex:Award ;
+    rdfs:label "Lewis Thomas Prize" .
+
+ex:Los_Alamos_Laboratory a ex:Organization ;
+    rdfs:label "Los Alamos Laboratory" .
+
+ex:Los_Alamos_National_Laboratory a ex:Organization ;
+    rdfs:label "Los Alamos National Laboratory" .
+
+ex:Louisiana_State_University a ex:Organization ;
+    rdfs:label "Louisiana State University" .
+
+ex:Lund_University a ex:Organization ;
+    rdfs:label "Lund University" .
+
+ex:MIT_Radiation_Laboratory a ex:Organization ;
+    rdfs:label "MIT Radiation Laboratory" .
+
+ex:Manchester_Municipal_College_of_Technology a ex:Organization ;
+    rdfs:label "Manchester Municipal College of Technology" .
+
+ex:Manhattan_Project_at_Columbia a ex:Organization ;
+    rdfs:label "Manhattan Project at Columbia" .
+
+ex:Maria_Goeppert_Mayer_Award a ex:Award ;
+    rdfs:label "Maria Goeppert-Mayer Award" .
+
+ex:Martin_Lewis_Perl a ex:Person ;
+    rdfs:label "Martin Lewis Perl" .
+
+ex:Martin_Ryle a ex:Person ;
+    rdfs:label "Martin Ryle" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1918 ;
+    ex:worked_at ex:Mullard_Radio_Astronomy_Observatory,
+        ex:University_of_Cambridge .
+
+ex:Matteucci_Medal a ex:Award ;
+    rdfs:label "Matteucci Medal" .
+
+ex:Max_Born a ex:Person ;
+    rdfs:label "Max Born" .
+
+ex:Max_Planck_Institut_fur_Quantenoptik a ex:Organization ;
+    rdfs:label "Max-Planck-Institut für Quantenoptik" .
+
+ex:Max_Planck_Institute_for_Meteorology a ex:Organization ;
+    rdfs:label "Max Planck Institute for Meteorology" .
+
+ex:Max_Planck_Institute_for_Physics a ex:Organization ;
+    rdfs:label "Max Planck Institute for Physics" .
+
+ex:Max_Planck_Institute_for_Physics_and_Astrophysics a ex:Organization ;
+    rdfs:label "Max Planck Institute for Physics and Astrophysics" .
+
+ex:Max_Planck_Institute_of_Quantum_Optics a ex:Organization ;
+    rdfs:label "Max Planck Institute of Quantum Optics" .
+
+ex:Metallurgical_Laboratory a ex:Organization ;
+    rdfs:label "Metallurgical Laboratory" .
+
+ex:Metropolitan_Vickers_Trafford a ex:Organization ;
+    rdfs:label "Metropolitan Vickers Trafford" .
+
+ex:Michel_Devoret a ex:Person ;
+    rdfs:label "Michel Devoret" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1953 ;
+    ex:shared_prize_with ex:John_Clarke,
+        ex:John_M__Martinis ;
+    ex:worked_at ex:Google_Quantum_AI,
+        ex:Quantum_Hardware,
+        ex:University_of_California,
+        ex:Yale_University .
+
+ex:Michigan_State_University a ex:Organization ;
+    rdfs:label "Michigan State University" .
+
+ex:Ministry_of_Supply a ex:Organization ;
+    rdfs:label "Ministry of Supply" .
+
+ex:Molecular_and_Cellular_Physiology a ex:Organization ;
+    rdfs:label "Molecular and Cellular Physiology" .
+
+ex:Montreal_Laboratory a ex:Organization ;
+    rdfs:label "Montreal Laboratory" .
+
+ex:Mullard_Radio_Astronomy_Observatory a ex:Organization ;
+    rdfs:label "Mullard Radio Astronomy Observatory" .
+
+ex:National_Bureau_of_Standards a ex:Organization ;
+    rdfs:label "National Bureau of Standards" .
+
+ex:National_Graphene_Institute a ex:Organization ;
+    rdfs:label "National Graphene Institute" .
+
+ex:National_Institute_of_Standards_and_Technology a ex:Organization ;
+    rdfs:label "National Institute of Standards and Technology" .
+
+ex:National_Research_Council a ex:Organization ;
+    rdfs:label "National Research Council" .
+
+ex:National_Scientific_Research_Centre a ex:Organization ;
+    rdfs:label "National Scientific Research Centre" .
+
+ex:Nicolaas_Bloembergen a ex:Person ;
+    rdfs:label "Nicolaas Bloembergen" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1920 ;
+    ex:shared_prize_with ex:Arthur_Schawlow,
+        ex:Kai_Siegbahn ;
+    ex:worked_at ex:Harvard_University .
+
+ex:Niels_Bohr_Institute a ex:Organization ;
+    rdfs:label "Niels Bohr Institute" .
+
+ex:Nobel_Laureate a ex:Organization ;
+    rdfs:label "Nobel Laureate" .
+
+ex:Nobel_Prize_in a ex:Award ;
+    rdfs:label "Nobel Prize in" .
+
+ex:Nobel_Prize_in_Chemistry a ex:Award ;
+    rdfs:label "Nobel Prize in Chemistry" .
+
+ex:Nobel_Prize_in_Physics_2018 a ex:Award ;
+    rdfs:label "Nobel Prize in Physics 2018" .
+
+ex:Nobel_Prize_in_Physics_along a ex:Award ;
+    rdfs:label "Nobel Prize in Physics along" .
+
+ex:Nobel_Prize_in_Physics_for_a a ex:Award ;
+    rdfs:label "Nobel Prize in Physics for a" .
+
+ex:Nobel_Prize_in_Physics_with_Ilya_Frank_and_Igor_Tamm a ex:Award ;
+    rdfs:label "Nobel Prize in Physics with Ilya Frank and Igor Tamm" .
+
+ex:Office_of_Defense_Mobilization a ex:Organization ;
+    rdfs:label "Office of Defense Mobilization" .
+
+ex:Ohio_State_University a ex:Organization ;
+    rdfs:label "Ohio State University" .
+
+ex:Operation_Greenhouse a ex:Organization ;
+    rdfs:label "Operation Greenhouse" .
+
+ex:Paris_Center_for_Cosmological_Physics a ex:Organization ;
+    rdfs:label "Paris Center for Cosmological Physics" .
+
+ex:Paris_Saclay_University a ex:Organization ;
+    rdfs:label "Paris-Saclay University" .
+
+ex:Peter_Grunberg a ex:Person ;
+    rdfs:label "Peter Grünberg" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1939 .
+
+ex:PhET_Interactive_Simulations a ex:Organization ;
+    rdfs:label "PhET Interactive Simulations" .
+
+ex:Phi_Beta_Kappa_Award_in_Science a ex:Award ;
+    rdfs:label "Phi Beta Kappa Award in Science" .
+
+ex:Philip_W__Anderson a ex:Person ;
+    rdfs:label "Philip W. Anderson" .
+
+ex:Physical_Measurement_Laboratory a ex:Organization ;
+    rdfs:label "Physical Measurement Laboratory" .
+
+ex:Physics_Institute a ex:Organization ;
+    rdfs:label "Physics Institute" .
+
+ex:Physics_Laboratory a ex:Organization ;
+    rdfs:label "Physics Laboratory" .
+
+ex:Pierre_Agostini a ex:Person ;
+    rdfs:label "Pierre Agostini" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1941 ;
+    ex:worked_at ex:Ohio_State_University .
+
+ex:Pieter_Zeeman a ex:Person ;
+    rdfs:label "Pieter Zeeman" .
+
+ex:Presidential_Advisory_Committee a ex:Organization ;
+    rdfs:label "Presidential Advisory Committee" .
+
+ex:Prize a ex:Person ;
+    rdfs:label "Prize" ;
+    ex:award_received ex:Prize ;
+    ex:shared_prize_with ex:John_Van_Vleck,
+        ex:Philip_W__Anderson .
+
+ex:Prussian_Academy_of_Sciences a ex:Organization ;
+    rdfs:label "Prussian Academy of Sciences" .
+
+ex:Quantrell_Award a ex:Award ;
+    rdfs:label "Quantrell Award" .
+
+ex:Quantum_AI_Lab a ex:Organization ;
+    rdfs:label "Quantum AI Lab" .
+
+ex:Quantum_Hardware a ex:Organization ;
+    rdfs:label "Quantum Hardware" .
+
+ex:Rajabazar_Science_College a ex:Organization ;
+    rdfs:label "Rajabazar Science College" .
+
+ex:Raman_Research_Institute a ex:Organization ;
+    rdfs:label "Raman Research Institute" .
+
+ex:Raymond_Davis_Jr a ex:Person ;
+    rdfs:label "Raymond Davis Jr",
+        "Raymond Davis Jr." ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1914 .
+
+ex:Research_Fellowship a ex:Award ;
+    rdfs:label "Research Fellowship" .
+
+ex:Richard_Chace a ex:Organization ;
+    rdfs:label "Richard Chace" .
+
+ex:Richard_Taylor a ex:Person ;
+    rdfs:label "Richard Taylor" .
+
+ex:Robert_B__Laughlin a ex:Person ;
+    rdfs:label "Robert B. Laughlin" .
+
+ex:Robert_Hofstadter a ex:Person ;
+    rdfs:label "Robert Hofstadter" .
+
+ex:Rome a ex:Place ;
+    rdfs:label "Rome" .
+
+ex:Roy_J__Glauber a ex:Person ;
+    rdfs:label "Roy J. Glauber" .
+
+ex:Royal_Field_Artillery a ex:Organization ;
+    rdfs:label "Royal Field Artillery" .
+
+ex:Royal_Society a ex:Organization ;
+    rdfs:label "Royal Society" .
+
+ex:Royal_Society_Research a ex:Organization ;
+    rdfs:label "Royal Society Research" .
+
+ex:Royal_Society_Science_Book_Prize_for_The_Emperor a ex:Award ;
+    rdfs:label "Royal Society Science Book Prize for The Emperor" .
+
+ex:Russell_Alan_Hulse a ex:Person ;
+    rdfs:label "Russell Alan Hulse" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1950 ;
+    ex:shared_prize_with ex:Joseph_Hooton_Taylor .
+
+ex:Russian_Academy_of_Sciences a ex:Organization ;
+    rdfs:label "Russian Academy of Sciences" .
+
+ex:Russian_Empire a ex:Place ;
+    rdfs:label "Russian Empire" .
+
+ex:Russian_Jewish_Congress a ex:Organization ;
+    rdfs:label "Russian Jewish Congress" .
+
+ex:Rymanow a ex:Place ;
+    rdfs:label "Rymanów" .
+
+ex:STEM a ex:Organization ;
+    rdfs:label "STEM" .
+
+ex:Sancellemoz a ex:Place ;
+    rdfs:label "Sancellemoz" .
+
+ex:Saul_Perlmutter a ex:Person ;
+    rdfs:label "Saul Perlmutter" .
+
+ex:School_of_Physics a ex:Organization ;
+    rdfs:label "School of Physics" .
+
+ex:Scripps_Institution_of_Oceanography a ex:Organization ;
+    rdfs:label "Scripps Institution of Oceanography" .
+
+ex:Serge_Haroche a ex:Person ;
+    rdfs:label "Serge Haroche" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1944 ;
+    ex:educated_at ex:University_of_Paris_VI ;
+    ex:shared_prize_with ex:David_J__Wineland ;
+    ex:worked_at ex:College_de_France,
+        ex:University_of_Rome_La_Sapienza .
+
+ex:Shanghai_Jiao_Tong_University a ex:Organization ;
+    rdfs:label "Shanghai Jiao Tong University" .
+
+ex:Shaw_Prize a ex:Award ;
+    rdfs:label "Shaw Prize" .
+
+ex:Sherman_Fairchild_University a ex:Organization ;
+    rdfs:label "Sherman Fairchild University" .
+
+ex:Society_for_Science___the_Public a ex:Organization ;
+    rdfs:label "Society for Science & the Public" .
+
+ex:St_Aloysius a ex:Organization ;
+    rdfs:label "St Aloysius" .
+
+ex:Stanford_Graduate_School_of_Education a ex:Organization ;
+    rdfs:label "Stanford Graduate School of Education" .
+
+ex:Stanford_Linear_Accelerator_Center a ex:Organization ;
+    rdfs:label "Stanford Linear Accelerator Center" .
+
+ex:Stanford_University_School_of_Engineering a ex:Organization ;
+    rdfs:label "Stanford University School of Engineering" .
+
+ex:State_Duma a ex:Organization ;
+    rdfs:label "State Duma" .
+
+ex:Stephen_Hawking a ex:Person ;
+    rdfs:label "Stephen Hawking" .
+
+ex:Stockholm_University a ex:Organization ;
+    rdfs:label "Stockholm University" .
+
+ex:Stony_Brook_University a ex:Organization ;
+    rdfs:label "Stony Brook University" .
+
+ex:Sudbury_Neutrino_Observatory_Collaboration a ex:Organization ;
+    rdfs:label "Sudbury Neutrino Observatory Collaboration" .
+
+ex:Swiss_Patent_Office a ex:Organization ;
+    rdfs:label "Swiss Patent Office" .
+
+ex:T__D__Lee_Institute a ex:Organization ;
+    rdfs:label "T. D. Lee Institute" .
+
+ex:Takaaki_Kajita a ex:Person ;
+    rdfs:label "Takaaki Kajita" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1959 ;
+    ex:shared_prize_with ex:Arthur_B__McDonald ;
+    ex:worked_at ex:Kamioka_Observatory___Kamiokande .
+
+ex:Templeton_Prize a ex:Award ;
+    rdfs:label "Templeton Prize" .
+
+ex:Texas_A_M_University a ex:Organization ;
+    rdfs:label "Texas A&M University" .
+
+ex:Texas_Instruments a ex:Organization ;
+    rdfs:label "Texas Instruments" .
+
+ex:Thales_Group a ex:Organization ;
+    rdfs:label "Thales Group" .
+
+ex:Theoretical_Division a ex:Organization ;
+    rdfs:label "Theoretical Division" .
+
+ex:Tivoli a ex:Place ;
+    rdfs:label "Tivoli" .
+
+ex:Trinity_College a ex:Organization ;
+    rdfs:label "Trinity College" .
+
+ex:Trinity_College_Dublin a ex:Organization ;
+    rdfs:label "Trinity College Dublin" .
+
+ex:Tsung_Dao_Lee a ex:Person ;
+    rdfs:label "Tsung-Dao Lee" .
+
+ex:Unite_mixte_de_recherche a ex:Organization ;
+    rdfs:label "Unité mixte de recherche" .
+
+ex:United_States_National_Medal_of_Science a ex:Award ;
+    rdfs:label "United States National Medal of Science" .
+
+ex:University a ex:Organization ;
+    rdfs:label "University" .
+
+ex:University_College_London a ex:Organization ;
+    rdfs:label "University College London" .
+
+ex:University_of_Amsterdam a ex:Organization ;
+    rdfs:label "University of Amsterdam" .
+
+ex:University_of_Bristol a ex:Organization ;
+    rdfs:label "University of Bristol" .
+
+ex:University_of_Calcutta a ex:Organization ;
+    rdfs:label "University of Calcutta" .
+
+ex:University_of_California__Riverside a ex:Organization ;
+    rdfs:label "University of California, Riverside" .
+
+ex:University_of_Copenhagen a ex:Organization ;
+    rdfs:label "University of Copenhagen" .
+
+ex:University_of_Giessen a ex:Organization ;
+    rdfs:label "University of Giessen" .
+
+ex:University_of_Hamburg a ex:Organization ;
+    rdfs:label "University of Hamburg" .
+
+ex:University_of_Illinois a ex:Organization ;
+    rdfs:label "University of Illinois" .
+
+ex:University_of_Illinois_Urbana_Champaign a ex:Organization ;
+    rdfs:label "University of Illinois Urbana-Champaign" .
+
+ex:University_of_Liverpool a ex:Organization ;
+    rdfs:label "University of Liverpool" .
+
+ex:University_of_Manchester a ex:Organization ;
+    rdfs:label "University of Manchester" .
+
+ex:University_of_Maryland_College_of_Computer a ex:Organization ;
+    rdfs:label "University of Maryland College of Computer" .
+
+ex:University_of_Oxford a ex:Organization ;
+    rdfs:label "University of Oxford" .
+
+ex:University_of_Palermo a ex:Organization ;
+    rdfs:label "University of Palermo" .
+
+ex:University_of_Paris_VI a ex:Organization ;
+    rdfs:label "University of Paris VI" .
+
+ex:University_of_Rome a ex:Organization ;
+    rdfs:label "University of Rome" .
+
+ex:University_of_Tokyo a ex:Organization ;
+    rdfs:label "University of Tokyo" .
+
+ex:University_of_Waterloo a ex:Organization ;
+    rdfs:label "University of Waterloo" .
+
+ex:University_of_Wisconsin a ex:Organization ;
+    rdfs:label "University of Wisconsin" .
+
+ex:University_of_Wisconsin_Madison a ex:Organization ;
+    rdfs:label "University of Wisconsin-Madison" .
+
+ex:Val_Logsdon_Fitch a ex:Person ;
+    rdfs:label "Val Logsdon Fitch" .
+
+ex:Victoria_University_of_Manchester a ex:Organization ;
+    rdfs:label "Victoria University of Manchester" .
+
+ex:Wadham_College a ex:Organization ;
+    rdfs:label "Wadham College" .
+
+ex:Warsaw a ex:Place ;
+    rdfs:label "Warsaw" .
+
+ex:Washington a ex:Place ;
+    rdfs:label "Washington" .
+
+ex:Wilczek_Quantum_Center a ex:Organization ;
+    rdfs:label "Wilczek Quantum Center" .
+
+ex:Willard_Boyle a ex:Person ;
+    rdfs:label "Willard Boyle" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1924 ;
+    ex:shared_prize_with ex:George_E__Smith .
+
+ex:William_Daniel_Phillips a ex:Person ;
+    rdfs:label "William Daniel Phillips" .
+
+ex:William_Shockley a ex:Person ;
+    rdfs:label "William Shockley" ;
+    ex:born_on ex:1910 ;
+    ex:worked_at ex:Stanford_University .
+
+ex:Wisconsin a ex:Place ;
+    rdfs:label "Wisconsin" .
+
+ex:Wolf_Prize_in_Physics a ex:Award ;
+    rdfs:label "Wolf Prize in Physics" .
+
+ex:Wolfgang_Ketterle a ex:Person ;
+    rdfs:label "Wolfgang Ketterle" .
+
+ex:Yale_University a ex:Organization ;
+    rdfs:label "Yale University" .
+
+ex:Yidan_Prize_in_Education_Research a ex:Award ;
+    rdfs:label "Yidan Prize in Education Research" .
+
+ex:Zhores_Alferov a ex:Person ;
+    rdfs:label "Zhores Alferov" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1930 ;
+    ex:worked_at ex:Communist_Party,
+        ex:State_Duma .
+
+ex:attosecond_physics_group a ex:Organization ;
+    rdfs:label "attosecond physics group" .
+
+ex:physics_department a ex:Organization ;
+    rdfs:label "physics department" .
+
+ex:1853 a ex:Year ;
+    rdfs:label "1853" .
+
+ex:1879 a ex:Year ;
+    rdfs:label "1879" .
+
+ex:1888 a ex:Year ;
+    rdfs:label "1888" .
+
+ex:1891 a ex:Year ;
+    rdfs:label "1891" .
+
+ex:1905 a ex:Year ;
+    rdfs:label "1905" .
+
+ex:1911 a ex:Year ;
+    rdfs:label "1911" .
+
+ex:1916 a ex:Year ;
+    rdfs:label "1916" .
+
+ex:1924 a ex:Year ;
+    rdfs:label "1924" .
+
+ex:1925 a ex:Year ;
+    rdfs:label "1925" .
+
+ex:1926 a ex:Year ;
+    rdfs:label "1926" .
+
+ex:1928 a ex:Year ;
+    rdfs:label "1928" .
+
+ex:1933 a ex:Year ;
+    rdfs:label "1933" .
+
+ex:1938 a ex:Year ;
+    rdfs:label "1938" .
+
+ex:1939 a ex:Year ;
+    rdfs:label "1939" .
+
+ex:1942 a ex:Year ;
+    rdfs:label "1942" .
+
+ex:1945 a ex:Year ;
+    rdfs:label "1945" .
+
+ex:1959 a ex:Year ;
+    rdfs:label "1959" .
+
+ex:Abdus_Salam a ex:Person ;
+    rdfs:label "Abdus Salam" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1926 ;
+    ex:shared_prize_with ex:Sheldon_Glashow,
+        ex:Steven_Weinberg .
+
+ex:Alexander_Prokhorov a ex:Person ;
+    rdfs:label "Alexander Prokhorov" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1916 ;
+    ex:shared_prize_with ex:Charles_Hard_Townes,
+        ex:Nikolay_Basov .
+
+ex:Anton_Zeilinger a ex:Person ;
+    rdfs:label "Anton Zeilinger" .
+
+ex:Bell a ex:Organization ;
+    rdfs:label "Bell" .
+
+ex:Bell_Labs a ex:Organization ;
+    rdfs:label "Bell Labs" .
+
+ex:Brian_Josephson a ex:Person ;
+    rdfs:label "Brian Josephson" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1940 ;
+    ex:worked_at ex:University_of_Cambridge .
+
+ex:California_Institute_of_Technology a ex:Organization ;
+    rdfs:label "California Institute of Technology" .
+
+ex:Charles_Hard_Townes a ex:Person ;
+    rdfs:label "Charles Hard Townes" .
+
+ex:Columbia_University a ex:Organization ;
+    rdfs:label "Columbia University" .
+
+ex:David_Lee a ex:Person ;
+    rdfs:label "David Lee" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1931 ;
+    ex:shared_prize_with ex:Douglas_Osheroff,
+        ex:Robert_C__Richardson ;
+    ex:worked_at ex:Cornell_University,
+        ex:Texas_A_M_University .
+
+ex:Douglas_Osheroff a ex:Person ;
+    rdfs:label "Douglas Osheroff" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1945 ;
+    ex:shared_prize_with ex:David_Lee,
+        ex:Robert_C__Richardson ;
+    ex:worked_at ex:Stanford_University .
+
+ex:Ernest_Orlando_Lawrence_Award a ex:Award ;
+    rdfs:label "Ernest Orlando Lawrence Award" .
+
+ex:Frank_Wilczek a ex:Person ;
+    rdfs:label "Frank Wilczek" ;
+    ex:award_received ex:Nobel_Prize_in_Physics,
+        ex:Templeton_Prize ;
+    ex:born_on ex:1951 ;
+    ex:shared_prize_with ex:David_Gross,
+        ex:H__David_Politzer ;
+    ex:worked_at ex:Arizona_State_University,
+        ex:MIT,
+        ex:Massachusetts_Institute_of_Technology,
+        ex:Shanghai_Jiao_Tong_University,
+        ex:Stockholm_University,
+        ex:T__D__Lee_Institute,
+        ex:Wilczek_Quantum_Center .
+
+ex:Harvard_University a ex:Organization ;
+    rdfs:label "Harvard University" .
+
+ex:Henry_Kendall a ex:Person ;
+    rdfs:label "Henry Kendall" .
+
+ex:Hiroshi_Amano a ex:Person ;
+    rdfs:label "Hiroshi Amano" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1960 ;
+    ex:shared_prize_with ex:Isamu_Akasaki,
+        ex:Shuji_Nakamura .
+
+ex:Isamu_Akasaki a ex:Person ;
+    rdfs:label "Isamu Akasaki" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1929 ;
+    ex:shared_prize_with ex:Hiroshi_Amano,
+        ex:Shuji_Nakamura .
+
+ex:Julian_Schwinger a ex:Person ;
+    rdfs:label "Julian Schwinger" ;
+    ex:award_received ex:Albert_Einstein_Award,
+        ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1918 ;
+    ex:shared_prize_with ex:Kurt_Godel,
+        ex:Richard_Feynman ;
+    ex:worked_at ex:QED .
+
+ex:Kai_Siegbahn a ex:Person ;
+    rdfs:label "Kai Siegbahn" .
+
+ex:Kaiser_Wilhelm_Institute_for_Physics a ex:Organization ;
+    rdfs:label "Kaiser Wilhelm Institute for Physics" .
+
+ex:Kip_Thorne a ex:Person ;
+    rdfs:label "Kip Thorne" ;
+    ex:award_received ex:Lewis_Thomas_Prize,
+        ex:Nobel_Prize_in_Physics,
+        ex:Phi_Beta_Kappa_Award_in_Science ;
+    ex:born_on ex:1940 ;
+    ex:shared_prize_with ex:Barry_C__Barish,
+        ex:Rainer_Weiss .
+
+ex:Lawrence_Berkeley_National_Laboratory a ex:Organization ;
+    rdfs:label "Lawrence Berkeley National Laboratory" .
+
+ex:National_Medal_of_Science a ex:Award ;
+    rdfs:label "National Medal of Science" .
+
+ex:Nikolay_Basov a ex:Person ;
+    rdfs:label "Nikolay Basov" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1922 ;
+    ex:shared_prize_with ex:Alexander_Prokhorov,
+        ex:Charles_Hard_Townes .
+
+ex:Omnibus_Appropriations a ex:Organization ;
+    rdfs:label "Omnibus Appropriations" .
+
+ex:Radiation_Laboratory a ex:Organization ;
+    rdfs:label "Radiation Laboratory" .
+
+ex:Rainer_Weiss a ex:Person ;
+    rdfs:label "Rainer Weiss" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1932 ;
+    ex:shared_prize_with ex:Barry_Barish,
+        ex:Kip_Thorne ;
+    ex:worked_at ex:Louisiana_State_University,
+        ex:Massachusetts_Institute_of_Technology .
+
+ex:Richard_Feynman a ex:Person ;
+    rdfs:label "Richard Feynman" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1918 ;
+    ex:shared_prize_with ex:Julian_Schwinger ;
+    ex:worked_at ex:QED .
+
+ex:Robert_C__Richardson a ex:Person ;
+    rdfs:label "Robert C. Richardson" .
+
+ex:Sheldon_Glashow a ex:Person ;
+    rdfs:label "Sheldon Glashow" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1932 ;
+    ex:shared_prize_with ex:Abdus_Salam,
+        ex:Steven_Weinberg ;
+    ex:worked_at ex:Boston_University,
+        ex:Harvard_University .
+
+ex:Shuji_Nakamura a ex:Person ;
+    rdfs:label "Shuji Nakamura" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1954 ;
+    ex:shared_prize_with ex:Hiroshi_Amano,
+        ex:Isamu_Akasaki ;
+    ex:worked_at ex:UCSB,
+        ex:University_of_California .
+
+ex:St_John_s_College a ex:Organization ;
+    rdfs:label "St John's College" .
+
+ex:Steven_Weinberg a ex:Person ;
+    rdfs:label "Steven Weinberg" ;
+    ex:award_received ex:Nobel_Prize_in_Physics ;
+    ex:born_on ex:1933 ;
+    ex:shared_prize_with ex:Abdus_Salam,
+        ex:Sheldon_Glashow .
+
+ex:UCSB a ex:Organization ;
+    rdfs:label "UCSB" .
+
+ex:University_of_Hong_Kong a ex:Organization ;
+    rdfs:label "University of Hong Kong" .
+
+ex:University_of_Rome_La_Sapienza a ex:Organization ;
+    rdfs:label "University of Rome La Sapienza" .
+
+ex:Western_Front a ex:Organization ;
+    rdfs:label "Western Front" .
+
+ex:1892 a ex:Year ;
+    rdfs:label "1892" .
+
+ex:1901 a ex:Year ;
+    rdfs:label "1901" .
+
+ex:1902 a ex:Year ;
+    rdfs:label "1902" .
+
+ex:1908 a ex:Year ;
+    rdfs:label "1908" .
+
+ex:1921 a ex:Year ;
+    rdfs:label "1921" .
+
+ex:1932 a ex:Year ;
+    rdfs:label "1932" .
+
+ex:1936 a ex:Year ;
+    rdfs:label "1936" .
+
+ex:1940 a ex:Year ;
+    rdfs:label "1940" .
+
+ex:1943 a ex:Year ;
+    rdfs:label "1943" .
+
+ex:1951 a ex:Year ;
+    rdfs:label "1951" .
+
+ex:1958 a ex:Year ;
+    rdfs:label "1958" .
+
+ex:Atomic_Energy_Commission a ex:Organization ;
+    rdfs:label "Atomic Energy Commission" .
+
+ex:Cavendish_Laboratory a ex:Organization ;
+    rdfs:label "Cavendish Laboratory" .
+
+ex:Cornell_University a ex:Organization ;
+    rdfs:label "Cornell University" .
+
+ex:General_Advisory_Committee a ex:Organization ;
+    rdfs:label "General Advisory Committee" .
+
+ex:MIT a ex:Organization ;
+    rdfs:label "MIT" .
+
+ex:QED a ex:Organization ;
+    rdfs:label "QED" .
+
+ex:Wolf_Prize a ex:Award ;
+    rdfs:label "Wolf Prize" .
+
+ex:1906 a ex:Year ;
+    rdfs:label "1906" .
+
+ex:1929 a ex:Year ;
+    rdfs:label "1929" .
+
+ex:1930 a ex:Year ;
+    rdfs:label "1930" .
+
+ex:1941 a ex:Year ;
+    rdfs:label "1941" .
+
+ex:1944 a ex:Year ;
+    rdfs:label "1944" .
+
+ex:1918 a ex:Year ;
+    rdfs:label "1918" .
+
+ex:1922 a ex:Year ;
+    rdfs:label "1922" .
+
+ex:Massachusetts_Institute_of_Technology a ex:Organization ;
+    rdfs:label "Massachusetts Institute of Technology" .
+
+ex:Princeton_University a ex:Organization ;
+    rdfs:label "Princeton University" .
+
+ex:Stanford_University a ex:Organization ;
+    rdfs:label "Stanford University" .
+
+ex:University_of_California__Berkeley a ex:Organization ;
+    rdfs:label "University of California, Berkeley" .
+
+ex:University_of_Chicago a ex:Organization ;
+    rdfs:label "University of Chicago" .
+
+ex:University_of_California a ex:Organization ;
+    rdfs:label "University of California" .
+
+ex:University_of_Cambridge a ex:Organization ;
+    rdfs:label "University of Cambridge" .
+
+ex:1931 a ex:Year ;
+    rdfs:label "1931" .
+
+ex:Manhattan_Project a ex:Organization ;
+    rdfs:label "Manhattan Project" .
+
+ex:Nobel_Prize_in_Physics a ex:Award ;
+    rdfs:label "Nobel Prize in Physics" .
+

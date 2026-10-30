@@ -1,0 +1,19 @@
+# environnement
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# données téléchargées par src/data_collection.py (licence Reuters : ne pas redistribuer)
+data/raw/conll2003/
+
+# modèle CRF régénéré automatiquement (~quelques Mo)
+data/processed/crf_conll.pkl
+
+# fichiers de test
+outputs/kg/test*
+
+# sujet du professeur
+*.pdf
+!report/rapport.pdf
+report/rapport.html

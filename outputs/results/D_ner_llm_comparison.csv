@@ -1,0 +1,5 @@
+modèle,précision,rappel,F1,JSON valide,temps / phrase (s)
+Règles (EntityRuler),0.814,0.52,0.635,,0.0014
+spaCy en_core_web_sm,0.7,0.623,0.659,,0.0035
+CRF (sklearn-crfsuite),0.837,0.82,0.828,,0.0002
+LLM Qwen2.5-1.5B-Instruct,0.356,0.193,0.25,100%,8.78

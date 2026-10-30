@@ -1,0 +1,4 @@
+model,precision,recall,f1,time_s
+Règles (EntityRuler),0.751,0.518,0.613,4.9
+spaCy en_core_web_sm,0.656,0.545,0.595,12.0
+CRF (sklearn-crfsuite),0.821,0.808,0.814,0.5

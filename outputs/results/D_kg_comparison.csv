@@ -1,0 +1,13 @@
+,Approche classique (spaCy + dépendances),"LLM (Qwen2.5-1.5B-Instruct, CPU)"
+triplets,699,829
+entités (nœuds),492,585
+précision vs Wikidata,0.753,0.544
+rappel (faits dans le texte),0.762,0.636
+F1,0.757,0.586
+ancrage dans le texte,1.0,0.89
+sortie conforme au schéma,100 % (par construction),"JSON valide 146/150, clés hors schéma : 0, valeurs « Not mentioned » : 9"
+temps total (s),2.5,4315.7
+matériel / coût,"CPU, ~15 Mo de modèle","CPU, ~3 Go de modèle"
+explicabilité,phrase + mot déclencheur,aucune (boîte noire)
+"triplets communs (même doc, relation, objet)",411,411
+Jaccard entre les deux KG,0.368,0.368

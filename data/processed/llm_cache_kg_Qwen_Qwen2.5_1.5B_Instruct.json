@@ -1,0 +1,602 @@
+{
+ "Q153210": {
+  "raw": "{\"born_in\": [\"Germany\"], \"born_on\": [\"May 25, 1921\"], \"died_in\": [\"United States\"], \"educated_at\": [\"University of California, Berkeley\"], \"worked_at\": [\"Columbia University\", \"CERN\"], \"award_received\": [\"Nobel Prize in Physics\", \"National Medal of Science\", \"Matteucci Medal\"], \"shared_prize_with\": [\"Leon M. Lederman\", \"Melvin Schwartz\"]}",
+  "seconds": 30.63
+ },
+ "Q189990": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Eddington Medal of the Royal Astronomical Society\", \"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Martin Ryle\"]}",
+  "seconds": 23.3
+ },
+ "Q107407": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"August 31, 1949\"], \"died_in\": [], \"educated_at\": [\"Not mentioned\"], \"worked_at\": [\"California Institute of Technology\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"David Gross\", \"Frank Wilczek\"]}",
+  "seconds": 24.31
+ },
+ "Q20942818": {
+  "raw": "{\"born_in\": [\"Belgium\"], \"born_on\": [\"23 March 1944\"], \"died_in\": [], \"educated_at\": [\"Catholic University of Leuven\"], \"worked_at\": [\"CERN\", \"University of Wisconsin-Madison\"], \"award_received\": [\"Nobel Prize in Physics\", \"IceCube Neutrino Observatory Principal Investigator\"], \"shared_prize_with\": []}",
+  "seconds": 28.41
+ },
+ "Q730065": {
+  "raw": "{\n  \"born_in\": [\"Japan\"],\n  \"born_on\": [\"May 22, 1954\"],\n  \"died_in\": [],\n  \"educated_at\": [\"University of California, Santa Barbara\"],\n  \"worked_at\": [\"University of California, Santa Barbara\"],\n  \"award_received\": [\"Nobel Prize in Physics\"],\n  \"shared_prize_with\": [\"Isamu Akasaki and Hiroshi Amano\"]\n}",
+  "seconds": 29.93
+ },
+ "Q7085": {
+  "raw": "{\"born_in\": [\"Denmark\"], \"born_on\": [\"7 October 1885\"], \"died_in\": [\"Sweden\"], \"educated_at\": [\"University of Copenhagen\"], \"worked_at\": [\"Institute of Theoretical Physics at the University of Copenhagen\", \"Niels Bohr Institute\", \"Risø Laboratory\", \"British Tube Alloys nuclear weapons project\", \"Research Establishment Risø of the Danish Atomic Energy Commission\", \"Nordic Institute for Theoretical Physics\"], \"award_received\": [\"Nobel Prize in Physics\", \"Dirac Medal\", \"Bohrium\", \"Fourth Greatest Physicist of All Time\"], \"shared_prize_with\": []}",
+  "seconds": 48.63
+ },
+ "Q201853": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"January 20, 1931\"], \"died_in\": [], \"educated_at\": [\"Cornell University\", \"Texas A&M University\"], \"worked_at\": [\"Cornell University\", \"Texas A&M University\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Robert C. Richardson\", \"Douglas Osheroff\"]}",
+  "seconds": 26.22
+ },
+ "Q7186": {
+  "raw": "{\n  \"born_in\": [\"Warsaw, Russian Empire\"],\n  \"born_on\": [\"7 November 1867\"],\n  \"died_in\": [\"Passy, Haute-Savoie, France\"],\n  \"educated_at\": [\"Flying University\", \"University of Paris\"],\n  \"worked_at\": [\"Curie Institute in Paris\", \"Curie Institute in Warsaw\"],\n  \"award_received\": [\n    \"Nobel Prize in Physics\",\n    \"Nobel Prize in Chemistry\"\n  ],\n  \"shared_prize_with\": [\"Pierre Curie\"]\n}",
+  "seconds": 45.68
+ },
+ "Q181369": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"Princeton University\"], \"worked_at\": [\"Yale University\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Tsung-Dao Lee\"]}",
+  "seconds": 23.81
+ },
+ "Q57227": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Hans Georg Dehmelt\"]}",
+  "seconds": 19.32
+ },
+ "Q153219": {
+  "raw": "{\"born_in\": [\"Paris\"], \"born_on\": [\"7 March 1938\"], \"died_in\": [], \"educated_at\": [\"Paris-Saclay University\"], \"worked_at\": [\"Centre national de la recherche scientifique (National Scientific Research Centre)\", \"Thales Group\", \"Michigan State University\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Peter Grünberg\"]}",
+  "seconds": 26.91
+ },
+ "Q130975": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [\"Caltech\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 20.06
+ },
+ "Q70532": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Wolfgang Paul\"]}",
+  "seconds": 19.12
+ },
+ "Q57100": {
+  "raw": "{\n  \"born_in\": [],\n  \"born_on\": [],\n  \"died_in\": [],\n  \"educated_at\": [\"University of Göttingen\"],\n  \"worked_at\": [\n    \"Columbia University\",\n    \"Los Alamos Laboratory\",\n    \"Manhattan Project\",\n    \"Argonne National Laboratory\"\n  ],\n  \"award_received\": [\n    \"Nobel Prize in Physics\"\n  ],\n  \"shared_prize_with\": []\n}",
+  "seconds": 36.33
+ },
+ "Q61045": {
+  "raw": "{\n  \"born_in\": [],\n  \"born_on\": [\"February 24, 1944\"],\n  \"died_in\": [],\n  \"educated_at\": [],\n  \"worked_at\": [\n    \"Physical Measurement Laboratory of the National Institute of Standards and Technology (NIST)\"\n  ],\n  \"award_received\": [\n    \"Nobel Prize in Physics\"\n  ],\n  \"shared_prize_with\": [\n    \"Serge Haroche\"\n  ]\n}",
+  "seconds": 27.78
+ },
+ "Q71024": {
+  "raw": "{\"born_in\": [\"Mittelmark\"], \"born_on\": [\"28 June 1943\"], \"died_in\": [], \"educated_at\": [\"Oldenburg\"], \"worked_at\": [\"Essen\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 22.61
+ },
+ "Q192703": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\", \"Stalin prize\", \"Soviet state prize\"], \"shared_prize_with\": []}",
+  "seconds": 20.95
+ },
+ "Q189987": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"March 11, 1920\"], \"died_in\": [\"September 5, 2017\"], \"educated_at\": [\"Harvard University\", \"University of Arizona\", \"Leiden University\"], \"worked_at\": [\"Harvard University\", \"University of Arizona\", \"Leiden University\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Arthur Schawlow\", \"Kai Siegbahn\"]}",
+  "seconds": 32.02
+ },
+ "Q2128461": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"Massachusetts Institute of Technology\", \"Louisiana State University\"], \"worked_at\": [\"Massachusetts Institute of Technology\", \"Fermilab\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Kip Thorne\", \"Barry Barish\"]}",
+  "seconds": 27.45
+ },
+ "Q104104": {
+  "raw": "{\"born_in\": [\"Russia\"], \"born_on\": [\"21 October 1958\"], \"died_in\": [], \"educated_at\": [\"School of Physics and Astronomy at the University of Manchester\"], \"worked_at\": [\"National Graphene Institute\", \"Regius Professor of Physics and Royal Society Research Professor at the National Graphene Institute\"], \"award_received\": [\"Nobel Prize in Physics\", \"Ig Nobel Prize\"], \"shared_prize_with\": [\"Konstantin Novoselov\"]}",
+  "seconds": 34.41
+ },
+ "Q86970": {
+  "raw": "{\n  \"born_in\": [\"Hungary\"],\n  \"born_on\": [\"17 May 1962\"],\n  \"died_in\": [],\n  \"educated_at\": [\"Max Planck Institute of Quantum Optics\", \"LMU Munich\"],\n  \"worked_at\": [\"Department of Physics at the University of Hong Kong, Pokfulam, Hong Kong\"],\n  \"award_received\": [\"Nobel Prize in Physics\"],\n  \"shared_prize_with\": [\"Pierre Agostini\", \"Anne L'Huillier\"]\n}",
+  "seconds": 32.7
+ },
+ "Q57120": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"Universität Heidelberg\"], \"worked_at\": [\"Max Planck Institute for Solid State Research\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 26.34
+ },
+ "Q189485": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"University College London\"], \"worked_at\": [\"University College London\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Philip W. Anderson\", \"John Van Vleck\"]}",
+  "seconds": 22.62
+ },
+ "Q83552": {
+  "raw": "{\"born_in\": [\"Australia\"], \"born_on\": [\"11 July 1916\"], \"died_in\": [\"Russia\"], \"educated_at\": [\"Soviet Union\"], \"worked_at\": [\"Soviet Union\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Charles Hard Townes\", \"Nikolay Basov\"]}",
+  "seconds": 26.07
+ },
+ "Q179852": {
+  "raw": "{\"born_in\": [\"Japan\"], \"born_on\": [\"March 12, 1925\"], \"died_in\": [], \"educated_at\": [], \"worked_at\": [\"Sony\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Ivar Giaever\", \"Brian Josephson\"]}",
+  "seconds": 27.47
+ },
+ "Q187822": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"March 28, 1930\"], \"died_in\": [], \"educated_at\": [\"Massachusetts Institute of Technology\"], \"worked_at\": [\"Massachusetts Institute of Technology\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Henry Kendall\", \"Richard Taylor\"]}",
+  "seconds": 28.59
+ },
+ "Q189741": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Leon M. Lederman\", \"Jack Steinberger\"]}",
+  "seconds": 20.44
+ },
+ "Q1673706": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [\"Tokyo\"], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Hiroshi Amano\", \"Shuji Nakamura\"]}",
+  "seconds": 22.85
+ },
+ "Q123026": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 19.16
+ },
+ "Q184563": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Richard Feynman\", \"Julian Schwinger\"]}",
+  "seconds": 20.92
+ },
+ "Q179572": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"February 20, 1945\"], \"died_in\": [\"September 18, 2025\"], \"educated_at\": [\"University of California, Berkeley\", \"Lawrence Berkeley National Laboratory\"], \"worked_at\": [\"Berkeley Center for Cosmological Physics\", \"Paris Center for Cosmological Physics\"], \"award_received\": [\"Gruber Prize in Cosmology\", \"Daniel Chalonge Medal\", \"Einstein Medal\", \"Ernest Orlando Lawrence Award\", \"Exceptional Scientific Achievement Medal\", \"US National Academy of Sciences\", \"American Physical Society\", \"Paris Center for Cosmological Physics\", \"East Bay Community Foundation\", \"University of California, Berkeley\", \"Lawrence Berkeley National Laboratory\", \"NASA\", \"National Science Foundation\", \"National Institute of Standards and Technology\"], \"shared_prize_with\": [\"John C. Mather\"]}",
+  "seconds": 56.66
+ },
+ "Q107420": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"December 5, 1932\"], \"died_in\": [], \"educated_at\": [\"Not mentioned\"], \"worked_at\": [\"Not mentioned\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Abdus Salam\", \"Steven Weinberg\"]}",
+  "seconds": 24.5
+ },
+ "Q206405": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"August 1, 1945\"], \"died_in\": [], \"educated_at\": [\"Stanford University\"], \"worked_at\": [\"Stanford University\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"David Lee\", \"Robert C. Richardson\"]}",
+  "seconds": 24.51
+ },
+ "Q127944": {
+  "raw": "{\n  \"born_in\": [],\n  \"born_on\": [],\n  \"died_in\": [],\n  \"educated_at\": [\n    \"University of Cambridge\"\n  ],\n  \"worked_at\": [\n    \"Cavendish Laboratory\",\n    \"Manhattan Project\",\n    \"Washington University in St. Louis\"\n  ],\n  \"award_received\": [\n    \"Nobel Prize in Physics\",\n    \"National Research Council Fellowship\",\n    \"S-1 Executive Committee\",\n    \"Head of 'X' projects\",\n    \"Chancellor of Washington University in St. Louis\"\n  ],\n  \"shared_prize_with\": []\n}",
+  "seconds": 43.85
+ },
+ "Q190745": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"December 9, 1917\"], \"died_in\": [\"May 31, 1986\"], \"educated_at\": [\"Columbia\"], \"worked_at\": [\"Manhattan Project\", \"United States Atomic Energy Commission\", \"naval research projects\"], \"award_received\": [\"Ernest Orlando Lawrence Award for Physics\", \"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Aage Bohr\", \"Ben Mottelson\"]}",
+  "seconds": 33.86
+ },
+ "Q201470": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"Stanford University\"], \"worked_at\": [\"Stanford University\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Jerome Friedman\", \"Henry Kendall\"]}",
+  "seconds": 21.3
+ },
+ "Q83557": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Alexander Prokhorov\", \"Charles Hard Townes\"]}",
+  "seconds": 22.74
+ },
+ "Q131721": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"23 November 1837\"], \"died_in\": [], \"educated_at\": [\"University of Amsterdam\"], \"worked_at\": [\"University of Amsterdam\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 36.33
+ },
+ "Q153194": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"University of Cambridge\"], \"worked_at\": [\"Royal Engineers Signals Depot\", \"King's College London\", \"Cavendish Laboratory\", \"Department of Scientific and Industrial Research\", \"Tube Alloys\", \"University of Edinburgh\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 33.38
+ },
+ "Q364997": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"15 June 1947\"], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\", \"Académie Française\"], \"shared_prize_with\": [\"John Clauser\", \"Anton Zeilinger\"]}",
+  "seconds": 23.91
+ },
+ "Q710597": {
+  "raw": "{\"born_in\": [\"Canada\"], \"born_on\": [\"August 29, 1943\"], \"died_in\": [], \"educated_at\": [\"Queen's University\"], \"worked_at\": [\"Sudbury Neutrino Observatory Collaboration\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Takaaki Kajita\"]}",
+  "seconds": 24.68
+ },
+ "Q104668": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [\"Lebedev Physical Institute of the Russian Academy of Sciences (FIAN)\", \"Department of Theoretical Physics of the Lebedev Physical Institute of the Russian Academy of Sciences (FIAN)\"], \"award_received\": [\"Nobel Prize in Physics\", \"Russian Academy of Sciences\"], \"shared_prize_with\": [\"Alexei Abrikosov\", \"Anthony Leggett\"]}",
+  "seconds": 33.83
+ },
+ "Q165969": {
+  "raw": "{\"born_in\": [\"Rymanów, Austria-Hungary\"], \"born_on\": [\"July 29, 1898\"], \"died_in\": [\"New York City\"], \"educated_at\": [\"Cornell University\", \"Columbia University\"], \"worked_at\": [\"Massachusetts Institute of Technology (MIT) Radiation Laboratory\", \"Manhattan Project\", \"Brookhaven National Laboratory\", \"United States delegate to UNESCO\", \"CERN\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 47.71
+ },
+ "Q190503": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Nicolaas Bloembergen\", \"Kai Siegbahn\"]}",
+  "seconds": 23.66
+ },
+ "Q555849": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"10 February 1942\"], \"died_in\": [], \"educated_at\": [\"University of Cambridge\"], \"worked_at\": [\"University of California, Berkeley\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Steven Girvin\", \"John M. Martinis\", \"Michel Devoret\"]}",
+  "seconds": 25.93
+ },
+ "Q104779": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [\"CERN\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Carlo Rubbia\"]}",
+  "seconds": 21.12
+ },
+ "Q133846": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"University College London\"], \"worked_at\": [\"University College London\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Clinton Davisson\"]}",
+  "seconds": 22.22
+ },
+ "Q155794": {
+  "raw": "{\n  \"born_in\": null,\n  \"born_on\": null,\n  \"died_in\": null,\n  \"educated_at\": [\n    \"University of Munich\",\n    \"Princeton University\"\n  ],\n  \"worked_at\": [\n    \"Cornell University\",\n    \"Los Alamos National Laboratory\",\n    \"Theoretical Division\"\n  ],\n  \"award_received\": [\n    \"Nobel Prize in Physics\",\n    \"Dirac Medal\"\n  ],\n  \"shared_prize_with\": []\n}",
+  "seconds": 45.54
+ },
+ "Q104651": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"August 7, 1946\"], \"died_in\": [], \"educated_at\": [\"University of Chicago\"], \"worked_at\": [\"NASA Goddard Space Flight Center (GSFC)\", \"University of Maryland College of Computer, Mathematical, and Natural Sciences\"], \"award_received\": [\"Nobel Prize in Physics\", \"Time Magazine Person of the Year 2007\", \"Time Magazine Person of the Year 2012\", \"Letter to President George W. Bush\"], \"shared_prize_with\": [\"George Smoot\"]}",
+  "seconds": 42.92
+ },
+ "Q109370": {
+  "raw": "{\n  \"born_in\": [\"Welwyn Garden City, England\"],\n  \"born_on\": [\"25 October 1931\"],\n  \"died_in\": [],\n  \"educated_at\": [\n    \"University of Hamburg\",\n    \"Max Planck Institute for Meteorology\"\n  ],\n  \"worked_at\": [\n    \"Scripps Institution of Oceanography\",\n    \"Woods Hole Oceanographic Institution\",\n    \"University of Cambridge\",\n    \"University of Hamburg\",\n    \"Max Planck Institute for Meteorology\"\n  ],\n  \"award_received\": [\n    \"Nobel Prize in Physics\",\n    \"Dirac Medal\"\n  ],\n  \"shared_prize_with\": [\n    \"Syukuro Manabe\",\n    \"Giorgio Parisi\"\n  ]\n}",
+  "seconds": 44.66
+ },
+ "Q190697": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"École normale supérieure in Paris\"], \"worked_at\": [\"École normale supérieure in Paris\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Steven Chu\", \"William Daniel Phillips\"]}",
+  "seconds": 24.5
+ },
+ "Q71016": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"Technische Universität Berlin\"], \"worked_at\": [\"Bell Labs\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Zhores Alferov\"]}",
+  "seconds": 20.97
+ },
+ "Q206379": {
+  "raw": "{\n  \"born_in\": [],\n  \"born_on\": [\"March 26, 1951\"],\n  \"died_in\": [],\n  \"educated_at\": [\"Stanford University\", \"Cornell University\"],\n  \"worked_at\": [\"University of Colorado Boulder\", \"Stanford University\", \"Stanford Graduate School of Education\", \"Stanford University School of Engineering\"],\n  \"award_received\": [\n    \"Nobel Prize in Physics\",\n    \"Yidan Prize in Education Research\"\n  ],\n  \"shared_prize_with\": [\"Eric Allin Cornell\"]\n}",
+  "seconds": 35.95
+ },
+ "Q60429": {
+  "raw": "{\"born_in\": [\"Tamil Nadu\"], \"born_on\": [\"7 November 1888\"], \"died_in\": [], \"educated_at\": [\"St Aloysius' Anglo-Indian High School\", \"Presidency College\"], \"worked_at\": [\"Indian Finance Service\", \"Rajabazar Science College\", \"Indian Institute of Science\", \"Indian Academy of Sciences\", \"Raman Research Institute\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 42.35
+ },
+ "Q76970": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Ilya Frank\", \"Igor Tamm\"]}",
+  "seconds": 19.44
+ },
+ "Q62891": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 23.91
+ },
+ "Q192688": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Leo Esaki\"]}",
+  "seconds": 19.3
+ },
+ "Q183279": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 19.46
+ },
+ "Q57020342": {
+  "raw": "{\"born_in\": [\"unknown\"], \"born_on\": [\"23 July 1941\"], \"died_in\": [], \"educated_at\": [\"Ohio State University\"], \"worked_at\": [\"Ohio State University\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 23.01
+ },
+ "Q56855591": {
+  "raw": "{\n  \"born_in\": [],\n  \"born_on\": [\"May 27, 1959\"],\n  \"died_in\": [],\n  \"educated_at\": [\"University of Waterloo\"],\n  \"worked_at\": [\"Natural Sciences and Engineering Research Council of Canada\"],\n  \"award_received\": [\n    {\n      \"name\": \"Nobel Prize in Physics\",\n      \"year\": 2018\n    },\n    {\n      \"name\": \"Dirac Medal\"\n    }\n  ],\n  \"shared_prize_with\": [\"Gérard Mourou\"]\n}",
+  "seconds": 33.99
+ },
+ "Q179282": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"May 3, 1933\"], \"died_in\": [\"July 23, 2021\"], \"educated_at\": [\"University of Texas at Austin\"], \"worked_at\": [\"Josey Regental Chair in Science at the University of Texas at Austin\"], \"award_received\": [\"Nobel Prize in Physics\", \"The Quantum Theory of Fields\"], \"shared_prize_with\": [\"Abdus Salam\", \"Sheldon Glashow\"]}",
+  "seconds": 37.95
+ },
+ "Q155773": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"University of Tokyo\"], \"worked_at\": [\"International Center for Elementary Particle Physics (ICEPP)\", \"University of Tokyo\"], \"award_received\": [\"Nobel Prize in Physics\", \"Wolf Prize\"], \"shared_prize_with\": [\"Raymond Davis Jr.\", \"Takaaki Kajita\"]}",
+  "seconds": 30.31
+ },
+ "Q188120": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"18 January 1921\"], \"died_in\": [\"5 July 2015\"], \"educated_at\": [\"University of Chicago\"], \"worked_at\": [\"University of Chicago\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Makoto Kobayashi\", \"Toshihide Maskawa\"]}",
+  "seconds": 31.57
+ },
+ "Q556543": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"22 June 1944\"], \"died_in\": [], \"educated_at\": [\"University of Michigan\"], \"worked_at\": [\"University of Michigan\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Donna Strickland\"]}",
+  "seconds": 24.23
+ },
+ "Q192715": {
+  "raw": "{\"born_in\": [\"Taiwan\"], \"born_on\": [\"January 27, 1936\"], \"died_in\": [], \"educated_at\": [\"Massachusetts Institute of Technology (MIT)\"], \"worked_at\": [\"Thomas Dudley Cabot Institute\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Burton Richter\"]}",
+  "seconds": 25.88
+ },
+ "Q1365270": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"December 1, 1942\"], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\", \"2022\"], \"shared_prize_with\": [\"Alain Aspect\", \"Anton Zeilinger\"]}",
+  "seconds": 23.83
+ },
+ "Q173028": {
+  "raw": "{\n  \"born_in\": [\"Rome\"],\n  \"born_on\": [\"1 February 1905\"],\n  \"died_in\": [],\n  \"educated_at\": [\"University of Rome La Sapienza\"],\n  \"worked_at\": [\n    \"Via Panisperna\",\n    \"University of Palermo\",\n    \"Berkeley Radiation Laboratory\",\n    \"Los Alamos National Laboratory\"\n  ],\n  \"award_received\": [\n    \"Nobel Prize in Physics\",\n    \"Dirac Medal\"\n  ],\n  \"shared_prize_with\": [\"Owen Chamberlain\"]\n}",
+  "seconds": 46.85
+ },
+ "Q80884": {
+  "raw": "{\n  \"born_in\": null,\n  \"born_on\": null,\n  \"died_in\": null,\n  \"educated_at\": [\n    \"Victoria University of Manchester\",\n    \"Gonville and Caius College, Cambridge\"\n  ],\n  \"worked_at\": [\n    \"Cavendish Laboratory\",\n    \"University of Liverpool\"\n  ],\n  \"award_received\": [\n    \"Nobel Prize in Physics\",\n    \"MAUD Report\",\n    \"Knighted\"\n  ],\n  \"shared_prize_with\": []\n}",
+  "seconds": 43.24
+ },
+ "Q169577": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"August 8, 1901\"], \"died_in\": [\"August 27, 1958\"], \"educated_at\": [\"University of South Dakota\", \"University of Minnesota\", \"Yale\"], \"worked_at\": [\"Radiation Laboratory\", \"Lawrence Berkeley National Laboratory\", \"Lawrence Livermore National Laboratory\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 37.89
+ },
+ "Q191922": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"Stevens Institute of Technology\", \"New York University\"], \"worked_at\": [\"Los Alamos Laboratory\", \"Theoretical Division\", \"Hanford Site\", \"Savannah River Site\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Clyde Cowan\"]}",
+  "seconds": 31.69
+ },
+ "Q1002250": {
+  "raw": "{\"born_in\": [\"London\"], \"born_on\": [\"14 September 1951\"], \"died_in\": [], \"educated_at\": [\"Not specified\"], \"worked_at\": [\"Princeton University\"], \"award_received\": [\"Nobel Prize in Physics\", \"Not specified\"], \"shared_prize_with\": [\"David J. Thouless\", \"J. Michael Kosterlitz\"]}",
+  "seconds": 24.91
+ },
+ "Q192708": {
+  "raw": "{\"born_in\": [\"Washington D.C.\"], \"born_on\": [\"June 26, 1937\"], \"died_in\": [\"February 19, 2013\"], \"educated_at\": [\"Virginia Tech\", \"Duke University\"], \"worked_at\": [\"Cornell University Laboratory of Atomic and Solid State Physics\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"David Lee\", \"Douglas Osheroff\"]}",
+  "seconds": 32.39
+ },
+ "Q62897": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"Manchester Municipal College of Technology\", \"Metropolitan Vickers Trafford Park\", \"St John's College, Cambridge\"], \"worked_at\": [\"Ministry of Supply\", \"MAUD Committee\", \"Tizard Mission\", \"Montreal Laboratory\", \"Harwell\", \"Atomic Energy Research Establishment (AERE)\", \"Churchill College, Cambridge\", \"Australian National University\"], \"award_received\": [\"Nobel Prize in Physics\", \"Dirac Medal\"], \"shared_prize_with\": [\"Ernest Walton\"]}",
+  "seconds": 47.58
+ },
+ "Q134085": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 19.7
+ },
+ "Q183631": {
+  "raw": "{\"born_in\": [\"Dublin\"], \"born_on\": [\"6 October 1903\"], \"died_in\": [\"Dublin\"], \"educated_at\": [\"University of Cambridge\"], \"worked_at\": [\"University of Cambridge\", \"Trinity College Dublin\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"John Cockcroft\"]}",
+  "seconds": 31.38
+ },
+ "Q726394": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Wolf Prize\", \"Nobel Prize for Physics\"], \"shared_prize_with\": [\"F. Duncan M. Haldane\", \"J. Michael Kosterlitz\"]}",
+  "seconds": 26.79
+ },
+ "Q133267": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"22 January 1908\"], \"died_in\": [\"1 April 1968\"], \"educated_at\": [\"Moscow State University\"], \"worked_at\": [\"Institute of Theoretical and Experimental Physics\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 30.02
+ },
+ "Q391237": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"July 15, 1933\"], \"died_in\": [], \"educated_at\": [\"Princeton University\"], \"worked_at\": [\"Princeton University\"], \"award_received\": [\"Nobel Prize in Physics\", \"Dirac Medal\"], \"shared_prize_with\": [\"Geoffrey Hinton\"]}",
+  "seconds": 26.51
+ },
+ "Q193503": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 19.39
+ },
+ "Q71013": {
+  "raw": "{\n  \"born_in\": [],\n  \"born_on\": [\"30 October 1941\"],\n  \"died_in\": [],\n  \"educated_at\": [\"Max-Planck-Institut für Quantenoptik (quantum optics)\", \"LMU Munich\"],\n  \"worked_at\": [\"Max-Planck-Institut für Quantenoptik (quantum optics), Professor of experimental physics and laser spectroscopy at LMU Munich\"],\n  \"award_received\": [\"Nobel Prize in Physics\"],\n  \"shared_prize_with\": [\"John L. Hall\"]\n}",
+  "seconds": 33.1
+ },
+ "Q9021": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"23 April 1858\"], \"died_in\": [\"4 October 1947\"], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\", \"President of the Kaiser Wilhelm Society\"], \"shared_prize_with\": []}",
+  "seconds": 26.76
+ },
+ "Q708472": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"September 2, 1922\"], \"died_in\": [\"Rumson, New Jersey\"], \"educated_at\": [\"Bell Labs\"], \"worked_at\": [\"Bell Labs\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 26.0
+ },
+ "Q71022": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [\"Max Planck Institute for Biophysical Chemistry\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 19.65
+ },
+ "Q155777": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 18.3
+ },
+ "Q493956": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"June 16, 1965\"], \"died_in\": [], \"educated_at\": [\"University of California, Berkeley\"], \"worked_at\": [\"Department of Physics and Astronomy, University of California, Los Angeles\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Reinhard Genzel\"]}",
+  "seconds": 26.27
+ },
+ "Q26703310": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"5 March 1953\"], \"died_in\": [], \"educated_at\": [\"Yale University\"], \"worked_at\": [\"Google Quantum AI\", \"University of California, Santa Barbara\", \"University of California, Berkeley\", \"California Institute of Technology\", \"Stanford University\", \"Harvard University\", \"Massachusetts Institute of Technology\", \"University of California, Los Angeles\", \"University of California, San Diego\", \"University of California, Davis\", \"University of California, Irvine\", \"University of California, Riverside\", \"University of California, San Francisco\", \"University of California, Santa Cruz\", \"University of California, Merced\", \"University of California, Los Angeles\", \"University of California, Berkeley\", \"University of California, Davis\", \"University of California, Irvine\", \"University of California, San Diego\", \"University of California, San Francisco\", \"University of California, Santa Cruz\", \"University of California, Merced\", \"University of California, Los Angeles\", \"University of California, Berkeley\", \"University of California, Davis\", \"University of California, Irvine\", \"University of California, San Diego\", \"University of California, San Francisco\", \"University of California, Santa Cruz\", \"University of California, Merced\", \"University of California, Los Angeles\", \"University of California, Berkeley\", \"University of California, Davis\", \"University of California, Irvine\", \"University of California, San Diego\",",
+  "seconds": 68.13
+ },
+ "Q178344": {
+  "raw": "{\n  \"born_in\": null,\n  \"born_on\": null,\n  \"died_in\": null,\n  \"educated_at\": [\n    \"University of Chicago\"\n  ],\n  \"worked_at\": [\n    \"Radiation Laboratory\",\n    \"MIT Radiation Laboratory\",\n    \"Los Alamos National Laboratory\",\n    \"Project Alberta\"\n  ],\n  \"award_received\": [\n    \"Nobel Prize in Physics\"\n  ],\n  \"shared_prize_with\": []\n}",
+  "seconds": 41.03
+ },
+ "Q65989": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"25 April 1900\"], \"died_in\": [\"15 December 1958\"], \"educated_at\": [\"Austrian University\"], \"worked_at\": [\"Theoretical physics\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 27.08
+ },
+ "Q565544": {
+  "raw": "{\n  \"born_in\": [],\n  \"born_on\": [\"16 August 1958\"],\n  \"died_in\": [],\n  \"educated_at\": [\"University of Paris\"],\n  \"worked_at\": [\"Lund University in Sweden\"],\n  \"award_received\": [\n    \"Wolf Prize in Physics\",\n    \"Nobel Prize in Physics\"\n  ],\n  \"shared_prize_with\": []\n}",
+  "seconds": 27.57
+ },
+ "Q193803": {
+  "raw": "{\n  \"born_in\": [],\n  \"born_on\": [],\n  \"died_in\": [],\n  \"educated_at\": [\n    \"University of Oxford\"\n  ],\n  \"worked_at\": [\n    \"Wadham College\",\n    \"St John's College, Cambridge\",\n    \"University College London\"\n  ],\n  \"award_received\": [\n    \"Wolf Prize in Physics\",\n    \"Nobel Prize in Physics\",\n    \"Royal Society Science Book Prize\",\n    \"Shadows of the Mind\",\n    \"The Large, the Small and the Human Mind\",\n    \"The Road to Reality\"\n  ],\n  \"shared_prize_with\": [\n    \"Stephen Hawking\"\n  ]\n}",
+  "seconds": 41.7
+ },
+ "Q202168": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 18.47
+ },
+ "Q76373": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Willard Boyle\"]}",
+  "seconds": 18.89
+ },
+ "Q83297": {
+  "raw": "{\n  \"born_in\": [],\n  \"born_on\": [],\n  \"died_in\": [],\n  \"educated_at\": [],\n  \"worked_at\": [\n    \"Theoretical treatment of the elastic scattering of light by particles much smaller than the light's wavelength\",\n    \"Transverse surface waves in solids\",\n    \"Fluid dynamics\"\n  ],\n  \"award_received\": [\n    \"Nobel Prize in Physics\",\n    \"Rayleigh test for circular non-uniformity\",\n    \"Rayleigh plot\"\n  ],\n  \"shared_prize_with\": []\n}",
+  "seconds": 38.7
+ },
+ "Q949": {
+  "raw": "{\n  \"born_in\": [\"Wisconsin\"],\n  \"born_on\": [\"May 23, 1908\"],\n  \"died_in\": [],\n  \"educated_at\": [\"University of Wisconsin\", \"Princeton University\"],\n  \"worked_at\": [\"Bell Labs\", \"University of Illinois\"],\n  \"award_received\": [\n    {\n      \"name\": \"Nobel Prize in Physics\",\n      \"year\": [1956, 1972]\n    }\n  ],\n  \"shared_prize_with\": [\"William Shockley\", \"Leon Cooper\", \"John Robert Schrieffer\"]\n}",
+  "seconds": 39.4
+ },
+ "Q1700920": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"June 22, 1943\"], \"died_in\": [], \"educated_at\": [\"Brown University\"], \"worked_at\": [\"Brown University\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"David Thouless, Duncan Haldane\"]}",
+  "seconds": 22.35
+ },
+ "Q192689": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"McGill University\"], \"worked_at\": [\"Atomic Energy of Canada Limited (AECL)\", \"University of Toronto\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Clifford Shull\"]}",
+  "seconds": 22.63
+ },
+ "Q937": {
+  "raw": "{\n  \"born_in\": [\"Germany\"],\n  \"born_on\": [\"14 March 1879\"],\n  \"died_in\": [],\n  \"educated_at\": [\"Swiss Federal Polytechnic School in Zurich\"],\n  \"worked_at\": [\"Prussian Academy of Sciences and the Humboldt University of Berlin\", \"Kaiser Wilhelm Institute for Physics\", \"United States Patent Office\"],\n  \"award_received\": [\"Nobel Prize in Physics\", \"Dirac Medal\"],\n  \"shared_prize_with\": []\n}",
+  "seconds": 48.2
+ },
+ "Q155759": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Pavel Cherenkov\", \"Ilya Frank\"]}",
+  "seconds": 20.61
+ },
+ "Q155790": {
+  "raw": "{\"born_in\": [\"Szeged\"], \"born_on\": [\"November 17, 1902\"], \"died_in\": [\"New York City\"], \"educated_at\": [\"Technical Hochschule Berlin (now Technische Universität Berlin)\", \"Kaiser Wilhelm Institute in Berlin\", \"University of Göttingen\"], \"worked_at\": [\"Princeton University\", \"DuPont\", \"Clinton Laboratory (now the Oak Ridge National Laboratory)\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 43.73
+ },
+ "Q192718": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"University of Illinois Urbana-Champaign\"], \"worked_at\": [\"University of Illinois Urbana-Champaign\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 22.07
+ },
+ "Q76474": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"8 January 1891\"], \"died_in\": [\"Heidelberg\"], \"educated_at\": [\"University of Giessen\", \"Heidelberg University\"], \"worked_at\": [\"Kaiser Wilhelm Institute for Medical Research at Heidelberg University\", \"Physics Institute of the KWImf\", \"Max Planck Institute for Nuclear Physics\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Max Born\"]}",
+  "seconds": 37.26
+ },
+ "Q44286": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Robert Hofstadter\"]}",
+  "seconds": 18.63
+ },
+ "Q73058": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [\"Bellcomm\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"George E. Smith\"]}",
+  "seconds": 19.49
+ },
+ "Q192695": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"July 15, 1922\"], \"died_in\": [\"Aurora, Illinois\"], \"educated_at\": [\"Not mentioned\"], \"worked_at\": [\"Fermi National Accelerator Laboratory (Fermilab)\", \"Illinois Mathematics and Science Academy\"], \"award_received\": [\"Nobel Prize in Physics\", \"Wolf Prize in Physics\"], \"shared_prize_with\": [\"Melvin Schwartz\", \"Jack Steinberger\", \"Martin Lewis Perl\"]}",
+  "seconds": 33.25
+ },
+ "Q39246": {
+  "raw": "{\n  \"born_in\": null,\n  \"born_on\": null,\n  \"died_in\": null,\n  \"educated_at\": [\n    \"California Institute of Technology\"\n  ],\n  \"worked_at\": [\n    \"Rogers Commission\",\n    \"Atomic Energy Commission\",\n    \"Los Alamos National Laboratory\",\n    \"Lawrence Berkeley National Laboratory\",\n    \"Stanford Linear Accelerator Center\",\n    \"Santa Fe Institute\",\n    \"Princeton Plasma Physics Laboratory\",\n    \"Fermi National Accelerator Laboratory\",\n    \"Argonne National Laboratory\",\n    \"Brookhaven National Laboratory\",\n    \"Cornell Theory Center\",\n    \"MIT Lincoln Laboratory\",\n    \"NASA Ames Research Center\",\n    \"National Bureau of Standards\",\n    \"General Electric Company\",\n    \"Bell Labs\",\n    \"Xerox Corporation\",\n    \"AT&T Bell Laboratories\",\n    \"IBM\",\n    \"SRI International\",\n    \"University of Chicago\",\n    \"University of California, Los Angeles\",\n    \"University of California, Santa Barbara\",\n    \"University of California, Davis\",\n    \"University of California, San Diego\",\n    \"University of California, Irvine\",\n    \"University of California, Los Angeles\",\n    \"University of California, Riverside\",\n    \"University of California, San Diego\",\n    \"University of California, San Francisco\",\n    \"University of California, Santa Cruz\",\n    \"University of California, Santa Barbara\",\n    \"University of California, San Diego\",\n    \"University of California, San",
+  "seconds": 80.73
+ },
+ "Q57067": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [\"Max Planck Institute for Physics\", \"Institute for Crystallography, Berlin\", \"University of Munich\", \"University of Göttingen\", \"University of Heidelberg\", \"University of Hamburg\", \"University of Karlsruhe\", \"University of Leipzig\", \"University of Breslau\", \"University of Vienna\", \"University of Prague\", \"University of Cambridge\", \"University of Manchester\", \"University of Birmingham\", \"University of Oxford\", \"University of Edinburgh\", \"University of Glasgow\", \"University of St Andrews\", \"University of Durham\", \"University of Bristol\", \"University of Liverpool\", \"University of Sheffield\", \"University of Warwick\", \"University of Exeter\", \"University of York\", \"University of Leeds\", \"University of Newcastle upon Tyne\", \"University of Southampton\", \"University of Loughborough\", \"University of Strathclyde\", \"University of Dundee\", \"University of Aberdeen\", \"University of Stirling\", \"University of Glasgow\", \"University of Edinburgh\", \"University of Bath\", \"University of Nottingham\", \"University of Surrey\", \"University of Sussex\", \"University of Reading\", \"University of Leicester\", \"University of Plymouth\", \"University of Portsmouth\", \"University of East Anglia\", \"University of Essex\", \"University of Kent\", \"University of Keele\", \"University of Lincoln\", \"University of",
+  "seconds": 69.99
+ },
+ "Q47480": {
+  "raw": "{\n  \"born_in\": [],\n  \"born_on\": [],\n  \"died_in\": [],\n  \"educated_at\": [\n    \"University of Bristol\",\n    \"St John's College, Cambridge\"\n  ],\n  \"worked_at\": [\n    \"Florida State University\"\n  ],\n  \"award_received\": [\n    \"Nobel Prize in Physics\"\n  ],\n  \"shared_prize_with\": []\n}",
+  "seconds": 37.0
+ },
+ "Q133232": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 17.77
+ },
+ "Q28976188": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"1958\"], \"died_in\": [], \"educated_at\": [\"University of California, Santa Barbara\"], \"worked_at\": [\"Quantum AI Lab\"], \"award_received\": [\"Nobel Prize in Physics\", \"Dirac Medal\"], \"shared_prize_with\": [\"John Clarke\", \"Michel Devoret\"]}",
+  "seconds": 26.64
+ },
+ "Q57068": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 20.17
+ },
+ "Q182031": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [\"Texas Instruments\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Robert Noyce\"]}",
+  "seconds": 25.12
+ },
+ "Q57070": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"University of Göttingen\"], \"worked_at\": [\"Max Planck Institute for Physics\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"James Franck\"]}",
+  "seconds": 21.72
+ },
+ "Q190766": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"University of Cambridge\"], \"worked_at\": [\"Mullard Radio Astronomy Observatory\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Antony Hewish\"]}",
+  "seconds": 23.45
+ },
+ "Q188128": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Vitaly Ginzburg\", \"Anthony James Leggett\"]}",
+  "seconds": 18.21
+ },
+ "Q193496": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"University of Chicago\"], \"worked_at\": [\"University of Chicago\"], \"award_received\": [\"Ernest Orlando Lawrence Award\", \"National Medal of Science\", \"Quantrell Award\", \"spokesperson emeritus for the Auger project\", \"Board of Sponsors of the Bulletin of the Atomic Scientists\"], \"shared_prize_with\": []}",
+  "seconds": 26.32
+ },
+ "Q201452": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"24 February 1967\"], \"died_in\": [], \"educated_at\": [\"Australian National University\"], \"worked_at\": [\"Mount Stromlo Observatory and Research School of Astronomy and Astrophysics\"], \"award_received\": [\"Fellow of the Royal Society\", \"Shaw Prize in Astronomy\", \"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Saul Perlmutter\", \"Adam Riess\"]}",
+  "seconds": 25.83
+ },
+ "Q202138": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"February 28, 1939\"], \"died_in\": [], \"educated_at\": [\"Princeton University\"], \"worked_at\": [\"Princeton University\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Robert B. Laughlin\", \"Horst L. Störmer\"]}",
+  "seconds": 21.67
+ },
+ "Q15900993": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"January 27, 1936\"], \"died_in\": [], \"educated_at\": [\"California Institute of Technology\"], \"worked_at\": [\"California Institute of Technology\", \"University of California, Riverside\", \"Stony Brook University\"], \"award_received\": [\"Nobel Prize in Physics\", \"National Medal of Science\"], \"shared_prize_with\": []}",
+  "seconds": 24.41
+ },
+ "Q109588": {
+  "raw": "{\"born_in\": [\"Paris\"], \"born_on\": [\"11 September 1944\"], \"died_in\": [], \"educated_at\": [\"University of Paris VI\"], \"worked_at\": [\"Collège de France\", \"Fermi Chair of Physics at University of Rome La Sapienza\"], \"award_received\": [\"Nobel Prize for Physics\"], \"shared_prize_with\": [\"David J. Wineland\"]}",
+  "seconds": 24.61
+ },
+ "Q323320": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"June 1, 1940\"], \"died_in\": [], \"educated_at\": [\"Caltech\"], \"worked_at\": [\"Caltech\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Rainer Weiss\", \"Barry C. Barish\"]}",
+  "seconds": 23.18
+ },
+ "Q181363": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"4 January 1940\"], \"died_in\": [], \"educated_at\": [\"University of Cambridge\"], \"worked_at\": [\"Theory of Condensed Matter Group in Cambridge's Cavendish Laboratory\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 22.76
+ },
+ "Q46120": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Margaret Burbidge\", \"Geoffrey Burbidge\", \"Fred Hoyle\"]}",
+  "seconds": 18.56
+ },
+ "Q107450": {
+  "raw": "{\n  \"born_in\": [],\n  \"born_on\": [],\n  \"died_in\": [],\n  \"educated_at\": [\"Massachusetts Institute of Technology (MIT)\", \"T. D. Lee Institute (Shanghai)\", \"Arizona State University (ASU)\", \"Stockholm University\"],\n  \"worked_at\": [\"CERN\"],\n  \"award_received\": [\n    \"Nobel Prize in Physics\",\n    \"Templeton Prize\"\n  ],\n  \"shared_prize_with\": [\"David Gross\", \"H. David Politzer\"]\n}",
+  "seconds": 28.85
+ },
+ "Q183270": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"Harvard University\"], \"worked_at\": [\"Princeton University\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Felix Bloch\"]}",
+  "seconds": 17.2
+ },
+ "Q172466": {
+  "raw": "{\n  \"born_in\": [],\n  \"born_on\": [\"February 28, 1948\"],\n  \"died_in\": [],\n  \"educated_at\": [\"University of California, Berkeley\", \"Bell Laboratories\", \"Stanford University\"],\n  \"worked_at\": [\n    \"U.S. Department of Energy\",\n    \"Lawrence Berkeley National Laboratory\"\n  ],\n  \"award_received\": [\n    \"Nobel Prize in Physics\",\n    \"William R. Kenan Jr. Chair in Physics and Professor of Molecular and Cellular Physiology at Stanford University\",\n    \"William D. Phillips Award\",\n    \"William D. Phillips Memorial Lecture\",\n    \"William D. Phillips Memorial Lectureship\",\n    \"William D. Phillips Memorial Lecture Series\",\n    \"William D. Phillips Memorial Lecture Series\",\n    \"William D. Phillips Memorial Lecture Series\",\n    \"William D. Phillips Memorial Lecture Series\",\n    \"William D. Phillips Memorial Lecture Series\",\n    \"William D. Phillips Memorial Lecture Series\",\n    \"William D. Phillips Memorial Lecture Series\",\n    \"William D. Phillips Memorial Lecture Series\",\n    \"William D. Phillips Memorial Lecture Series\",\n    \"William D. Phillips Memorial Lecture Series\",\n    \"William D. Phillips Memorial Lecture Series\",\n    \"William D. Phillips Memorial Lecture Series\",\n    \"William D. Phillips Memorial Lecture Series\",\n    \"William D. Phillips Memorial Lecture Series\",\n    \"William D. Phillips Memorial Lecture Series\",\n    \"William D. Phillips Memorial Lecture",
+  "seconds": 63.78
+ },
+ "Q40262": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"February 19, 1941\"], \"died_in\": [], \"educated_at\": [\"Kavli Institute for Theoretical Physics (KITP)\", \"University of California, Santa Barbara (UCSB)\"], \"worked_at\": [\"Kavli Institute for Theoretical Physics (KITP)\", \"Institute for Quantum Studies at Chapman University\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Frank Wilczek\", \"Hugh David Politzer\"]}",
+  "seconds": 26.82
+ },
+ "Q192685": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"March 29, 1941\"], \"died_in\": [], \"educated_at\": [\"Not mentioned\"], \"worked_at\": [\"Not mentioned\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Russell Alan Hulse\"]}",
+  "seconds": 17.83
+ },
+ "Q3675789": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"21 September 1931\"], \"died_in\": [], \"educated_at\": [\"Kyoto Imperial University\"], \"worked_at\": [\"National Institute of Polar Research\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Klaus Hasselmann\", \"Giorgio Parisi\"]}",
+  "seconds": 21.13
+ },
+ "Q8753": {
+  "raw": "{\n  \"born_in\": [],\n  \"born_on\": [],\n  \"died_in\": [],\n  \"educated_at\": [\n    \"University of Rome Tor Vergata\"\n  ],\n  \"worked_at\": [\n    \"University of Chicago\",\n    \"Los Alamos Scientific Laboratory\",\n    \"General Advisory Committee\",\n    \"Institute for Nuclear Studies\",\n    \"Enrico Fermi National Accelerator Laboratory\"\n  ],\n  \"award_received\": [\n    \"Nobel Prize in Physics\",\n    \"Enrico Fermi Award\",\n    \"Enrico Fermi Institute\",\n    \"Fermi 1 (breeder reactor)\",\n    \"Fermi National Accelerator Laboratory (Fermilab)\"\n  ],\n  \"shared_prize_with\": []\n}",
+  "seconds": 57.88
+ },
+ "Q202149": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"Delft University of Technology\"], \"worked_at\": [\"CERN\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Gerardus 't Hooft\"]}",
+  "seconds": 21.04
+ },
+ "Q153201": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"John Bardeen\", \"Leon Cooper\"]}",
+  "seconds": 18.46
+ },
+ "Q11538917": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"9 March 1959\"], \"died_in\": [], \"educated_at\": [], \"worked_at\": [\"Kamioka Observatory - Kamiokande and its successor, Super-Kamiokande\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Arthur B. McDonald\"]}",
+  "seconds": 22.81
+ },
+ "Q172118": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 17.23
+ },
+ "Q156286": {
+  "raw": "{\"born_in\": [\"New York City\"], \"born_on\": [\"November 28, 1950\"], \"died_in\": [], \"educated_at\": [\"Princeton University\"], \"worked_at\": [\"Harvard University\"]}",
+  "seconds": 18.5
+ },
+ "Q184566": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [\"Massachusetts Institute of Technology\"], \"worked_at\": [\"U.S. Government\", \"University of California, Berkeley\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Nikolay Basov\", \"Alexander Prokhorov\"]}",
+  "seconds": 24.46
+ },
+ "Q186465": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"February 12, 1918\"], \"died_in\": [\"July 16, 1994\"], \"educated_at\": [\"Cornell University\", \"Princeton University\", \"Yale University\"], \"worked_at\": [\"Stanford University\", \"Massachusetts Institute of Technology\", \"University of California, Berkeley\", \"University of Chicago\", \"University of Pennsylvania\", \"University of Notre Dame\", \"University of Illinois at Urbana-Champaign\", \"University of California, Los Angeles\", \"University of California, Santa Barbara\", \"University of California, Davis\", \"University of California, San Diego\", \"University of California, Irvine\", \"University of California, Riverside\", \"University of California, San Francisco\", \"University of California, Santa Cruz\", \"University of California, Merced\", \"University of California, Santa Barbara\", \"University of California, Davis\", \"University of California, San Diego\", \"University of California, Irvine\", \"University of California, Riverside\", \"University of California, San Francisco\", \"University of California, Santa Cruz\", \"University of California, Merced\"]}",
+  "seconds": 52.92
+ },
+ "Q184592": {
+  "raw": "{\n  \"born_in\": [],\n  \"born_on\": [],\n  \"died_in\": [],\n  \"educated_at\": [\"Utrecht University\"],\n  \"worked_at\": [\"Utrecht University\"],\n  \"award_received\": [\n    \"Nobel Prize in Physics\"\n  ],\n  \"shared_prize_with\": [\n    \"Martinus J. G. Veltman\"\n  ]\n}",
+  "seconds": 22.72
+ },
+ "Q192106": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [\"Stanford Linear Accelerator Center (SLAC)\", \"Brookhaven National Laboratory (BNL)\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Samuel Ting\"]}",
+  "seconds": 21.0
+ },
+ "Q82563": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"John Bardeen\", \"John Robert Schrieffer\"]}",
+  "seconds": 17.76
+ },
+ "Q728331": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"April 25, 1935\"], \"died_in\": [], \"educated_at\": [\"Princeton University\"], \"worked_at\": [\"Canadian-American astrophysicist, astronomer, and theoretical cosmologist\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Michel Mayor and Didier Queloz\"]}",
+  "seconds": 25.34
+ },
+ "Q124013": {
+  "raw": "{\n  \"born_in\": [],\n  \"born_on\": [\"23 February 1966\"],\n  \"died_in\": [],\n  \"educated_at\": [\"ETH Zurich\", \"Trinity College, Cambridge\", \"University of Cambridge\"],\n  \"worked_at\": [\"Center for the Origin and Prevalence of Life at ETH Zurich\"],\n  \"award_received\": [\"Nobel Prize in Physics\", \"Jacksonian Professor of Natural Philosophy at the University of Cambridge\"],\n  \"shared_prize_with\": [\"Michel Mayor\"]\n}",
+  "seconds": 27.3
+ },
+ "Q57063": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 16.28
+ },
+ "Q175519": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [\"Homestake experiment\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"\"]}",
+  "seconds": 16.46
+ },
+ "Q163415": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"February 13, 1910\"], \"died_in\": [], \"educated_at\": [\"Bell Labs\"], \"worked_at\": [\"California's Silicon Valley\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"John Bardeen\", \"Walter Brattain\"]}",
+  "seconds": 21.83
+ },
+ "Q57072": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 16.0
+ },
+ "Q11443689": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"September 11, 1960\"], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Isamu Akasaki\", \"Shuji Nakamura\"]}",
+  "seconds": 18.87
+ },
+ "Q28189": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"29 January 1926\"], \"died_in\": [], \"educated_at\": [\"Imperial College London\"], \"worked_at\": [\"Space and Upper Atmosphere Research Commission (SUPARCO)\", \"Department of Atomic Energy (DAE)\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Steven Weinberg\", \"Sheldon Glashow\"]}",
+  "seconds": 29.4
+ },
+ "Q184577": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"John Bardeen\", \"William Shockley\"]}",
+  "seconds": 16.68
+ },
+ "Q40904": {
+  "raw": "{\"born_in\": [], \"born_on\": [\"5 December 1901\"], \"died_in\": [\"1 February 1976\"], \"educated_at\": [\"University of Berlin\"], \"worked_at\": [\"Kernforschungszentrum Karlsruhe\", \"Technische Hochschule München\", \"Max Planck Institute for Physics and Astrophysics\"], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": []}",
+  "seconds": 28.91
+ },
+ "Q41688": {
+  "raw": "{\"born_in\": [], \"born_on\": [], \"died_in\": [], \"educated_at\": [], \"worked_at\": [], \"award_received\": [\"Nobel Prize in Physics\"], \"shared_prize_with\": [\"Pieter Zeeman\"]}",
+  "seconds": 17.52
+ }
+}

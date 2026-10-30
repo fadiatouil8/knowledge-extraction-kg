@@ -1,0 +1,22 @@
+# Python 3.10 - 3.12 (testé avec 3.12.2 sous Windows 11, CPU uniquement)
+# PyTorch CPU (plus léger que la version CUDA) :
+#   pip install torch==2.15.0 --index-url https://download.pytorch.org/whl/cpu
+torch==2.15.0
+transformers==5.22.0
+numpy==2.5.4
+pandas==3.1.0
+matplotlib==3.11.2
+scikit-learn==1.9.1
+nltk==3.10.4
+spacy==3.8.18
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+sklearn-crfsuite==0.5.0
+seqeval==1.2.2
+networkx==3.7
+pyvis==0.3.2
+rdflib==7.6.0
+requests==2.34.2
+jupyter==1.1.1
+nbconvert==7.17.2
+ipykernel==7.4.0
+markdown==3.11.2

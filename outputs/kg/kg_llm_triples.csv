@@ -1,0 +1,830 @@
+subject,relation,object,doc_id,sentence,trigger
+Jack Steinberger,born_in,Germany,Q153210,,LLM
+Jack Steinberger,born_on,"May 25, 1921",Q153210,,LLM
+Jack Steinberger,died_in,United States,Q153210,,LLM
+Jack Steinberger,educated_at,"University of California, Berkeley",Q153210,,LLM
+Jack Steinberger,worked_at,Columbia University,Q153210,,LLM
+Jack Steinberger,worked_at,CERN,Q153210,,LLM
+Jack Steinberger,award_received,Nobel Prize in Physics,Q153210,,LLM
+Jack Steinberger,award_received,National Medal of Science,Q153210,,LLM
+Jack Steinberger,award_received,Matteucci Medal,Q153210,,LLM
+Jack Steinberger,shared_prize_with,Leon M. Lederman,Q153210,,LLM
+Jack Steinberger,shared_prize_with,Melvin Schwartz,Q153210,,LLM
+Antony Hewish,award_received,Eddington Medal of the Royal Astronomical Society,Q189990,,LLM
+Antony Hewish,award_received,Nobel Prize in Physics,Q189990,,LLM
+Antony Hewish,shared_prize_with,Martin Ryle,Q189990,,LLM
+Hugh David Politzer,born_on,"August 31, 1949",Q107407,,LLM
+Hugh David Politzer,worked_at,California Institute of Technology,Q107407,,LLM
+Hugh David Politzer,award_received,Nobel Prize in Physics,Q107407,,LLM
+Hugh David Politzer,shared_prize_with,David Gross,Q107407,,LLM
+Hugh David Politzer,shared_prize_with,Frank Wilczek,Q107407,,LLM
+Francis Halzen,born_in,Belgium,Q20942818,,LLM
+Francis Halzen,born_on,23 March 1944,Q20942818,,LLM
+Francis Halzen,educated_at,Catholic University of Leuven,Q20942818,,LLM
+Francis Halzen,worked_at,CERN,Q20942818,,LLM
+Francis Halzen,worked_at,University of Wisconsin-Madison,Q20942818,,LLM
+Francis Halzen,award_received,Nobel Prize in Physics,Q20942818,,LLM
+Francis Halzen,award_received,IceCube Neutrino Observatory Principal Investigator,Q20942818,,LLM
+Shuji Nakamura,born_in,Japan,Q730065,,LLM
+Shuji Nakamura,born_on,"May 22, 1954",Q730065,,LLM
+Shuji Nakamura,educated_at,"University of California, Santa Barbara",Q730065,,LLM
+Shuji Nakamura,worked_at,"University of California, Santa Barbara",Q730065,,LLM
+Shuji Nakamura,award_received,Nobel Prize in Physics,Q730065,,LLM
+Shuji Nakamura,shared_prize_with,Isamu Akasaki and Hiroshi Amano,Q730065,,LLM
+Niels Bohr,born_in,Denmark,Q7085,,LLM
+Niels Bohr,born_on,7 October 1885,Q7085,,LLM
+Niels Bohr,died_in,Sweden,Q7085,,LLM
+Niels Bohr,educated_at,University of Copenhagen,Q7085,,LLM
+Niels Bohr,worked_at,Institute of Theoretical Physics at the University of Copenhagen,Q7085,,LLM
+Niels Bohr,worked_at,Niels Bohr Institute,Q7085,,LLM
+Niels Bohr,worked_at,Risø Laboratory,Q7085,,LLM
+Niels Bohr,worked_at,British Tube Alloys nuclear weapons project,Q7085,,LLM
+Niels Bohr,worked_at,Research Establishment Risø of the Danish Atomic Energy Commission,Q7085,,LLM
+Niels Bohr,worked_at,Nordic Institute for Theoretical Physics,Q7085,,LLM
+Niels Bohr,award_received,Nobel Prize in Physics,Q7085,,LLM
+Niels Bohr,award_received,Dirac Medal,Q7085,,LLM
+Niels Bohr,award_received,Bohrium,Q7085,,LLM
+Niels Bohr,award_received,Fourth Greatest Physicist of All Time,Q7085,,LLM
+David Lee,born_on,"January 20, 1931",Q201853,,LLM
+David Lee,educated_at,Cornell University,Q201853,,LLM
+David Lee,educated_at,Texas A&M University,Q201853,,LLM
+David Lee,worked_at,Cornell University,Q201853,,LLM
+David Lee,worked_at,Texas A&M University,Q201853,,LLM
+David Lee,award_received,Nobel Prize in Physics,Q201853,,LLM
+David Lee,shared_prize_with,Robert C. Richardson,Q201853,,LLM
+David Lee,shared_prize_with,Douglas Osheroff,Q201853,,LLM
+Marie Curie,born_in,"Warsaw, Russian Empire",Q7186,,LLM
+Marie Curie,born_on,7 November 1867,Q7186,,LLM
+Marie Curie,died_in,"Passy, Haute-Savoie, France",Q7186,,LLM
+Marie Curie,educated_at,Flying University,Q7186,,LLM
+Marie Curie,educated_at,University of Paris,Q7186,,LLM
+Marie Curie,worked_at,Curie Institute in Paris,Q7186,,LLM
+Marie Curie,worked_at,Curie Institute in Warsaw,Q7186,,LLM
+Marie Curie,award_received,Nobel Prize in Physics,Q7186,,LLM
+Marie Curie,award_received,Nobel Prize in Chemistry,Q7186,,LLM
+Marie Curie,shared_prize_with,Pierre Curie,Q7186,,LLM
+Yang Chen-Ning,educated_at,Princeton University,Q181369,,LLM
+Yang Chen-Ning,worked_at,Yale University,Q181369,,LLM
+Yang Chen-Ning,award_received,Nobel Prize in Physics,Q181369,,LLM
+Yang Chen-Ning,shared_prize_with,Tsung-Dao Lee,Q181369,,LLM
+Wolfgang Paul,award_received,Nobel Prize in Physics,Q57227,,LLM
+Wolfgang Paul,shared_prize_with,Hans Georg Dehmelt,Q57227,,LLM
+Albert Fert,born_in,Paris,Q153219,,LLM
+Albert Fert,born_on,7 March 1938,Q153219,,LLM
+Albert Fert,educated_at,Paris-Saclay University,Q153219,,LLM
+Albert Fert,worked_at,Centre national de la recherche scientifique (National Scientific Research Centre),Q153219,,LLM
+Albert Fert,worked_at,Thales Group,Q153219,,LLM
+Albert Fert,worked_at,Michigan State University,Q153219,,LLM
+Albert Fert,award_received,Nobel Prize in Physics,Q153219,,LLM
+Albert Fert,shared_prize_with,Peter Grünberg,Q153219,,LLM
+Robert Millikan,worked_at,Caltech,Q130975,,LLM
+Robert Millikan,award_received,Nobel Prize in Physics,Q130975,,LLM
+Hans Georg Dehmelt,award_received,Nobel Prize in Physics,Q70532,,LLM
+Hans Georg Dehmelt,shared_prize_with,Wolfgang Paul,Q70532,,LLM
+Maria Goeppert Mayer,educated_at,University of Göttingen,Q57100,,LLM
+Maria Goeppert Mayer,worked_at,Columbia University,Q57100,,LLM
+Maria Goeppert Mayer,worked_at,Los Alamos Laboratory,Q57100,,LLM
+Maria Goeppert Mayer,worked_at,Manhattan Project,Q57100,,LLM
+Maria Goeppert Mayer,worked_at,Argonne National Laboratory,Q57100,,LLM
+Maria Goeppert Mayer,award_received,Nobel Prize in Physics,Q57100,,LLM
+David J. Wineland,born_on,"February 24, 1944",Q61045,,LLM
+David J. Wineland,worked_at,Physical Measurement Laboratory of the National Institute of Standards and Technology (NIST),Q61045,,LLM
+David J. Wineland,award_received,Nobel Prize in Physics,Q61045,,LLM
+David J. Wineland,shared_prize_with,Serge Haroche,Q61045,,LLM
+Klaus von Klitzing,born_in,Mittelmark,Q71024,,LLM
+Klaus von Klitzing,born_on,28 June 1943,Q71024,,LLM
+Klaus von Klitzing,educated_at,Oldenburg,Q71024,,LLM
+Klaus von Klitzing,worked_at,Essen,Q71024,,LLM
+Klaus von Klitzing,award_received,Nobel Prize in Physics,Q71024,,LLM
+Ilya Frank,award_received,Nobel Prize in Physics,Q192703,,LLM
+Ilya Frank,award_received,Stalin prize,Q192703,,LLM
+Ilya Frank,award_received,Soviet state prize,Q192703,,LLM
+Nicolaas Bloembergen,born_on,"March 11, 1920",Q189987,,LLM
+Nicolaas Bloembergen,died_in,"September 5, 2017",Q189987,,LLM
+Nicolaas Bloembergen,educated_at,Harvard University,Q189987,,LLM
+Nicolaas Bloembergen,educated_at,University of Arizona,Q189987,,LLM
+Nicolaas Bloembergen,educated_at,Leiden University,Q189987,,LLM
+Nicolaas Bloembergen,worked_at,Harvard University,Q189987,,LLM
+Nicolaas Bloembergen,worked_at,University of Arizona,Q189987,,LLM
+Nicolaas Bloembergen,worked_at,Leiden University,Q189987,,LLM
+Nicolaas Bloembergen,award_received,Nobel Prize in Physics,Q189987,,LLM
+Nicolaas Bloembergen,shared_prize_with,Arthur Schawlow,Q189987,,LLM
+Nicolaas Bloembergen,shared_prize_with,Kai Siegbahn,Q189987,,LLM
+Rainer Weiss,educated_at,Massachusetts Institute of Technology,Q2128461,,LLM
+Rainer Weiss,educated_at,Louisiana State University,Q2128461,,LLM
+Rainer Weiss,worked_at,Massachusetts Institute of Technology,Q2128461,,LLM
+Rainer Weiss,worked_at,Fermilab,Q2128461,,LLM
+Rainer Weiss,award_received,Nobel Prize in Physics,Q2128461,,LLM
+Rainer Weiss,shared_prize_with,Kip Thorne,Q2128461,,LLM
+Rainer Weiss,shared_prize_with,Barry Barish,Q2128461,,LLM
+Andre Geim,born_in,Russia,Q104104,,LLM
+Andre Geim,born_on,21 October 1958,Q104104,,LLM
+Andre Geim,educated_at,School of Physics and Astronomy at the University of Manchester,Q104104,,LLM
+Andre Geim,worked_at,National Graphene Institute,Q104104,,LLM
+Andre Geim,worked_at,Regius Professor of Physics and Royal Society Research Professor at the National Graphene Institute,Q104104,,LLM
+Andre Geim,award_received,Nobel Prize in Physics,Q104104,,LLM
+Andre Geim,award_received,Ig Nobel Prize,Q104104,,LLM
+Andre Geim,shared_prize_with,Konstantin Novoselov,Q104104,,LLM
+Ferenc Krausz,born_in,Hungary,Q86970,,LLM
+Ferenc Krausz,born_on,17 May 1962,Q86970,,LLM
+Ferenc Krausz,educated_at,Max Planck Institute of Quantum Optics,Q86970,,LLM
+Ferenc Krausz,educated_at,LMU Munich,Q86970,,LLM
+Ferenc Krausz,worked_at,"Department of Physics at the University of Hong Kong, Pokfulam, Hong Kong",Q86970,,LLM
+Ferenc Krausz,award_received,Nobel Prize in Physics,Q86970,,LLM
+Ferenc Krausz,shared_prize_with,Pierre Agostini,Q86970,,LLM
+Ferenc Krausz,shared_prize_with,Anne L'Huillier,Q86970,,LLM
+Peter Grünberg,educated_at,Universität Heidelberg,Q57120,,LLM
+Peter Grünberg,worked_at,Max Planck Institute for Solid State Research,Q57120,,LLM
+Peter Grünberg,award_received,Nobel Prize in Physics,Q57120,,LLM
+Nevill Mott,educated_at,University College London,Q189485,,LLM
+Nevill Mott,worked_at,University College London,Q189485,,LLM
+Nevill Mott,award_received,Nobel Prize in Physics,Q189485,,LLM
+Nevill Mott,shared_prize_with,Philip W. Anderson,Q189485,,LLM
+Nevill Mott,shared_prize_with,John Van Vleck,Q189485,,LLM
+Alexander Prokhorov,born_in,Australia,Q83552,,LLM
+Alexander Prokhorov,born_on,11 July 1916,Q83552,,LLM
+Alexander Prokhorov,died_in,Russia,Q83552,,LLM
+Alexander Prokhorov,educated_at,Soviet Union,Q83552,,LLM
+Alexander Prokhorov,worked_at,Soviet Union,Q83552,,LLM
+Alexander Prokhorov,award_received,Nobel Prize in Physics,Q83552,,LLM
+Alexander Prokhorov,shared_prize_with,Charles Hard Townes,Q83552,,LLM
+Alexander Prokhorov,shared_prize_with,Nikolay Basov,Q83552,,LLM
+Leo Esaki,born_in,Japan,Q179852,,LLM
+Leo Esaki,born_on,"March 12, 1925",Q179852,,LLM
+Leo Esaki,worked_at,Sony,Q179852,,LLM
+Leo Esaki,award_received,Nobel Prize in Physics,Q179852,,LLM
+Leo Esaki,shared_prize_with,Ivar Giaever,Q179852,,LLM
+Leo Esaki,shared_prize_with,Brian Josephson,Q179852,,LLM
+Jerome Isaac Friedman,born_on,"March 28, 1930",Q187822,,LLM
+Jerome Isaac Friedman,educated_at,Massachusetts Institute of Technology,Q187822,,LLM
+Jerome Isaac Friedman,worked_at,Massachusetts Institute of Technology,Q187822,,LLM
+Jerome Isaac Friedman,award_received,Nobel Prize in Physics,Q187822,,LLM
+Jerome Isaac Friedman,shared_prize_with,Henry Kendall,Q187822,,LLM
+Jerome Isaac Friedman,shared_prize_with,Richard Taylor,Q187822,,LLM
+Melvin Schwartz,award_received,Nobel Prize in Physics,Q189741,,LLM
+Melvin Schwartz,shared_prize_with,Leon M. Lederman,Q189741,,LLM
+Melvin Schwartz,shared_prize_with,Jack Steinberger,Q189741,,LLM
+Isamu Akasaki,died_in,Tokyo,Q1673706,,LLM
+Isamu Akasaki,award_received,Nobel Prize in Physics,Q1673706,,LLM
+Isamu Akasaki,shared_prize_with,Hiroshi Amano,Q1673706,,LLM
+Isamu Akasaki,shared_prize_with,Shuji Nakamura,Q1673706,,LLM
+Charles-Édouard Guillaume,award_received,Nobel Prize in Physics,Q123026,,LLM
+Shin'ichirō Tomonaga,award_received,Nobel Prize in Physics,Q184563,,LLM
+Shin'ichirō Tomonaga,shared_prize_with,Richard Feynman,Q184563,,LLM
+Shin'ichirō Tomonaga,shared_prize_with,Julian Schwinger,Q184563,,LLM
+George Smoot,born_on,"February 20, 1945",Q179572,,LLM
+George Smoot,died_in,"September 18, 2025",Q179572,,LLM
+George Smoot,educated_at,"University of California, Berkeley",Q179572,,LLM
+George Smoot,educated_at,Lawrence Berkeley National Laboratory,Q179572,,LLM
+George Smoot,worked_at,Berkeley Center for Cosmological Physics,Q179572,,LLM
+George Smoot,worked_at,Paris Center for Cosmological Physics,Q179572,,LLM
+George Smoot,award_received,Gruber Prize in Cosmology,Q179572,,LLM
+George Smoot,award_received,Daniel Chalonge Medal,Q179572,,LLM
+George Smoot,award_received,Einstein Medal,Q179572,,LLM
+George Smoot,award_received,Ernest Orlando Lawrence Award,Q179572,,LLM
+George Smoot,award_received,Exceptional Scientific Achievement Medal,Q179572,,LLM
+George Smoot,award_received,US National Academy of Sciences,Q179572,,LLM
+George Smoot,award_received,American Physical Society,Q179572,,LLM
+George Smoot,award_received,Paris Center for Cosmological Physics,Q179572,,LLM
+George Smoot,award_received,East Bay Community Foundation,Q179572,,LLM
+George Smoot,award_received,"University of California, Berkeley",Q179572,,LLM
+George Smoot,award_received,Lawrence Berkeley National Laboratory,Q179572,,LLM
+George Smoot,award_received,NASA,Q179572,,LLM
+George Smoot,award_received,National Science Foundation,Q179572,,LLM
+George Smoot,award_received,National Institute of Standards and Technology,Q179572,,LLM
+George Smoot,shared_prize_with,John C. Mather,Q179572,,LLM
+Sheldon Glashow,born_on,"December 5, 1932",Q107420,,LLM
+Sheldon Glashow,award_received,Nobel Prize in Physics,Q107420,,LLM
+Sheldon Glashow,shared_prize_with,Abdus Salam,Q107420,,LLM
+Sheldon Glashow,shared_prize_with,Steven Weinberg,Q107420,,LLM
+Douglas Osheroff,born_on,"August 1, 1945",Q206405,,LLM
+Douglas Osheroff,educated_at,Stanford University,Q206405,,LLM
+Douglas Osheroff,worked_at,Stanford University,Q206405,,LLM
+Douglas Osheroff,award_received,Nobel Prize in Physics,Q206405,,LLM
+Douglas Osheroff,shared_prize_with,David Lee,Q206405,,LLM
+Douglas Osheroff,shared_prize_with,Robert C. Richardson,Q206405,,LLM
+Arthur Compton,educated_at,University of Cambridge,Q127944,,LLM
+Arthur Compton,worked_at,Cavendish Laboratory,Q127944,,LLM
+Arthur Compton,worked_at,Manhattan Project,Q127944,,LLM
+Arthur Compton,worked_at,Washington University in St. Louis,Q127944,,LLM
+Arthur Compton,award_received,Nobel Prize in Physics,Q127944,,LLM
+Arthur Compton,award_received,National Research Council Fellowship,Q127944,,LLM
+Arthur Compton,award_received,S-1 Executive Committee,Q127944,,LLM
+Arthur Compton,award_received,Head of 'X' projects,Q127944,,LLM
+Arthur Compton,award_received,Chancellor of Washington University in St. Louis,Q127944,,LLM
+James Rainwater,born_on,"December 9, 1917",Q190745,,LLM
+James Rainwater,died_in,"May 31, 1986",Q190745,,LLM
+James Rainwater,educated_at,Columbia,Q190745,,LLM
+James Rainwater,worked_at,Manhattan Project,Q190745,,LLM
+James Rainwater,worked_at,United States Atomic Energy Commission,Q190745,,LLM
+James Rainwater,worked_at,naval research projects,Q190745,,LLM
+James Rainwater,award_received,Ernest Orlando Lawrence Award for Physics,Q190745,,LLM
+James Rainwater,award_received,Nobel Prize in Physics,Q190745,,LLM
+James Rainwater,shared_prize_with,Aage Bohr,Q190745,,LLM
+James Rainwater,shared_prize_with,Ben Mottelson,Q190745,,LLM
+Richard E. Taylor,educated_at,Stanford University,Q201470,,LLM
+Richard E. Taylor,worked_at,Stanford University,Q201470,,LLM
+Richard E. Taylor,award_received,Nobel Prize in Physics,Q201470,,LLM
+Richard E. Taylor,shared_prize_with,Jerome Friedman,Q201470,,LLM
+Richard E. Taylor,shared_prize_with,Henry Kendall,Q201470,,LLM
+Nikolay Basov,award_received,Nobel Prize in Physics,Q83557,,LLM
+Nikolay Basov,shared_prize_with,Alexander Prokhorov,Q83557,,LLM
+Nikolay Basov,shared_prize_with,Charles Hard Townes,Q83557,,LLM
+Johannes Diderik van der Waals,born_on,23 November 1837,Q131721,,LLM
+Johannes Diderik van der Waals,educated_at,University of Amsterdam,Q131721,,LLM
+Johannes Diderik van der Waals,worked_at,University of Amsterdam,Q131721,,LLM
+Johannes Diderik van der Waals,award_received,Nobel Prize in Physics,Q131721,,LLM
+Edward Victor Appleton,educated_at,University of Cambridge,Q153194,,LLM
+Edward Victor Appleton,worked_at,Royal Engineers Signals Depot,Q153194,,LLM
+Edward Victor Appleton,worked_at,King's College London,Q153194,,LLM
+Edward Victor Appleton,worked_at,Cavendish Laboratory,Q153194,,LLM
+Edward Victor Appleton,worked_at,Department of Scientific and Industrial Research,Q153194,,LLM
+Edward Victor Appleton,worked_at,Tube Alloys,Q153194,,LLM
+Edward Victor Appleton,worked_at,University of Edinburgh,Q153194,,LLM
+Edward Victor Appleton,award_received,Nobel Prize in Physics,Q153194,,LLM
+Alain Aspect,born_on,15 June 1947,Q364997,,LLM
+Alain Aspect,award_received,Nobel Prize in Physics,Q364997,,LLM
+Alain Aspect,award_received,Académie Française,Q364997,,LLM
+Alain Aspect,shared_prize_with,John Clauser,Q364997,,LLM
+Alain Aspect,shared_prize_with,Anton Zeilinger,Q364997,,LLM
+Arthur B. McDonald,born_in,Canada,Q710597,,LLM
+Arthur B. McDonald,born_on,"August 29, 1943",Q710597,,LLM
+Arthur B. McDonald,educated_at,Queen's University,Q710597,,LLM
+Arthur B. McDonald,worked_at,Sudbury Neutrino Observatory Collaboration,Q710597,,LLM
+Arthur B. McDonald,award_received,Nobel Prize in Physics,Q710597,,LLM
+Arthur B. McDonald,shared_prize_with,Takaaki Kajita,Q710597,,LLM
+Vitaly Ginzburg,worked_at,Lebedev Physical Institute of the Russian Academy of Sciences (FIAN),Q104668,,LLM
+Vitaly Ginzburg,worked_at,Department of Theoretical Physics of the Lebedev Physical Institute of the Russian Academy of Sciences (FIAN),Q104668,,LLM
+Vitaly Ginzburg,award_received,Nobel Prize in Physics,Q104668,,LLM
+Vitaly Ginzburg,award_received,Russian Academy of Sciences,Q104668,,LLM
+Vitaly Ginzburg,shared_prize_with,Alexei Abrikosov,Q104668,,LLM
+Vitaly Ginzburg,shared_prize_with,Anthony Leggett,Q104668,,LLM
+Isidor Rabi,born_in,"Rymanów, Austria-Hungary",Q165969,,LLM
+Isidor Rabi,born_on,"July 29, 1898",Q165969,,LLM
+Isidor Rabi,died_in,New York City,Q165969,,LLM
+Isidor Rabi,educated_at,Cornell University,Q165969,,LLM
+Isidor Rabi,educated_at,Columbia University,Q165969,,LLM
+Isidor Rabi,worked_at,Massachusetts Institute of Technology (MIT) Radiation Laboratory,Q165969,,LLM
+Isidor Rabi,worked_at,Manhattan Project,Q165969,,LLM
+Isidor Rabi,worked_at,Brookhaven National Laboratory,Q165969,,LLM
+Isidor Rabi,worked_at,United States delegate to UNESCO,Q165969,,LLM
+Isidor Rabi,worked_at,CERN,Q165969,,LLM
+Isidor Rabi,award_received,Nobel Prize in Physics,Q165969,,LLM
+Arthur Leonard Schawlow,award_received,Nobel Prize in Physics,Q190503,,LLM
+Arthur Leonard Schawlow,shared_prize_with,Nicolaas Bloembergen,Q190503,,LLM
+Arthur Leonard Schawlow,shared_prize_with,Kai Siegbahn,Q190503,,LLM
+John Clarke,born_on,10 February 1942,Q555849,,LLM
+John Clarke,educated_at,University of Cambridge,Q555849,,LLM
+John Clarke,worked_at,"University of California, Berkeley",Q555849,,LLM
+John Clarke,award_received,Nobel Prize in Physics,Q555849,,LLM
+John Clarke,shared_prize_with,Steven Girvin,Q555849,,LLM
+John Clarke,shared_prize_with,John M. Martinis,Q555849,,LLM
+John Clarke,shared_prize_with,Michel Devoret,Q555849,,LLM
+Simon van der Meer,worked_at,CERN,Q104779,,LLM
+Simon van der Meer,award_received,Nobel Prize in Physics,Q104779,,LLM
+Simon van der Meer,shared_prize_with,Carlo Rubbia,Q104779,,LLM
+George Paget Thomson,educated_at,University College London,Q133846,,LLM
+George Paget Thomson,worked_at,University College London,Q133846,,LLM
+George Paget Thomson,award_received,Nobel Prize in Physics,Q133846,,LLM
+George Paget Thomson,shared_prize_with,Clinton Davisson,Q133846,,LLM
+Hans Bethe,educated_at,University of Munich,Q155794,,LLM
+Hans Bethe,educated_at,Princeton University,Q155794,,LLM
+Hans Bethe,worked_at,Cornell University,Q155794,,LLM
+Hans Bethe,worked_at,Los Alamos National Laboratory,Q155794,,LLM
+Hans Bethe,worked_at,Theoretical Division,Q155794,,LLM
+Hans Bethe,award_received,Nobel Prize in Physics,Q155794,,LLM
+Hans Bethe,award_received,Dirac Medal,Q155794,,LLM
+John C. Mather,born_on,"August 7, 1946",Q104651,,LLM
+John C. Mather,educated_at,University of Chicago,Q104651,,LLM
+John C. Mather,worked_at,NASA Goddard Space Flight Center (GSFC),Q104651,,LLM
+John C. Mather,worked_at,"University of Maryland College of Computer, Mathematical, and Natural Sciences",Q104651,,LLM
+John C. Mather,award_received,Nobel Prize in Physics,Q104651,,LLM
+John C. Mather,award_received,Time Magazine Person of the Year 2007,Q104651,,LLM
+John C. Mather,award_received,Time Magazine Person of the Year 2012,Q104651,,LLM
+John C. Mather,award_received,Letter to President George W. Bush,Q104651,,LLM
+John C. Mather,shared_prize_with,George Smoot,Q104651,,LLM
+Klaus Hasselmann,born_in,"Welwyn Garden City, England",Q109370,,LLM
+Klaus Hasselmann,born_on,25 October 1931,Q109370,,LLM
+Klaus Hasselmann,educated_at,University of Hamburg,Q109370,,LLM
+Klaus Hasselmann,educated_at,Max Planck Institute for Meteorology,Q109370,,LLM
+Klaus Hasselmann,worked_at,Scripps Institution of Oceanography,Q109370,,LLM
+Klaus Hasselmann,worked_at,Woods Hole Oceanographic Institution,Q109370,,LLM
+Klaus Hasselmann,worked_at,University of Cambridge,Q109370,,LLM
+Klaus Hasselmann,worked_at,University of Hamburg,Q109370,,LLM
+Klaus Hasselmann,worked_at,Max Planck Institute for Meteorology,Q109370,,LLM
+Klaus Hasselmann,award_received,Nobel Prize in Physics,Q109370,,LLM
+Klaus Hasselmann,award_received,Dirac Medal,Q109370,,LLM
+Klaus Hasselmann,shared_prize_with,Syukuro Manabe,Q109370,,LLM
+Klaus Hasselmann,shared_prize_with,Giorgio Parisi,Q109370,,LLM
+Claude Cohen-Tannoudji,educated_at,École normale supérieure in Paris,Q190697,,LLM
+Claude Cohen-Tannoudji,worked_at,École normale supérieure in Paris,Q190697,,LLM
+Claude Cohen-Tannoudji,award_received,Nobel Prize in Physics,Q190697,,LLM
+Claude Cohen-Tannoudji,shared_prize_with,Steven Chu,Q190697,,LLM
+Claude Cohen-Tannoudji,shared_prize_with,William Daniel Phillips,Q190697,,LLM
+Herbert Kroemer,educated_at,Technische Universität Berlin,Q71016,,LLM
+Herbert Kroemer,worked_at,Bell Labs,Q71016,,LLM
+Herbert Kroemer,award_received,Nobel Prize in Physics,Q71016,,LLM
+Herbert Kroemer,shared_prize_with,Zhores Alferov,Q71016,,LLM
+Carl Wieman,born_on,"March 26, 1951",Q206379,,LLM
+Carl Wieman,educated_at,Stanford University,Q206379,,LLM
+Carl Wieman,educated_at,Cornell University,Q206379,,LLM
+Carl Wieman,worked_at,University of Colorado Boulder,Q206379,,LLM
+Carl Wieman,worked_at,Stanford University,Q206379,,LLM
+Carl Wieman,worked_at,Stanford Graduate School of Education,Q206379,,LLM
+Carl Wieman,worked_at,Stanford University School of Engineering,Q206379,,LLM
+Carl Wieman,award_received,Nobel Prize in Physics,Q206379,,LLM
+Carl Wieman,award_received,Yidan Prize in Education Research,Q206379,,LLM
+Carl Wieman,shared_prize_with,Eric Allin Cornell,Q206379,,LLM
+C. V. Raman,born_in,Tamil Nadu,Q60429,,LLM
+C. V. Raman,born_on,7 November 1888,Q60429,,LLM
+C. V. Raman,educated_at,St Aloysius' Anglo-Indian High School,Q60429,,LLM
+C. V. Raman,educated_at,Presidency College,Q60429,,LLM
+C. V. Raman,worked_at,Indian Finance Service,Q60429,,LLM
+C. V. Raman,worked_at,Rajabazar Science College,Q60429,,LLM
+C. V. Raman,worked_at,Indian Institute of Science,Q60429,,LLM
+C. V. Raman,worked_at,Indian Academy of Sciences,Q60429,,LLM
+C. V. Raman,worked_at,Raman Research Institute,Q60429,,LLM
+C. V. Raman,award_received,Nobel Prize in Physics,Q60429,,LLM
+Pavel Cherenkov,award_received,Nobel Prize in Physics,Q76970,,LLM
+Pavel Cherenkov,shared_prize_with,Ilya Frank,Q76970,,LLM
+Pavel Cherenkov,shared_prize_with,Igor Tamm,Q76970,,LLM
+Heike Kamerlingh Onnes,award_received,Nobel Prize in Physics,Q62891,,LLM
+Ivar Giaever,award_received,Nobel Prize in Physics,Q192688,,LLM
+Ivar Giaever,shared_prize_with,Leo Esaki,Q192688,,LLM
+Zhores Alferov,award_received,Nobel Prize in Physics,Q183279,,LLM
+Pierre Agostini,born_on,23 July 1941,Q57020342,,LLM
+Pierre Agostini,educated_at,Ohio State University,Q57020342,,LLM
+Pierre Agostini,worked_at,Ohio State University,Q57020342,,LLM
+Pierre Agostini,award_received,Nobel Prize in Physics,Q57020342,,LLM
+Donna Strickland,born_on,"May 27, 1959",Q56855591,,LLM
+Donna Strickland,educated_at,University of Waterloo,Q56855591,,LLM
+Donna Strickland,worked_at,Natural Sciences and Engineering Research Council of Canada,Q56855591,,LLM
+Donna Strickland,shared_prize_with,Gérard Mourou,Q56855591,,LLM
+Steven Weinberg,born_on,"May 3, 1933",Q179282,,LLM
+Steven Weinberg,died_in,"July 23, 2021",Q179282,,LLM
+Steven Weinberg,educated_at,University of Texas at Austin,Q179282,,LLM
+Steven Weinberg,worked_at,Josey Regental Chair in Science at the University of Texas at Austin,Q179282,,LLM
+Steven Weinberg,award_received,Nobel Prize in Physics,Q179282,,LLM
+Steven Weinberg,award_received,The Quantum Theory of Fields,Q179282,,LLM
+Steven Weinberg,shared_prize_with,Abdus Salam,Q179282,,LLM
+Steven Weinberg,shared_prize_with,Sheldon Glashow,Q179282,,LLM
+Masatoshi Koshiba,educated_at,University of Tokyo,Q155773,,LLM
+Masatoshi Koshiba,worked_at,International Center for Elementary Particle Physics (ICEPP),Q155773,,LLM
+Masatoshi Koshiba,worked_at,University of Tokyo,Q155773,,LLM
+Masatoshi Koshiba,award_received,Nobel Prize in Physics,Q155773,,LLM
+Masatoshi Koshiba,award_received,Wolf Prize,Q155773,,LLM
+Masatoshi Koshiba,shared_prize_with,Raymond Davis Jr.,Q155773,,LLM
+Masatoshi Koshiba,shared_prize_with,Takaaki Kajita,Q155773,,LLM
+Yoichiro Nambu,born_on,18 January 1921,Q188120,,LLM
+Yoichiro Nambu,died_in,5 July 2015,Q188120,,LLM
+Yoichiro Nambu,educated_at,University of Chicago,Q188120,,LLM
+Yoichiro Nambu,worked_at,University of Chicago,Q188120,,LLM
+Yoichiro Nambu,award_received,Nobel Prize in Physics,Q188120,,LLM
+Yoichiro Nambu,shared_prize_with,Makoto Kobayashi,Q188120,,LLM
+Yoichiro Nambu,shared_prize_with,Toshihide Maskawa,Q188120,,LLM
+Gérard Mourou,born_on,22 June 1944,Q556543,,LLM
+Gérard Mourou,educated_at,University of Michigan,Q556543,,LLM
+Gérard Mourou,worked_at,University of Michigan,Q556543,,LLM
+Gérard Mourou,award_received,Nobel Prize in Physics,Q556543,,LLM
+Gérard Mourou,shared_prize_with,Donna Strickland,Q556543,,LLM
+Samuel C. C. Ting,born_in,Taiwan,Q192715,,LLM
+Samuel C. C. Ting,born_on,"January 27, 1936",Q192715,,LLM
+Samuel C. C. Ting,educated_at,Massachusetts Institute of Technology (MIT),Q192715,,LLM
+Samuel C. C. Ting,worked_at,Thomas Dudley Cabot Institute,Q192715,,LLM
+Samuel C. C. Ting,award_received,Nobel Prize in Physics,Q192715,,LLM
+Samuel C. C. Ting,shared_prize_with,Burton Richter,Q192715,,LLM
+John Clauser,born_on,"December 1, 1942",Q1365270,,LLM
+John Clauser,award_received,Nobel Prize in Physics,Q1365270,,LLM
+John Clauser,award_received,2022,Q1365270,,LLM
+John Clauser,shared_prize_with,Alain Aspect,Q1365270,,LLM
+John Clauser,shared_prize_with,Anton Zeilinger,Q1365270,,LLM
+Emilio Segrè,born_in,Rome,Q173028,,LLM
+Emilio Segrè,born_on,1 February 1905,Q173028,,LLM
+Emilio Segrè,educated_at,University of Rome La Sapienza,Q173028,,LLM
+Emilio Segrè,worked_at,Via Panisperna,Q173028,,LLM
+Emilio Segrè,worked_at,University of Palermo,Q173028,,LLM
+Emilio Segrè,worked_at,Berkeley Radiation Laboratory,Q173028,,LLM
+Emilio Segrè,worked_at,Los Alamos National Laboratory,Q173028,,LLM
+Emilio Segrè,award_received,Nobel Prize in Physics,Q173028,,LLM
+Emilio Segrè,award_received,Dirac Medal,Q173028,,LLM
+Emilio Segrè,shared_prize_with,Owen Chamberlain,Q173028,,LLM
+James Chadwick,educated_at,Victoria University of Manchester,Q80884,,LLM
+James Chadwick,educated_at,"Gonville and Caius College, Cambridge",Q80884,,LLM
+James Chadwick,worked_at,Cavendish Laboratory,Q80884,,LLM
+James Chadwick,worked_at,University of Liverpool,Q80884,,LLM
+James Chadwick,award_received,Nobel Prize in Physics,Q80884,,LLM
+James Chadwick,award_received,MAUD Report,Q80884,,LLM
+James Chadwick,award_received,Knighted,Q80884,,LLM
+Ernest Lawrence,born_on,"August 8, 1901",Q169577,,LLM
+Ernest Lawrence,died_in,"August 27, 1958",Q169577,,LLM
+Ernest Lawrence,educated_at,University of South Dakota,Q169577,,LLM
+Ernest Lawrence,educated_at,University of Minnesota,Q169577,,LLM
+Ernest Lawrence,educated_at,Yale,Q169577,,LLM
+Ernest Lawrence,worked_at,Radiation Laboratory,Q169577,,LLM
+Ernest Lawrence,worked_at,Lawrence Berkeley National Laboratory,Q169577,,LLM
+Ernest Lawrence,worked_at,Lawrence Livermore National Laboratory,Q169577,,LLM
+Ernest Lawrence,award_received,Nobel Prize in Physics,Q169577,,LLM
+Frederick Reines,educated_at,Stevens Institute of Technology,Q191922,,LLM
+Frederick Reines,educated_at,New York University,Q191922,,LLM
+Frederick Reines,worked_at,Los Alamos Laboratory,Q191922,,LLM
+Frederick Reines,worked_at,Theoretical Division,Q191922,,LLM
+Frederick Reines,worked_at,Hanford Site,Q191922,,LLM
+Frederick Reines,worked_at,Savannah River Site,Q191922,,LLM
+Frederick Reines,award_received,Nobel Prize in Physics,Q191922,,LLM
+Frederick Reines,shared_prize_with,Clyde Cowan,Q191922,,LLM
+Duncan Haldane,born_in,London,Q1002250,,LLM
+Duncan Haldane,born_on,14 September 1951,Q1002250,,LLM
+Duncan Haldane,worked_at,Princeton University,Q1002250,,LLM
+Duncan Haldane,award_received,Nobel Prize in Physics,Q1002250,,LLM
+Duncan Haldane,shared_prize_with,David J. Thouless,Q1002250,,LLM
+Duncan Haldane,shared_prize_with,J. Michael Kosterlitz,Q1002250,,LLM
+Robert Coleman Richardson,born_in,Washington D.C.,Q192708,,LLM
+Robert Coleman Richardson,born_on,"June 26, 1937",Q192708,,LLM
+Robert Coleman Richardson,died_in,"February 19, 2013",Q192708,,LLM
+Robert Coleman Richardson,educated_at,Virginia Tech,Q192708,,LLM
+Robert Coleman Richardson,educated_at,Duke University,Q192708,,LLM
+Robert Coleman Richardson,worked_at,Cornell University Laboratory of Atomic and Solid State Physics,Q192708,,LLM
+Robert Coleman Richardson,award_received,Nobel Prize in Physics,Q192708,,LLM
+Robert Coleman Richardson,shared_prize_with,David Lee,Q192708,,LLM
+Robert Coleman Richardson,shared_prize_with,Douglas Osheroff,Q192708,,LLM
+John Cockcroft,educated_at,Manchester Municipal College of Technology,Q62897,,LLM
+John Cockcroft,educated_at,Metropolitan Vickers Trafford Park,Q62897,,LLM
+John Cockcroft,educated_at,"St John's College, Cambridge",Q62897,,LLM
+John Cockcroft,worked_at,Ministry of Supply,Q62897,,LLM
+John Cockcroft,worked_at,MAUD Committee,Q62897,,LLM
+John Cockcroft,worked_at,Tizard Mission,Q62897,,LLM
+John Cockcroft,worked_at,Montreal Laboratory,Q62897,,LLM
+John Cockcroft,worked_at,Harwell,Q62897,,LLM
+John Cockcroft,worked_at,Atomic Energy Research Establishment (AERE),Q62897,,LLM
+John Cockcroft,worked_at,"Churchill College, Cambridge",Q62897,,LLM
+John Cockcroft,worked_at,Australian National University,Q62897,,LLM
+John Cockcroft,award_received,Nobel Prize in Physics,Q62897,,LLM
+John Cockcroft,award_received,Dirac Medal,Q62897,,LLM
+John Cockcroft,shared_prize_with,Ernest Walton,Q62897,,LLM
+Jean Perrin,award_received,Nobel Prize in Physics,Q134085,,LLM
+Ernest Walton,born_in,Dublin,Q183631,,LLM
+Ernest Walton,born_on,6 October 1903,Q183631,,LLM
+Ernest Walton,died_in,Dublin,Q183631,,LLM
+Ernest Walton,educated_at,University of Cambridge,Q183631,,LLM
+Ernest Walton,worked_at,University of Cambridge,Q183631,,LLM
+Ernest Walton,worked_at,Trinity College Dublin,Q183631,,LLM
+Ernest Walton,award_received,Nobel Prize in Physics,Q183631,,LLM
+Ernest Walton,shared_prize_with,John Cockcroft,Q183631,,LLM
+David Thouless,award_received,Wolf Prize,Q726394,,LLM
+David Thouless,award_received,Nobel Prize for Physics,Q726394,,LLM
+David Thouless,shared_prize_with,F. Duncan M. Haldane,Q726394,,LLM
+David Thouless,shared_prize_with,J. Michael Kosterlitz,Q726394,,LLM
+Lev Landau,born_on,22 January 1908,Q133267,,LLM
+Lev Landau,died_in,1 April 1968,Q133267,,LLM
+Lev Landau,educated_at,Moscow State University,Q133267,,LLM
+Lev Landau,worked_at,Institute of Theoretical and Experimental Physics,Q133267,,LLM
+Lev Landau,award_received,Nobel Prize in Physics,Q133267,,LLM
+John Hopfield,born_on,"July 15, 1933",Q391237,,LLM
+John Hopfield,educated_at,Princeton University,Q391237,,LLM
+John Hopfield,worked_at,Princeton University,Q391237,,LLM
+John Hopfield,award_received,Nobel Prize in Physics,Q391237,,LLM
+John Hopfield,award_received,Dirac Medal,Q391237,,LLM
+John Hopfield,shared_prize_with,Geoffrey Hinton,Q391237,,LLM
+Kenneth G. Wilson,award_received,Nobel Prize in Physics,Q193503,,LLM
+Theodor W. Hänsch,born_on,30 October 1941,Q71013,,LLM
+Theodor W. Hänsch,educated_at,Max-Planck-Institut für Quantenoptik (quantum optics),Q71013,,LLM
+Theodor W. Hänsch,educated_at,LMU Munich,Q71013,,LLM
+Theodor W. Hänsch,worked_at,"Max-Planck-Institut für Quantenoptik (quantum optics), Professor of experimental physics and laser spectroscopy at LMU Munich",Q71013,,LLM
+Theodor W. Hänsch,award_received,Nobel Prize in Physics,Q71013,,LLM
+Theodor W. Hänsch,shared_prize_with,John L. Hall,Q71013,,LLM
+Max Planck,born_on,23 April 1858,Q9021,,LLM
+Max Planck,died_in,4 October 1947,Q9021,,LLM
+Max Planck,award_received,Nobel Prize in Physics,Q9021,,LLM
+Max Planck,award_received,President of the Kaiser Wilhelm Society,Q9021,,LLM
+Arthur Ashkin,born_on,"September 2, 1922",Q708472,,LLM
+Arthur Ashkin,died_in,"Rumson, New Jersey",Q708472,,LLM
+Arthur Ashkin,educated_at,Bell Labs,Q708472,,LLM
+Arthur Ashkin,worked_at,Bell Labs,Q708472,,LLM
+Arthur Ashkin,award_received,Nobel Prize in Physics,Q708472,,LLM
+Ernst Ruska,worked_at,Max Planck Institute for Biophysical Chemistry,Q71022,,LLM
+Ernst Ruska,award_received,Nobel Prize in Physics,Q71022,,LLM
+Hideki Yukawa,award_received,Nobel Prize in Physics,Q155777,,LLM
+Andrea M. Ghez,born_on,"June 16, 1965",Q493956,,LLM
+Andrea M. Ghez,educated_at,"University of California, Berkeley",Q493956,,LLM
+Andrea M. Ghez,worked_at,"Department of Physics and Astronomy, University of California, Los Angeles",Q493956,,LLM
+Andrea M. Ghez,award_received,Nobel Prize in Physics,Q493956,,LLM
+Andrea M. Ghez,shared_prize_with,Reinhard Genzel,Q493956,,LLM
+Luis Walter Alvarez,educated_at,University of Chicago,Q178344,,LLM
+Luis Walter Alvarez,worked_at,Radiation Laboratory,Q178344,,LLM
+Luis Walter Alvarez,worked_at,MIT Radiation Laboratory,Q178344,,LLM
+Luis Walter Alvarez,worked_at,Los Alamos National Laboratory,Q178344,,LLM
+Luis Walter Alvarez,worked_at,Project Alberta,Q178344,,LLM
+Luis Walter Alvarez,award_received,Nobel Prize in Physics,Q178344,,LLM
+Wolfgang Pauli,born_on,25 April 1900,Q65989,,LLM
+Wolfgang Pauli,died_in,15 December 1958,Q65989,,LLM
+Wolfgang Pauli,educated_at,Austrian University,Q65989,,LLM
+Wolfgang Pauli,worked_at,Theoretical physics,Q65989,,LLM
+Wolfgang Pauli,award_received,Nobel Prize in Physics,Q65989,,LLM
+Anne L'Huillier,born_on,16 August 1958,Q565544,,LLM
+Anne L'Huillier,educated_at,University of Paris,Q565544,,LLM
+Anne L'Huillier,worked_at,Lund University in Sweden,Q565544,,LLM
+Anne L'Huillier,award_received,Wolf Prize in Physics,Q565544,,LLM
+Anne L'Huillier,award_received,Nobel Prize in Physics,Q565544,,LLM
+Roger Penrose,educated_at,University of Oxford,Q193803,,LLM
+Roger Penrose,worked_at,Wadham College,Q193803,,LLM
+Roger Penrose,worked_at,"St John's College, Cambridge",Q193803,,LLM
+Roger Penrose,worked_at,University College London,Q193803,,LLM
+Roger Penrose,award_received,Wolf Prize in Physics,Q193803,,LLM
+Roger Penrose,award_received,Nobel Prize in Physics,Q193803,,LLM
+Roger Penrose,award_received,Royal Society Science Book Prize,Q193803,,LLM
+Roger Penrose,award_received,Shadows of the Mind,Q193803,,LLM
+Roger Penrose,award_received,"The Large, the Small and the Human Mind",Q193803,,LLM
+Roger Penrose,award_received,The Road to Reality,Q193803,,LLM
+Roger Penrose,shared_prize_with,Stephen Hawking,Q193803,,LLM
+Toshihide Maskawa,award_received,Nobel Prize in Physics,Q202168,,LLM
+George E. Smith,award_received,Nobel Prize in Physics,Q76373,,LLM
+George E. Smith,shared_prize_with,Willard Boyle,Q76373,,LLM
+"John William Strutt, 3rd Baron Rayleigh",worked_at,Theoretical treatment of the elastic scattering of light by particles much smaller than the light's wavelength,Q83297,,LLM
+"John William Strutt, 3rd Baron Rayleigh",worked_at,Transverse surface waves in solids,Q83297,,LLM
+"John William Strutt, 3rd Baron Rayleigh",worked_at,Fluid dynamics,Q83297,,LLM
+"John William Strutt, 3rd Baron Rayleigh",award_received,Nobel Prize in Physics,Q83297,,LLM
+"John William Strutt, 3rd Baron Rayleigh",award_received,Rayleigh test for circular non-uniformity,Q83297,,LLM
+"John William Strutt, 3rd Baron Rayleigh",award_received,Rayleigh plot,Q83297,,LLM
+John Bardeen,born_in,Wisconsin,Q949,,LLM
+John Bardeen,born_on,"May 23, 1908",Q949,,LLM
+John Bardeen,educated_at,University of Wisconsin,Q949,,LLM
+John Bardeen,educated_at,Princeton University,Q949,,LLM
+John Bardeen,worked_at,Bell Labs,Q949,,LLM
+John Bardeen,worked_at,University of Illinois,Q949,,LLM
+John Bardeen,shared_prize_with,William Shockley,Q949,,LLM
+John Bardeen,shared_prize_with,Leon Cooper,Q949,,LLM
+John Bardeen,shared_prize_with,John Robert Schrieffer,Q949,,LLM
+J. Michael Kosterlitz,born_on,"June 22, 1943",Q1700920,,LLM
+J. Michael Kosterlitz,educated_at,Brown University,Q1700920,,LLM
+J. Michael Kosterlitz,worked_at,Brown University,Q1700920,,LLM
+J. Michael Kosterlitz,award_received,Nobel Prize in Physics,Q1700920,,LLM
+J. Michael Kosterlitz,shared_prize_with,"David Thouless, Duncan Haldane",Q1700920,,LLM
+Bertram Brockhouse,educated_at,McGill University,Q192689,,LLM
+Bertram Brockhouse,worked_at,Atomic Energy of Canada Limited (AECL),Q192689,,LLM
+Bertram Brockhouse,worked_at,University of Toronto,Q192689,,LLM
+Bertram Brockhouse,award_received,Nobel Prize in Physics,Q192689,,LLM
+Bertram Brockhouse,shared_prize_with,Clifford Shull,Q192689,,LLM
+Albert Einstein,born_in,Germany,Q937,,LLM
+Albert Einstein,born_on,14 March 1879,Q937,,LLM
+Albert Einstein,educated_at,Swiss Federal Polytechnic School in Zurich,Q937,,LLM
+Albert Einstein,worked_at,Prussian Academy of Sciences and the Humboldt University of Berlin,Q937,,LLM
+Albert Einstein,worked_at,Kaiser Wilhelm Institute for Physics,Q937,,LLM
+Albert Einstein,worked_at,United States Patent Office,Q937,,LLM
+Albert Einstein,award_received,Nobel Prize in Physics,Q937,,LLM
+Albert Einstein,award_received,Dirac Medal,Q937,,LLM
+Igor Tamm,award_received,Nobel Prize in Physics,Q155759,,LLM
+Igor Tamm,shared_prize_with,Pavel Cherenkov,Q155759,,LLM
+Igor Tamm,shared_prize_with,Ilya Frank,Q155759,,LLM
+Eugene Wigner,born_in,Szeged,Q155790,,LLM
+Eugene Wigner,born_on,"November 17, 1902",Q155790,,LLM
+Eugene Wigner,died_in,New York City,Q155790,,LLM
+Eugene Wigner,educated_at,Technical Hochschule Berlin (now Technische Universität Berlin),Q155790,,LLM
+Eugene Wigner,educated_at,Kaiser Wilhelm Institute in Berlin,Q155790,,LLM
+Eugene Wigner,educated_at,University of Göttingen,Q155790,,LLM
+Eugene Wigner,worked_at,Princeton University,Q155790,,LLM
+Eugene Wigner,worked_at,DuPont,Q155790,,LLM
+Eugene Wigner,worked_at,Clinton Laboratory (now the Oak Ridge National Laboratory),Q155790,,LLM
+Eugene Wigner,award_received,Nobel Prize in Physics,Q155790,,LLM
+Anthony Leggett,educated_at,University of Illinois Urbana-Champaign,Q192718,,LLM
+Anthony Leggett,worked_at,University of Illinois Urbana-Champaign,Q192718,,LLM
+Anthony Leggett,award_received,Nobel Prize in Physics,Q192718,,LLM
+Walther Bothe,born_on,8 January 1891,Q76474,,LLM
+Walther Bothe,died_in,Heidelberg,Q76474,,LLM
+Walther Bothe,educated_at,University of Giessen,Q76474,,LLM
+Walther Bothe,educated_at,Heidelberg University,Q76474,,LLM
+Walther Bothe,worked_at,Kaiser Wilhelm Institute for Medical Research at Heidelberg University,Q76474,,LLM
+Walther Bothe,worked_at,Physics Institute of the KWImf,Q76474,,LLM
+Walther Bothe,worked_at,Max Planck Institute for Nuclear Physics,Q76474,,LLM
+Walther Bothe,award_received,Nobel Prize in Physics,Q76474,,LLM
+Walther Bothe,shared_prize_with,Max Born,Q76474,,LLM
+Rudolf Mössbauer,award_received,Nobel Prize in Physics,Q44286,,LLM
+Rudolf Mössbauer,shared_prize_with,Robert Hofstadter,Q44286,,LLM
+Willard Boyle,worked_at,Bellcomm,Q73058,,LLM
+Willard Boyle,award_received,Nobel Prize in Physics,Q73058,,LLM
+Willard Boyle,shared_prize_with,George E. Smith,Q73058,,LLM
+Leon M. Lederman,born_on,"July 15, 1922",Q192695,,LLM
+Leon M. Lederman,died_in,"Aurora, Illinois",Q192695,,LLM
+Leon M. Lederman,worked_at,Fermi National Accelerator Laboratory (Fermilab),Q192695,,LLM
+Leon M. Lederman,worked_at,Illinois Mathematics and Science Academy,Q192695,,LLM
+Leon M. Lederman,award_received,Nobel Prize in Physics,Q192695,,LLM
+Leon M. Lederman,award_received,Wolf Prize in Physics,Q192695,,LLM
+Leon M. Lederman,shared_prize_with,Melvin Schwartz,Q192695,,LLM
+Leon M. Lederman,shared_prize_with,Jack Steinberger,Q192695,,LLM
+Leon M. Lederman,shared_prize_with,Martin Lewis Perl,Q192695,,LLM
+Paul Dirac,educated_at,University of Bristol,Q47480,,LLM
+Paul Dirac,educated_at,"St John's College, Cambridge",Q47480,,LLM
+Paul Dirac,worked_at,Florida State University,Q47480,,LLM
+Paul Dirac,award_received,Nobel Prize in Physics,Q47480,,LLM
+Gabriel Lippmann,award_received,Nobel Prize in Physics,Q133232,,LLM
+John M. Martinis,born_on,1958,Q28976188,,LLM
+John M. Martinis,educated_at,"University of California, Santa Barbara",Q28976188,,LLM
+John M. Martinis,worked_at,Quantum AI Lab,Q28976188,,LLM
+John M. Martinis,award_received,Nobel Prize in Physics,Q28976188,,LLM
+John M. Martinis,award_received,Dirac Medal,Q28976188,,LLM
+John M. Martinis,shared_prize_with,John Clarke,Q28976188,,LLM
+John M. Martinis,shared_prize_with,Michel Devoret,Q28976188,,LLM
+Wilhelm Wien,award_received,Nobel Prize in Physics,Q57068,,LLM
+Jack Kilby,worked_at,Texas Instruments,Q182031,,LLM
+Jack Kilby,award_received,Nobel Prize in Physics,Q182031,,LLM
+Jack Kilby,shared_prize_with,Robert Noyce,Q182031,,LLM
+Gustav Ludwig Hertz,educated_at,University of Göttingen,Q57070,,LLM
+Gustav Ludwig Hertz,worked_at,Max Planck Institute for Physics,Q57070,,LLM
+Gustav Ludwig Hertz,award_received,Nobel Prize in Physics,Q57070,,LLM
+Gustav Ludwig Hertz,shared_prize_with,James Franck,Q57070,,LLM
+Martin Ryle,educated_at,University of Cambridge,Q190766,,LLM
+Martin Ryle,worked_at,Mullard Radio Astronomy Observatory,Q190766,,LLM
+Martin Ryle,award_received,Nobel Prize in Physics,Q190766,,LLM
+Martin Ryle,shared_prize_with,Antony Hewish,Q190766,,LLM
+Alexei Abrikosov,award_received,Nobel Prize in Physics,Q188128,,LLM
+Alexei Abrikosov,shared_prize_with,Vitaly Ginzburg,Q188128,,LLM
+Alexei Abrikosov,shared_prize_with,Anthony James Leggett,Q188128,,LLM
+James Cronin,educated_at,University of Chicago,Q193496,,LLM
+James Cronin,worked_at,University of Chicago,Q193496,,LLM
+James Cronin,award_received,Ernest Orlando Lawrence Award,Q193496,,LLM
+James Cronin,award_received,National Medal of Science,Q193496,,LLM
+James Cronin,award_received,Quantrell Award,Q193496,,LLM
+James Cronin,award_received,spokesperson emeritus for the Auger project,Q193496,,LLM
+James Cronin,award_received,Board of Sponsors of the Bulletin of the Atomic Scientists,Q193496,,LLM
+Brian Schmidt,born_on,24 February 1967,Q201452,,LLM
+Brian Schmidt,educated_at,Australian National University,Q201452,,LLM
+Brian Schmidt,worked_at,Mount Stromlo Observatory and Research School of Astronomy and Astrophysics,Q201452,,LLM
+Brian Schmidt,award_received,Fellow of the Royal Society,Q201452,,LLM
+Brian Schmidt,award_received,Shaw Prize in Astronomy,Q201452,,LLM
+Brian Schmidt,award_received,Nobel Prize in Physics,Q201452,,LLM
+Brian Schmidt,shared_prize_with,Saul Perlmutter,Q201452,,LLM
+Brian Schmidt,shared_prize_with,Adam Riess,Q201452,,LLM
+Daniel C. Tsui,born_on,"February 28, 1939",Q202138,,LLM
+Daniel C. Tsui,educated_at,Princeton University,Q202138,,LLM
+Daniel C. Tsui,worked_at,Princeton University,Q202138,,LLM
+Daniel C. Tsui,award_received,Nobel Prize in Physics,Q202138,,LLM
+Daniel C. Tsui,shared_prize_with,Robert B. Laughlin,Q202138,,LLM
+Daniel C. Tsui,shared_prize_with,Horst L. Störmer,Q202138,,LLM
+Barry Barish,born_on,"January 27, 1936",Q15900993,,LLM
+Barry Barish,educated_at,California Institute of Technology,Q15900993,,LLM
+Barry Barish,worked_at,California Institute of Technology,Q15900993,,LLM
+Barry Barish,worked_at,"University of California, Riverside",Q15900993,,LLM
+Barry Barish,worked_at,Stony Brook University,Q15900993,,LLM
+Barry Barish,award_received,Nobel Prize in Physics,Q15900993,,LLM
+Barry Barish,award_received,National Medal of Science,Q15900993,,LLM
+Serge Haroche,born_in,Paris,Q109588,,LLM
+Serge Haroche,born_on,11 September 1944,Q109588,,LLM
+Serge Haroche,educated_at,University of Paris VI,Q109588,,LLM
+Serge Haroche,worked_at,Collège de France,Q109588,,LLM
+Serge Haroche,worked_at,Fermi Chair of Physics at University of Rome La Sapienza,Q109588,,LLM
+Serge Haroche,award_received,Nobel Prize for Physics,Q109588,,LLM
+Serge Haroche,shared_prize_with,David J. Wineland,Q109588,,LLM
+Kip Thorne,born_on,"June 1, 1940",Q323320,,LLM
+Kip Thorne,educated_at,Caltech,Q323320,,LLM
+Kip Thorne,worked_at,Caltech,Q323320,,LLM
+Kip Thorne,award_received,Nobel Prize in Physics,Q323320,,LLM
+Kip Thorne,shared_prize_with,Rainer Weiss,Q323320,,LLM
+Kip Thorne,shared_prize_with,Barry C. Barish,Q323320,,LLM
+Brian Josephson,born_on,4 January 1940,Q181363,,LLM
+Brian Josephson,educated_at,University of Cambridge,Q181363,,LLM
+Brian Josephson,worked_at,Theory of Condensed Matter Group in Cambridge's Cavendish Laboratory,Q181363,,LLM
+Brian Josephson,award_received,Nobel Prize in Physics,Q181363,,LLM
+William Alfred Fowler,award_received,Nobel Prize in Physics,Q46120,,LLM
+William Alfred Fowler,shared_prize_with,Margaret Burbidge,Q46120,,LLM
+William Alfred Fowler,shared_prize_with,Geoffrey Burbidge,Q46120,,LLM
+William Alfred Fowler,shared_prize_with,Fred Hoyle,Q46120,,LLM
+Frank Wilczek,educated_at,Massachusetts Institute of Technology (MIT),Q107450,,LLM
+Frank Wilczek,educated_at,T. D. Lee Institute (Shanghai),Q107450,,LLM
+Frank Wilczek,educated_at,Arizona State University (ASU),Q107450,,LLM
+Frank Wilczek,educated_at,Stockholm University,Q107450,,LLM
+Frank Wilczek,worked_at,CERN,Q107450,,LLM
+Frank Wilczek,award_received,Nobel Prize in Physics,Q107450,,LLM
+Frank Wilczek,award_received,Templeton Prize,Q107450,,LLM
+Frank Wilczek,shared_prize_with,David Gross,Q107450,,LLM
+Frank Wilczek,shared_prize_with,H. David Politzer,Q107450,,LLM
+Edward Mills Purcell,educated_at,Harvard University,Q183270,,LLM
+Edward Mills Purcell,worked_at,Princeton University,Q183270,,LLM
+Edward Mills Purcell,award_received,Nobel Prize in Physics,Q183270,,LLM
+Edward Mills Purcell,shared_prize_with,Felix Bloch,Q183270,,LLM
+David Gross,born_on,"February 19, 1941",Q40262,,LLM
+David Gross,educated_at,Kavli Institute for Theoretical Physics (KITP),Q40262,,LLM
+David Gross,educated_at,"University of California, Santa Barbara (UCSB)",Q40262,,LLM
+David Gross,worked_at,Kavli Institute for Theoretical Physics (KITP),Q40262,,LLM
+David Gross,worked_at,Institute for Quantum Studies at Chapman University,Q40262,,LLM
+David Gross,award_received,Nobel Prize in Physics,Q40262,,LLM
+David Gross,shared_prize_with,Frank Wilczek,Q40262,,LLM
+David Gross,shared_prize_with,Hugh David Politzer,Q40262,,LLM
+Joseph Hooton Taylor Jr.,born_on,"March 29, 1941",Q192685,,LLM
+Joseph Hooton Taylor Jr.,award_received,Nobel Prize in Physics,Q192685,,LLM
+Joseph Hooton Taylor Jr.,shared_prize_with,Russell Alan Hulse,Q192685,,LLM
+Syukuro Manabe,born_on,21 September 1931,Q3675789,,LLM
+Syukuro Manabe,educated_at,Kyoto Imperial University,Q3675789,,LLM
+Syukuro Manabe,worked_at,National Institute of Polar Research,Q3675789,,LLM
+Syukuro Manabe,award_received,Nobel Prize in Physics,Q3675789,,LLM
+Syukuro Manabe,shared_prize_with,Klaus Hasselmann,Q3675789,,LLM
+Syukuro Manabe,shared_prize_with,Giorgio Parisi,Q3675789,,LLM
+Enrico Fermi,educated_at,University of Rome Tor Vergata,Q8753,,LLM
+Enrico Fermi,worked_at,University of Chicago,Q8753,,LLM
+Enrico Fermi,worked_at,Los Alamos Scientific Laboratory,Q8753,,LLM
+Enrico Fermi,worked_at,General Advisory Committee,Q8753,,LLM
+Enrico Fermi,worked_at,Institute for Nuclear Studies,Q8753,,LLM
+Enrico Fermi,worked_at,Enrico Fermi National Accelerator Laboratory,Q8753,,LLM
+Enrico Fermi,award_received,Nobel Prize in Physics,Q8753,,LLM
+Enrico Fermi,award_received,Enrico Fermi Award,Q8753,,LLM
+Enrico Fermi,award_received,Enrico Fermi Institute,Q8753,,LLM
+Enrico Fermi,award_received,Fermi 1 (breeder reactor),Q8753,,LLM
+Enrico Fermi,award_received,Fermi National Accelerator Laboratory (Fermilab),Q8753,,LLM
+Martinus J. G. Veltman,educated_at,Delft University of Technology,Q202149,,LLM
+Martinus J. G. Veltman,worked_at,CERN,Q202149,,LLM
+Martinus J. G. Veltman,award_received,Nobel Prize in Physics,Q202149,,LLM
+Martinus J. G. Veltman,shared_prize_with,Gerardus 't Hooft,Q202149,,LLM
+John Robert Schrieffer,award_received,Nobel Prize in Physics,Q153201,,LLM
+John Robert Schrieffer,shared_prize_with,John Bardeen,Q153201,,LLM
+John Robert Schrieffer,shared_prize_with,Leon Cooper,Q153201,,LLM
+Takaaki Kajita,born_on,9 March 1959,Q11538917,,LLM
+Takaaki Kajita,worked_at,"Kamioka Observatory - Kamiokande and its successor, Super-Kamiokande",Q11538917,,LLM
+Takaaki Kajita,award_received,Nobel Prize in Physics,Q11538917,,LLM
+Takaaki Kajita,shared_prize_with,Arthur B. McDonald,Q11538917,,LLM
+Percy Williams Bridgman,award_received,Nobel Prize in Physics,Q172118,,LLM
+Russell Alan Hulse,born_in,New York City,Q156286,,LLM
+Russell Alan Hulse,born_on,"November 28, 1950",Q156286,,LLM
+Russell Alan Hulse,educated_at,Princeton University,Q156286,,LLM
+Russell Alan Hulse,worked_at,Harvard University,Q156286,,LLM
+Charles H. Townes,educated_at,Massachusetts Institute of Technology,Q184566,,LLM
+Charles H. Townes,worked_at,U.S. Government,Q184566,,LLM
+Charles H. Townes,worked_at,"University of California, Berkeley",Q184566,,LLM
+Charles H. Townes,award_received,Nobel Prize in Physics,Q184566,,LLM
+Charles H. Townes,shared_prize_with,Nikolay Basov,Q184566,,LLM
+Charles H. Townes,shared_prize_with,Alexander Prokhorov,Q184566,,LLM
+Julian Schwinger,born_on,"February 12, 1918",Q186465,,LLM
+Julian Schwinger,died_in,"July 16, 1994",Q186465,,LLM
+Julian Schwinger,educated_at,Cornell University,Q186465,,LLM
+Julian Schwinger,educated_at,Princeton University,Q186465,,LLM
+Julian Schwinger,educated_at,Yale University,Q186465,,LLM
+Julian Schwinger,worked_at,Stanford University,Q186465,,LLM
+Julian Schwinger,worked_at,Massachusetts Institute of Technology,Q186465,,LLM
+Julian Schwinger,worked_at,"University of California, Berkeley",Q186465,,LLM
+Julian Schwinger,worked_at,University of Chicago,Q186465,,LLM
+Julian Schwinger,worked_at,University of Pennsylvania,Q186465,,LLM
+Julian Schwinger,worked_at,University of Notre Dame,Q186465,,LLM
+Julian Schwinger,worked_at,University of Illinois at Urbana-Champaign,Q186465,,LLM
+Julian Schwinger,worked_at,"University of California, Los Angeles",Q186465,,LLM
+Julian Schwinger,worked_at,"University of California, Santa Barbara",Q186465,,LLM
+Julian Schwinger,worked_at,"University of California, Davis",Q186465,,LLM
+Julian Schwinger,worked_at,"University of California, San Diego",Q186465,,LLM
+Julian Schwinger,worked_at,"University of California, Irvine",Q186465,,LLM
+Julian Schwinger,worked_at,"University of California, Riverside",Q186465,,LLM
+Julian Schwinger,worked_at,"University of California, San Francisco",Q186465,,LLM
+Julian Schwinger,worked_at,"University of California, Santa Cruz",Q186465,,LLM
+Julian Schwinger,worked_at,"University of California, Merced",Q186465,,LLM
+Gerard 't Hooft,educated_at,Utrecht University,Q184592,,LLM
+Gerard 't Hooft,worked_at,Utrecht University,Q184592,,LLM
+Gerard 't Hooft,award_received,Nobel Prize in Physics,Q184592,,LLM
+Gerard 't Hooft,shared_prize_with,Martinus J. G. Veltman,Q184592,,LLM
+Burton Richter,worked_at,Stanford Linear Accelerator Center (SLAC),Q192106,,LLM
+Burton Richter,worked_at,Brookhaven National Laboratory (BNL),Q192106,,LLM
+Burton Richter,award_received,Nobel Prize in Physics,Q192106,,LLM
+Burton Richter,shared_prize_with,Samuel Ting,Q192106,,LLM
+Leon Cooper,award_received,Nobel Prize in Physics,Q82563,,LLM
+Leon Cooper,shared_prize_with,John Bardeen,Q82563,,LLM
+Leon Cooper,shared_prize_with,John Robert Schrieffer,Q82563,,LLM
+Jim Peebles,born_on,"April 25, 1935",Q728331,,LLM
+Jim Peebles,educated_at,Princeton University,Q728331,,LLM
+Jim Peebles,worked_at,"Canadian-American astrophysicist, astronomer, and theoretical cosmologist",Q728331,,LLM
+Jim Peebles,award_received,Nobel Prize in Physics,Q728331,,LLM
+Jim Peebles,shared_prize_with,Michel Mayor and Didier Queloz,Q728331,,LLM
+Didier Queloz,born_on,23 February 1966,Q124013,,LLM
+Didier Queloz,educated_at,ETH Zurich,Q124013,,LLM
+Didier Queloz,educated_at,"Trinity College, Cambridge",Q124013,,LLM
+Didier Queloz,educated_at,University of Cambridge,Q124013,,LLM
+Didier Queloz,worked_at,Center for the Origin and Prevalence of Life at ETH Zurich,Q124013,,LLM
+Didier Queloz,award_received,Nobel Prize in Physics,Q124013,,LLM
+Didier Queloz,award_received,Jacksonian Professor of Natural Philosophy at the University of Cambridge,Q124013,,LLM
+Didier Queloz,shared_prize_with,Michel Mayor,Q124013,,LLM
+Philipp Lenard,award_received,Nobel Prize in Physics,Q57063,,LLM
+Raymond Davis Jr.,worked_at,Homestake experiment,Q175519,,LLM
+Raymond Davis Jr.,award_received,Nobel Prize in Physics,Q175519,,LLM
+William Shockley,born_on,"February 13, 1910",Q163415,,LLM
+William Shockley,educated_at,Bell Labs,Q163415,,LLM
+William Shockley,worked_at,California's Silicon Valley,Q163415,,LLM
+William Shockley,award_received,Nobel Prize in Physics,Q163415,,LLM
+William Shockley,shared_prize_with,John Bardeen,Q163415,,LLM
+William Shockley,shared_prize_with,Walter Brattain,Q163415,,LLM
+Otto Stern,award_received,Nobel Prize in Physics,Q57072,,LLM
+Hiroshi Amano,born_on,"September 11, 1960",Q11443689,,LLM
+Hiroshi Amano,award_received,Nobel Prize in Physics,Q11443689,,LLM
+Hiroshi Amano,shared_prize_with,Isamu Akasaki,Q11443689,,LLM
+Hiroshi Amano,shared_prize_with,Shuji Nakamura,Q11443689,,LLM
+Abdus Salam,born_on,29 January 1926,Q28189,,LLM
+Abdus Salam,educated_at,Imperial College London,Q28189,,LLM
+Abdus Salam,worked_at,Space and Upper Atmosphere Research Commission (SUPARCO),Q28189,,LLM
+Abdus Salam,worked_at,Department of Atomic Energy (DAE),Q28189,,LLM
+Abdus Salam,award_received,Nobel Prize in Physics,Q28189,,LLM
+Abdus Salam,shared_prize_with,Steven Weinberg,Q28189,,LLM
+Abdus Salam,shared_prize_with,Sheldon Glashow,Q28189,,LLM
+Walter Brattain,award_received,Nobel Prize in Physics,Q184577,,LLM
+Walter Brattain,shared_prize_with,John Bardeen,Q184577,,LLM
+Walter Brattain,shared_prize_with,William Shockley,Q184577,,LLM
+Werner Heisenberg,born_on,5 December 1901,Q40904,,LLM
+Werner Heisenberg,died_in,1 February 1976,Q40904,,LLM
+Werner Heisenberg,educated_at,University of Berlin,Q40904,,LLM
+Werner Heisenberg,worked_at,Kernforschungszentrum Karlsruhe,Q40904,,LLM
+Werner Heisenberg,worked_at,Technische Hochschule München,Q40904,,LLM
+Werner Heisenberg,worked_at,Max Planck Institute for Physics and Astrophysics,Q40904,,LLM
+Werner Heisenberg,award_received,Nobel Prize in Physics,Q40904,,LLM
+Hendrik Lorentz,award_received,Nobel Prize in Physics,Q41688,,LLM
+Hendrik Lorentz,shared_prize_with,Pieter Zeeman,Q41688,,LLM

@@ -1,0 +1,4249 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="Jack Steinberger">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Germany">
+      <data key="d0">Place</data>
+    </node>
+    <node id="1921">
+      <data key="d0">Year</data>
+    </node>
+    <node id="United States">
+      <data key="d0">Place</data>
+    </node>
+    <node id="University of California, Berkeley">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Columbia University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="CERN">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Nobel Prize in Physics">
+      <data key="d0">Award</data>
+    </node>
+    <node id="National Medal of Science">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Matteucci Medal">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Leon M. Lederman">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Melvin Schwartz">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Antony Hewish">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Eddington Medal of the Royal Astronomical Society">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Martin Ryle">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Hugh David Politzer">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1949">
+      <data key="d0">Year</data>
+    </node>
+    <node id="California Institute of Technology">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="David Gross">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Frank Wilczek">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Francis Halzen">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Belgium">
+      <data key="d0">Place</data>
+    </node>
+    <node id="1944">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Catholic University of Leuven">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of Wisconsin-Madison">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="IceCube Neutrino Observatory Principal Investigator">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Shuji Nakamura">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Japan">
+      <data key="d0">Place</data>
+    </node>
+    <node id="1954">
+      <data key="d0">Year</data>
+    </node>
+    <node id="University of California, Santa Barbara">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Isamu Akasaki and Hiroshi Amano">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Niels Bohr">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Denmark">
+      <data key="d0">Place</data>
+    </node>
+    <node id="1885">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Sweden">
+      <data key="d0">Place</data>
+    </node>
+    <node id="University of Copenhagen">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Institute of Theoretical Physics at the University of Copenhagen">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Niels Bohr Institute">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Risø Laboratory">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="British Tube Alloys nuclear weapons project">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Research Establishment Risø of the Danish Atomic Energy Commission">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Nordic Institute for Theoretical Physics">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Dirac Medal">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Bohrium">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Fourth Greatest Physicist of All Time">
+      <data key="d0">Award</data>
+    </node>
+    <node id="David Lee">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1931">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Cornell University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Texas A&amp;M University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Robert C. Richardson">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Douglas Osheroff">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Marie Curie">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Warsaw, Russian Empire">
+      <data key="d0">Place</data>
+    </node>
+    <node id="1867">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Passy, Haute-Savoie, France">
+      <data key="d0">Place</data>
+    </node>
+    <node id="Flying University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of Paris">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Curie Institute in Paris">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Curie Institute in Warsaw">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Nobel Prize in Chemistry">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Pierre Curie">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Yang Chen-Ning">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Princeton University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Yale University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Tsung-Dao Lee">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Wolfgang Paul">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Hans Georg Dehmelt">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Albert Fert">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Paris">
+      <data key="d0">Place</data>
+    </node>
+    <node id="1938">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Paris-Saclay University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Centre national de la recherche scientifique (National Scientific Research Centre)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Thales Group">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Michigan State University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Peter Grünberg">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Robert Millikan">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Caltech">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Maria Goeppert Mayer">
+      <data key="d0">Person</data>
+    </node>
+    <node id="University of Göttingen">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Los Alamos Laboratory">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Manhattan Project">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Argonne National Laboratory">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="David J. Wineland">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Physical Measurement Laboratory of the National Institute of Standards and Technology (NIST)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Serge Haroche">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Klaus von Klitzing">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Mittelmark">
+      <data key="d0">Place</data>
+    </node>
+    <node id="1943">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Oldenburg">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Essen">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Ilya Frank">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Stalin prize">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Soviet state prize">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Nicolaas Bloembergen">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1920">
+      <data key="d0">Year</data>
+    </node>
+    <node id="September 5, 2017">
+      <data key="d0">Place</data>
+    </node>
+    <node id="Harvard University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of Arizona">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Leiden University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Arthur Schawlow">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Kai Siegbahn">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Rainer Weiss">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Massachusetts Institute of Technology">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Louisiana State University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Fermilab">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Kip Thorne">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Barry Barish">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Andre Geim">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Russia">
+      <data key="d0">Place</data>
+    </node>
+    <node id="1958">
+      <data key="d0">Year</data>
+    </node>
+    <node id="School of Physics and Astronomy at the University of Manchester">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="National Graphene Institute">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Regius Professor of Physics and Royal Society Research Professor at the National Graphene Institute">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Ig Nobel Prize">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Konstantin Novoselov">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Ferenc Krausz">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Hungary">
+      <data key="d0">Place</data>
+    </node>
+    <node id="1962">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Max Planck Institute of Quantum Optics">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="LMU Munich">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Department of Physics at the University of Hong Kong, Pokfulam, Hong Kong">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Pierre Agostini">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Anne L'Huillier">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Universität Heidelberg">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Max Planck Institute for Solid State Research">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Nevill Mott">
+      <data key="d0">Person</data>
+    </node>
+    <node id="University College London">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Philip W. Anderson">
+      <data key="d0">Person</data>
+    </node>
+    <node id="John Van Vleck">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Alexander Prokhorov">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Australia">
+      <data key="d0">Place</data>
+    </node>
+    <node id="1916">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Soviet Union">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Charles Hard Townes">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Nikolay Basov">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Leo Esaki">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1925">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Sony">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Ivar Giaever">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Brian Josephson">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Jerome Isaac Friedman">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1930">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Henry Kendall">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Richard Taylor">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Isamu Akasaki">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Tokyo">
+      <data key="d0">Place</data>
+    </node>
+    <node id="Hiroshi Amano">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Charles-Édouard Guillaume">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Shin'ichirō Tomonaga">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Richard Feynman">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Julian Schwinger">
+      <data key="d0">Person</data>
+    </node>
+    <node id="George Smoot">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1945">
+      <data key="d0">Year</data>
+    </node>
+    <node id="September 18, 2025">
+      <data key="d0">Place</data>
+    </node>
+    <node id="Lawrence Berkeley National Laboratory">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Berkeley Center for Cosmological Physics">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Paris Center for Cosmological Physics">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Gruber Prize in Cosmology">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Daniel Chalonge Medal">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Einstein Medal">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Ernest Orlando Lawrence Award">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Exceptional Scientific Achievement Medal">
+      <data key="d0">Award</data>
+    </node>
+    <node id="US National Academy of Sciences">
+      <data key="d0">Award</data>
+    </node>
+    <node id="American Physical Society">
+      <data key="d0">Award</data>
+    </node>
+    <node id="East Bay Community Foundation">
+      <data key="d0">Award</data>
+    </node>
+    <node id="NASA">
+      <data key="d0">Award</data>
+    </node>
+    <node id="National Science Foundation">
+      <data key="d0">Award</data>
+    </node>
+    <node id="National Institute of Standards and Technology">
+      <data key="d0">Award</data>
+    </node>
+    <node id="John C. Mather">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Sheldon Glashow">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1932">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Abdus Salam">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Steven Weinberg">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Stanford University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Arthur Compton">
+      <data key="d0">Person</data>
+    </node>
+    <node id="University of Cambridge">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Cavendish Laboratory">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Washington University in St. Louis">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="National Research Council Fellowship">
+      <data key="d0">Award</data>
+    </node>
+    <node id="S-1 Executive Committee">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Head of 'X' projects">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Chancellor of Washington University in St. Louis">
+      <data key="d0">Award</data>
+    </node>
+    <node id="James Rainwater">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1917">
+      <data key="d0">Year</data>
+    </node>
+    <node id="May 31, 1986">
+      <data key="d0">Place</data>
+    </node>
+    <node id="Columbia">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="United States Atomic Energy Commission">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="naval research projects">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Ernest Orlando Lawrence Award for Physics">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Aage Bohr">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Ben Mottelson">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Richard E. Taylor">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Jerome Friedman">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Johannes Diderik van der Waals">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1837">
+      <data key="d0">Year</data>
+    </node>
+    <node id="University of Amsterdam">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Edward Victor Appleton">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Royal Engineers Signals Depot">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="King's College London">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Department of Scientific and Industrial Research">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Tube Alloys">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of Edinburgh">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Alain Aspect">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1947">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Académie Française">
+      <data key="d0">Award</data>
+    </node>
+    <node id="John Clauser">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Anton Zeilinger">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Arthur B. McDonald">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Canada">
+      <data key="d0">Place</data>
+    </node>
+    <node id="Queen's University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Sudbury Neutrino Observatory Collaboration">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Takaaki Kajita">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Vitaly Ginzburg">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Lebedev Physical Institute of the Russian Academy of Sciences (FIAN)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Department of Theoretical Physics of the Lebedev Physical Institute of the Russian Academy of Sciences (FIAN)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Russian Academy of Sciences">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Alexei Abrikosov">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Anthony Leggett">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Isidor Rabi">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Rymanów, Austria-Hungary">
+      <data key="d0">Place</data>
+    </node>
+    <node id="1898">
+      <data key="d0">Year</data>
+    </node>
+    <node id="New York City">
+      <data key="d0">Place</data>
+    </node>
+    <node id="Massachusetts Institute of Technology (MIT) Radiation Laboratory">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Brookhaven National Laboratory">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="United States delegate to UNESCO">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Arthur Leonard Schawlow">
+      <data key="d0">Person</data>
+    </node>
+    <node id="John Clarke">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1942">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Steven Girvin">
+      <data key="d0">Person</data>
+    </node>
+    <node id="John M. Martinis">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Michel Devoret">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Simon van der Meer">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Carlo Rubbia">
+      <data key="d0">Person</data>
+    </node>
+    <node id="George Paget Thomson">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Clinton Davisson">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Hans Bethe">
+      <data key="d0">Person</data>
+    </node>
+    <node id="University of Munich">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Los Alamos National Laboratory">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Theoretical Division">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="1946">
+      <data key="d0">Year</data>
+    </node>
+    <node id="University of Chicago">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="NASA Goddard Space Flight Center (GSFC)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of Maryland College of Computer, Mathematical, and Natural Sciences">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Time Magazine Person of the Year 2007">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Time Magazine Person of the Year 2012">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Letter to President George W. Bush">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Klaus Hasselmann">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Welwyn Garden City, England">
+      <data key="d0">Place</data>
+    </node>
+    <node id="University of Hamburg">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Max Planck Institute for Meteorology">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Scripps Institution of Oceanography">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Woods Hole Oceanographic Institution">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Syukuro Manabe">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Giorgio Parisi">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Claude Cohen-Tannoudji">
+      <data key="d0">Person</data>
+    </node>
+    <node id="École normale supérieure in Paris">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Steven Chu">
+      <data key="d0">Person</data>
+    </node>
+    <node id="William Daniel Phillips">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Herbert Kroemer">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Technische Universität Berlin">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Bell Labs">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Zhores Alferov">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Carl Wieman">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1951">
+      <data key="d0">Year</data>
+    </node>
+    <node id="University of Colorado Boulder">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Stanford Graduate School of Education">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Stanford University School of Engineering">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Yidan Prize in Education Research">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Eric Allin Cornell">
+      <data key="d0">Person</data>
+    </node>
+    <node id="C. V. Raman">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Tamil Nadu">
+      <data key="d0">Place</data>
+    </node>
+    <node id="1888">
+      <data key="d0">Year</data>
+    </node>
+    <node id="St Aloysius' Anglo-Indian High School">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Presidency College">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Indian Finance Service">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Rajabazar Science College">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Indian Institute of Science">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Indian Academy of Sciences">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Raman Research Institute">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Pavel Cherenkov">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Igor Tamm">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Heike Kamerlingh Onnes">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1941">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Ohio State University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Donna Strickland">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1959">
+      <data key="d0">Year</data>
+    </node>
+    <node id="University of Waterloo">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Natural Sciences and Engineering Research Council of Canada">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Gérard Mourou">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1933">
+      <data key="d0">Year</data>
+    </node>
+    <node id="July 23, 2021">
+      <data key="d0">Place</data>
+    </node>
+    <node id="University of Texas at Austin">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Josey Regental Chair in Science at the University of Texas at Austin">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="The Quantum Theory of Fields">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Masatoshi Koshiba">
+      <data key="d0">Person</data>
+    </node>
+    <node id="University of Tokyo">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="International Center for Elementary Particle Physics (ICEPP)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Wolf Prize">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Raymond Davis Jr.">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Yoichiro Nambu">
+      <data key="d0">Person</data>
+    </node>
+    <node id="5 July 2015">
+      <data key="d0">Place</data>
+    </node>
+    <node id="Makoto Kobayashi">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Toshihide Maskawa">
+      <data key="d0">Person</data>
+    </node>
+    <node id="University of Michigan">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Samuel C. C. Ting">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Taiwan">
+      <data key="d0">Place</data>
+    </node>
+    <node id="1936">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Massachusetts Institute of Technology (MIT)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Thomas Dudley Cabot Institute">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Burton Richter">
+      <data key="d0">Person</data>
+    </node>
+    <node id="2022">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Emilio Segrè">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Rome">
+      <data key="d0">Place</data>
+    </node>
+    <node id="1905">
+      <data key="d0">Year</data>
+    </node>
+    <node id="University of Rome La Sapienza">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Via Panisperna">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of Palermo">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Berkeley Radiation Laboratory">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Owen Chamberlain">
+      <data key="d0">Person</data>
+    </node>
+    <node id="James Chadwick">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Victoria University of Manchester">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Gonville and Caius College, Cambridge">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of Liverpool">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="MAUD Report">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Knighted">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Ernest Lawrence">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1901">
+      <data key="d0">Year</data>
+    </node>
+    <node id="August 27, 1958">
+      <data key="d0">Place</data>
+    </node>
+    <node id="University of South Dakota">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of Minnesota">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Yale">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Radiation Laboratory">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Lawrence Livermore National Laboratory">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Frederick Reines">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Stevens Institute of Technology">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="New York University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Hanford Site">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Savannah River Site">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Clyde Cowan">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Duncan Haldane">
+      <data key="d0">Person</data>
+    </node>
+    <node id="London">
+      <data key="d0">Place</data>
+    </node>
+    <node id="David J. Thouless">
+      <data key="d0">Person</data>
+    </node>
+    <node id="J. Michael Kosterlitz">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Robert Coleman Richardson">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Washington D.C.">
+      <data key="d0">Place</data>
+    </node>
+    <node id="1937">
+      <data key="d0">Year</data>
+    </node>
+    <node id="February 19, 2013">
+      <data key="d0">Place</data>
+    </node>
+    <node id="Virginia Tech">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Duke University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Cornell University Laboratory of Atomic and Solid State Physics">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="John Cockcroft">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Manchester Municipal College of Technology">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Metropolitan Vickers Trafford Park">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="St John's College, Cambridge">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Ministry of Supply">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="MAUD Committee">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Tizard Mission">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Montreal Laboratory">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Harwell">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Atomic Energy Research Establishment (AERE)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Churchill College, Cambridge">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Australian National University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Ernest Walton">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Jean Perrin">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Dublin">
+      <data key="d0">Place</data>
+    </node>
+    <node id="1903">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Trinity College Dublin">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="David Thouless">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Nobel Prize for Physics">
+      <data key="d0">Award</data>
+    </node>
+    <node id="F. Duncan M. Haldane">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Lev Landau">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1908">
+      <data key="d0">Year</data>
+    </node>
+    <node id="1 April 1968">
+      <data key="d0">Place</data>
+    </node>
+    <node id="Moscow State University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Institute of Theoretical and Experimental Physics">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="John Hopfield">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Geoffrey Hinton">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Kenneth G. Wilson">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Theodor W. Hänsch">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Max-Planck-Institut für Quantenoptik (quantum optics)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Max-Planck-Institut für Quantenoptik (quantum optics), Professor of experimental physics and laser spectroscopy at LMU Munich">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="John L. Hall">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Max Planck">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1858">
+      <data key="d0">Year</data>
+    </node>
+    <node id="4 October 1947">
+      <data key="d0">Place</data>
+    </node>
+    <node id="President of the Kaiser Wilhelm Society">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Arthur Ashkin">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1922">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Rumson, New Jersey">
+      <data key="d0">Place</data>
+    </node>
+    <node id="Ernst Ruska">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Max Planck Institute for Biophysical Chemistry">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Hideki Yukawa">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Andrea M. Ghez">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1965">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Department of Physics and Astronomy, University of California, Los Angeles">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Reinhard Genzel">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Luis Walter Alvarez">
+      <data key="d0">Person</data>
+    </node>
+    <node id="MIT Radiation Laboratory">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Project Alberta">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Wolfgang Pauli">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1900">
+      <data key="d0">Year</data>
+    </node>
+    <node id="15 December 1958">
+      <data key="d0">Place</data>
+    </node>
+    <node id="Austrian University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Theoretical physics">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Lund University in Sweden">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Wolf Prize in Physics">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Roger Penrose">
+      <data key="d0">Person</data>
+    </node>
+    <node id="University of Oxford">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Wadham College">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Royal Society Science Book Prize">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Shadows of the Mind">
+      <data key="d0">Award</data>
+    </node>
+    <node id="The Large, the Small and the Human Mind">
+      <data key="d0">Award</data>
+    </node>
+    <node id="The Road to Reality">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Stephen Hawking">
+      <data key="d0">Person</data>
+    </node>
+    <node id="George E. Smith">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Willard Boyle">
+      <data key="d0">Person</data>
+    </node>
+    <node id="John William Strutt, 3rd Baron Rayleigh">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Theoretical treatment of the elastic scattering of light by particles much smaller than the light's wavelength">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Transverse surface waves in solids">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Fluid dynamics">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Rayleigh test for circular non-uniformity">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Rayleigh plot">
+      <data key="d0">Award</data>
+    </node>
+    <node id="John Bardeen">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Wisconsin">
+      <data key="d0">Place</data>
+    </node>
+    <node id="University of Wisconsin">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of Illinois">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="William Shockley">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Leon Cooper">
+      <data key="d0">Person</data>
+    </node>
+    <node id="John Robert Schrieffer">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Brown University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="David Thouless, Duncan Haldane">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Bertram Brockhouse">
+      <data key="d0">Person</data>
+    </node>
+    <node id="McGill University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Atomic Energy of Canada Limited (AECL)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of Toronto">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Clifford Shull">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Albert Einstein">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1879">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Swiss Federal Polytechnic School in Zurich">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Prussian Academy of Sciences and the Humboldt University of Berlin">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Kaiser Wilhelm Institute for Physics">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="United States Patent Office">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Eugene Wigner">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Szeged">
+      <data key="d0">Place</data>
+    </node>
+    <node id="1902">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Technical Hochschule Berlin (now Technische Universität Berlin)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Kaiser Wilhelm Institute in Berlin">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="DuPont">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Clinton Laboratory (now the Oak Ridge National Laboratory)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of Illinois Urbana-Champaign">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Walther Bothe">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1891">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Heidelberg">
+      <data key="d0">Place</data>
+    </node>
+    <node id="University of Giessen">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Heidelberg University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Kaiser Wilhelm Institute for Medical Research at Heidelberg University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Physics Institute of the KWImf">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Max Planck Institute for Nuclear Physics">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Max Born">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Rudolf Mössbauer">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Robert Hofstadter">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Bellcomm">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Aurora, Illinois">
+      <data key="d0">Place</data>
+    </node>
+    <node id="Fermi National Accelerator Laboratory (Fermilab)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Illinois Mathematics and Science Academy">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Martin Lewis Perl">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Paul Dirac">
+      <data key="d0">Person</data>
+    </node>
+    <node id="University of Bristol">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Florida State University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Gabriel Lippmann">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Quantum AI Lab">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Wilhelm Wien">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Jack Kilby">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Texas Instruments">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Robert Noyce">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Gustav Ludwig Hertz">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Max Planck Institute for Physics">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="James Franck">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Mullard Radio Astronomy Observatory">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Anthony James Leggett">
+      <data key="d0">Person</data>
+    </node>
+    <node id="James Cronin">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Quantrell Award">
+      <data key="d0">Award</data>
+    </node>
+    <node id="spokesperson emeritus for the Auger project">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Board of Sponsors of the Bulletin of the Atomic Scientists">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Brian Schmidt">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1967">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Mount Stromlo Observatory and Research School of Astronomy and Astrophysics">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Fellow of the Royal Society">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Shaw Prize in Astronomy">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Saul Perlmutter">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Adam Riess">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Daniel C. Tsui">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1939">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Robert B. Laughlin">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Horst L. Störmer">
+      <data key="d0">Person</data>
+    </node>
+    <node id="University of California, Riverside">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Stony Brook University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of Paris VI">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Collège de France">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Fermi Chair of Physics at University of Rome La Sapienza">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="1940">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Barry C. Barish">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Theory of Condensed Matter Group in Cambridge's Cavendish Laboratory">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="William Alfred Fowler">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Margaret Burbidge">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Geoffrey Burbidge">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Fred Hoyle">
+      <data key="d0">Person</data>
+    </node>
+    <node id="T. D. Lee Institute (Shanghai)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Arizona State University (ASU)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Stockholm University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Templeton Prize">
+      <data key="d0">Award</data>
+    </node>
+    <node id="H. David Politzer">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Edward Mills Purcell">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Felix Bloch">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Kavli Institute for Theoretical Physics (KITP)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of California, Santa Barbara (UCSB)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Institute for Quantum Studies at Chapman University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Joseph Hooton Taylor Jr.">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Russell Alan Hulse">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Kyoto Imperial University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="National Institute of Polar Research">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Enrico Fermi">
+      <data key="d0">Person</data>
+    </node>
+    <node id="University of Rome Tor Vergata">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Los Alamos Scientific Laboratory">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="General Advisory Committee">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Institute for Nuclear Studies">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Enrico Fermi National Accelerator Laboratory">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Enrico Fermi Award">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Enrico Fermi Institute">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Fermi 1 (breeder reactor)">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Martinus J. G. Veltman">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Delft University of Technology">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Gerardus 't Hooft">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Kamioka Observatory - Kamiokande and its successor, Super-Kamiokande">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Percy Williams Bridgman">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1950">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Charles H. Townes">
+      <data key="d0">Person</data>
+    </node>
+    <node id="U.S. Government">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="1918">
+      <data key="d0">Year</data>
+    </node>
+    <node id="July 16, 1994">
+      <data key="d0">Place</data>
+    </node>
+    <node id="University of Pennsylvania">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of Notre Dame">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of Illinois at Urbana-Champaign">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of California, Los Angeles">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of California, Davis">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of California, San Diego">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of California, Irvine">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of California, San Francisco">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of California, Santa Cruz">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="University of California, Merced">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Gerard 't Hooft">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Utrecht University">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Stanford Linear Accelerator Center (SLAC)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Brookhaven National Laboratory (BNL)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Samuel Ting">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Jim Peebles">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1935">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Canadian-American astrophysicist, astronomer, and theoretical cosmologist">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Michel Mayor and Didier Queloz">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Didier Queloz">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1966">
+      <data key="d0">Year</data>
+    </node>
+    <node id="ETH Zurich">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Trinity College, Cambridge">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Center for the Origin and Prevalence of Life at ETH Zurich">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Jacksonian Professor of Natural Philosophy at the University of Cambridge">
+      <data key="d0">Award</data>
+    </node>
+    <node id="Michel Mayor">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Philipp Lenard">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Homestake experiment">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="1910">
+      <data key="d0">Year</data>
+    </node>
+    <node id="California's Silicon Valley">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Walter Brattain">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Otto Stern">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1960">
+      <data key="d0">Year</data>
+    </node>
+    <node id="1926">
+      <data key="d0">Year</data>
+    </node>
+    <node id="Imperial College London">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Space and Upper Atmosphere Research Commission (SUPARCO)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Department of Atomic Energy (DAE)">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Werner Heisenberg">
+      <data key="d0">Person</data>
+    </node>
+    <node id="1 February 1976">
+      <data key="d0">Place</data>
+    </node>
+    <node id="University of Berlin">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Kernforschungszentrum Karlsruhe">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Technische Hochschule München">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Max Planck Institute for Physics and Astrophysics">
+      <data key="d0">Organization</data>
+    </node>
+    <node id="Hendrik Lorentz">
+      <data key="d0">Person</data>
+    </node>
+    <node id="Pieter Zeeman">
+      <data key="d0">Person</data>
+    </node>
+    <edge source="Jack Steinberger" target="Germany" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Jack Steinberger" target="1921" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Jack Steinberger" target="United States" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Jack Steinberger" target="University of California, Berkeley" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Jack Steinberger" target="Columbia University" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Jack Steinberger" target="CERN" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Jack Steinberger" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Jack Steinberger" target="National Medal of Science" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Jack Steinberger" target="Matteucci Medal" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Jack Steinberger" target="Leon M. Lederman" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Jack Steinberger" target="Melvin Schwartz" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Leon M. Lederman" target="1922" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Leon M. Lederman" target="Aurora, Illinois" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Leon M. Lederman" target="Fermi National Accelerator Laboratory (Fermilab)" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Leon M. Lederman" target="Illinois Mathematics and Science Academy" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Leon M. Lederman" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Leon M. Lederman" target="Wolf Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Leon M. Lederman" target="Melvin Schwartz" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Leon M. Lederman" target="Jack Steinberger" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Leon M. Lederman" target="Martin Lewis Perl" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Melvin Schwartz" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Melvin Schwartz" target="Leon M. Lederman" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Melvin Schwartz" target="Jack Steinberger" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Antony Hewish" target="Eddington Medal of the Royal Astronomical Society" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Antony Hewish" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Antony Hewish" target="Martin Ryle" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Martin Ryle" target="University of Cambridge" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Martin Ryle" target="Mullard Radio Astronomy Observatory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Martin Ryle" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Martin Ryle" target="Antony Hewish" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Hugh David Politzer" target="1949" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Hugh David Politzer" target="California Institute of Technology" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Hugh David Politzer" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Hugh David Politzer" target="David Gross" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Hugh David Politzer" target="Frank Wilczek" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="David Gross" target="1941" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="David Gross" target="Kavli Institute for Theoretical Physics (KITP)" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="David Gross" target="Kavli Institute for Theoretical Physics (KITP)" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="David Gross" target="University of California, Santa Barbara (UCSB)" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="David Gross" target="Institute for Quantum Studies at Chapman University" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="David Gross" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="David Gross" target="Frank Wilczek" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="David Gross" target="Hugh David Politzer" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Frank Wilczek" target="Massachusetts Institute of Technology (MIT)" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Frank Wilczek" target="T. D. Lee Institute (Shanghai)" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Frank Wilczek" target="Arizona State University (ASU)" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Frank Wilczek" target="Stockholm University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Frank Wilczek" target="CERN" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Frank Wilczek" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Frank Wilczek" target="Templeton Prize" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Frank Wilczek" target="David Gross" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Frank Wilczek" target="H. David Politzer" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Francis Halzen" target="Belgium" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Francis Halzen" target="1944" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Francis Halzen" target="Catholic University of Leuven" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Francis Halzen" target="CERN" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Francis Halzen" target="University of Wisconsin-Madison" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Francis Halzen" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Francis Halzen" target="IceCube Neutrino Observatory Principal Investigator" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Shuji Nakamura" target="Japan" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Shuji Nakamura" target="1954" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Shuji Nakamura" target="University of California, Santa Barbara" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Shuji Nakamura" target="University of California, Santa Barbara" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Shuji Nakamura" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Shuji Nakamura" target="Isamu Akasaki and Hiroshi Amano" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Niels Bohr" target="Denmark" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Niels Bohr" target="1885" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Niels Bohr" target="Sweden" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Niels Bohr" target="University of Copenhagen" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Niels Bohr" target="Institute of Theoretical Physics at the University of Copenhagen" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Niels Bohr" target="Niels Bohr Institute" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Niels Bohr" target="Risø Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Niels Bohr" target="British Tube Alloys nuclear weapons project" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Niels Bohr" target="Research Establishment Risø of the Danish Atomic Energy Commission" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Niels Bohr" target="Nordic Institute for Theoretical Physics" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Niels Bohr" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Niels Bohr" target="Dirac Medal" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Niels Bohr" target="Bohrium" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Niels Bohr" target="Fourth Greatest Physicist of All Time" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="David Lee" target="1931" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="David Lee" target="Cornell University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="David Lee" target="Cornell University" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="David Lee" target="Texas A&amp;M University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="David Lee" target="Texas A&amp;M University" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="David Lee" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="David Lee" target="Robert C. Richardson" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="David Lee" target="Douglas Osheroff" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Douglas Osheroff" target="1945" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Douglas Osheroff" target="Stanford University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Douglas Osheroff" target="Stanford University" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Douglas Osheroff" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Douglas Osheroff" target="David Lee" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Douglas Osheroff" target="Robert C. Richardson" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Marie Curie" target="Warsaw, Russian Empire" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Marie Curie" target="1867" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Marie Curie" target="Passy, Haute-Savoie, France" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Marie Curie" target="Flying University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Marie Curie" target="University of Paris" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Marie Curie" target="Curie Institute in Paris" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Marie Curie" target="Curie Institute in Warsaw" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Marie Curie" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Marie Curie" target="Nobel Prize in Chemistry" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Marie Curie" target="Pierre Curie" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Yang Chen-Ning" target="Princeton University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Yang Chen-Ning" target="Yale University" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Yang Chen-Ning" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Yang Chen-Ning" target="Tsung-Dao Lee" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Wolfgang Paul" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Wolfgang Paul" target="Hans Georg Dehmelt" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Hans Georg Dehmelt" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Hans Georg Dehmelt" target="Wolfgang Paul" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Albert Fert" target="Paris" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Albert Fert" target="1938" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Albert Fert" target="Paris-Saclay University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Albert Fert" target="Centre national de la recherche scientifique (National Scientific Research Centre)" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Albert Fert" target="Thales Group" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Albert Fert" target="Michigan State University" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Albert Fert" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Albert Fert" target="Peter Grünberg" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Peter Grünberg" target="Universität Heidelberg" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Peter Grünberg" target="Max Planck Institute for Solid State Research" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Peter Grünberg" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Robert Millikan" target="Caltech" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Robert Millikan" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Maria Goeppert Mayer" target="University of Göttingen" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Maria Goeppert Mayer" target="Columbia University" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Maria Goeppert Mayer" target="Los Alamos Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Maria Goeppert Mayer" target="Manhattan Project" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Maria Goeppert Mayer" target="Argonne National Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Maria Goeppert Mayer" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="David J. Wineland" target="1944" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="David J. Wineland" target="Physical Measurement Laboratory of the National Institute of Standards and Technology (NIST)" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="David J. Wineland" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="David J. Wineland" target="Serge Haroche" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Serge Haroche" target="Paris" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Serge Haroche" target="1944" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Serge Haroche" target="University of Paris VI" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Serge Haroche" target="Collège de France" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Serge Haroche" target="Fermi Chair of Physics at University of Rome La Sapienza" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Serge Haroche" target="Nobel Prize for Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Serge Haroche" target="David J. Wineland" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Klaus von Klitzing" target="Mittelmark" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Klaus von Klitzing" target="1943" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Klaus von Klitzing" target="Oldenburg" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Klaus von Klitzing" target="Essen" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Klaus von Klitzing" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Ilya Frank" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Ilya Frank" target="Stalin prize" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Ilya Frank" target="Soviet state prize" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Nicolaas Bloembergen" target="1920" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Nicolaas Bloembergen" target="September 5, 2017" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Nicolaas Bloembergen" target="Harvard University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Nicolaas Bloembergen" target="Harvard University" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Nicolaas Bloembergen" target="University of Arizona" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Nicolaas Bloembergen" target="University of Arizona" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Nicolaas Bloembergen" target="Leiden University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Nicolaas Bloembergen" target="Leiden University" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Nicolaas Bloembergen" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Nicolaas Bloembergen" target="Arthur Schawlow" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Nicolaas Bloembergen" target="Kai Siegbahn" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Rainer Weiss" target="Massachusetts Institute of Technology" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Rainer Weiss" target="Massachusetts Institute of Technology" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Rainer Weiss" target="Louisiana State University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Rainer Weiss" target="Fermilab" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Rainer Weiss" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Rainer Weiss" target="Kip Thorne" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Rainer Weiss" target="Barry Barish" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Kip Thorne" target="1940" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Kip Thorne" target="Caltech" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Kip Thorne" target="Caltech" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Kip Thorne" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Kip Thorne" target="Rainer Weiss" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Kip Thorne" target="Barry C. Barish" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Barry Barish" target="1936" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Barry Barish" target="California Institute of Technology" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Barry Barish" target="California Institute of Technology" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Barry Barish" target="University of California, Riverside" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Barry Barish" target="Stony Brook University" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Barry Barish" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Barry Barish" target="National Medal of Science" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Andre Geim" target="Russia" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Andre Geim" target="1958" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Andre Geim" target="School of Physics and Astronomy at the University of Manchester" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Andre Geim" target="National Graphene Institute" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Andre Geim" target="Regius Professor of Physics and Royal Society Research Professor at the National Graphene Institute" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Andre Geim" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Andre Geim" target="Ig Nobel Prize" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Andre Geim" target="Konstantin Novoselov" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Ferenc Krausz" target="Hungary" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Ferenc Krausz" target="1962" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Ferenc Krausz" target="Max Planck Institute of Quantum Optics" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Ferenc Krausz" target="LMU Munich" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Ferenc Krausz" target="Department of Physics at the University of Hong Kong, Pokfulam, Hong Kong" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Ferenc Krausz" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Ferenc Krausz" target="Pierre Agostini" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Ferenc Krausz" target="Anne L'Huillier" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Pierre Agostini" target="1941" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Pierre Agostini" target="Ohio State University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Pierre Agostini" target="Ohio State University" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Pierre Agostini" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Anne L'Huillier" target="1958" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Anne L'Huillier" target="University of Paris" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Anne L'Huillier" target="Lund University in Sweden" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Anne L'Huillier" target="Wolf Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Anne L'Huillier" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Nevill Mott" target="University College London" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Nevill Mott" target="University College London" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Nevill Mott" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Nevill Mott" target="Philip W. Anderson" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Nevill Mott" target="John Van Vleck" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Alexander Prokhorov" target="Australia" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Alexander Prokhorov" target="1916" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Alexander Prokhorov" target="Russia" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Alexander Prokhorov" target="Soviet Union" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Alexander Prokhorov" target="Soviet Union" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Alexander Prokhorov" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Alexander Prokhorov" target="Charles Hard Townes" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Alexander Prokhorov" target="Nikolay Basov" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Nikolay Basov" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Nikolay Basov" target="Alexander Prokhorov" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Nikolay Basov" target="Charles Hard Townes" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Leo Esaki" target="Japan" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Leo Esaki" target="1925" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Leo Esaki" target="Sony" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Leo Esaki" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Leo Esaki" target="Ivar Giaever" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Leo Esaki" target="Brian Josephson" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Ivar Giaever" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Ivar Giaever" target="Leo Esaki" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Brian Josephson" target="1940" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Brian Josephson" target="University of Cambridge" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Brian Josephson" target="Theory of Condensed Matter Group in Cambridge's Cavendish Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Brian Josephson" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Jerome Isaac Friedman" target="1930" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Jerome Isaac Friedman" target="Massachusetts Institute of Technology" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Jerome Isaac Friedman" target="Massachusetts Institute of Technology" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Jerome Isaac Friedman" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Jerome Isaac Friedman" target="Henry Kendall" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Jerome Isaac Friedman" target="Richard Taylor" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Isamu Akasaki" target="Tokyo" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Isamu Akasaki" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Isamu Akasaki" target="Hiroshi Amano" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Isamu Akasaki" target="Shuji Nakamura" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Hiroshi Amano" target="1960" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Hiroshi Amano" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Hiroshi Amano" target="Isamu Akasaki" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Hiroshi Amano" target="Shuji Nakamura" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Charles-Édouard Guillaume" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Shin'ichirō Tomonaga" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Shin'ichirō Tomonaga" target="Richard Feynman" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Shin'ichirō Tomonaga" target="Julian Schwinger" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Julian Schwinger" target="1918" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Julian Schwinger" target="July 16, 1994" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Julian Schwinger" target="Cornell University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="Princeton University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="Yale University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="Stanford University" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="Massachusetts Institute of Technology" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="University of California, Berkeley" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="University of Chicago" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="University of Pennsylvania" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="University of Notre Dame" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="University of Illinois at Urbana-Champaign" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="University of California, Los Angeles" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="University of California, Santa Barbara" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="University of California, Davis" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="University of California, San Diego" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="University of California, Irvine" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="University of California, Riverside" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="University of California, San Francisco" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="University of California, Santa Cruz" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Julian Schwinger" target="University of California, Merced" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="George Smoot" target="1945" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="George Smoot" target="September 18, 2025" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="George Smoot" target="University of California, Berkeley" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="George Smoot" target="University of California, Berkeley" id="1">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="George Smoot" target="Lawrence Berkeley National Laboratory" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="George Smoot" target="Lawrence Berkeley National Laboratory" id="1">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="George Smoot" target="Berkeley Center for Cosmological Physics" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="George Smoot" target="Paris Center for Cosmological Physics" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="George Smoot" target="Paris Center for Cosmological Physics" id="1">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="George Smoot" target="Gruber Prize in Cosmology" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="George Smoot" target="Daniel Chalonge Medal" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="George Smoot" target="Einstein Medal" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="George Smoot" target="Ernest Orlando Lawrence Award" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="George Smoot" target="Exceptional Scientific Achievement Medal" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="George Smoot" target="US National Academy of Sciences" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="George Smoot" target="American Physical Society" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="George Smoot" target="East Bay Community Foundation" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="George Smoot" target="NASA" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="George Smoot" target="National Science Foundation" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="George Smoot" target="National Institute of Standards and Technology" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="George Smoot" target="John C. Mather" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="John C. Mather" target="1946" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="John C. Mather" target="University of Chicago" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="John C. Mather" target="NASA Goddard Space Flight Center (GSFC)" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John C. Mather" target="University of Maryland College of Computer, Mathematical, and Natural Sciences" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John C. Mather" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John C. Mather" target="Time Magazine Person of the Year 2007" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John C. Mather" target="Time Magazine Person of the Year 2012" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John C. Mather" target="Letter to President George W. Bush" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John C. Mather" target="George Smoot" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Sheldon Glashow" target="1932" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Sheldon Glashow" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Sheldon Glashow" target="Abdus Salam" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Sheldon Glashow" target="Steven Weinberg" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Abdus Salam" target="1926" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Abdus Salam" target="Imperial College London" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Abdus Salam" target="Space and Upper Atmosphere Research Commission (SUPARCO)" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Abdus Salam" target="Department of Atomic Energy (DAE)" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Abdus Salam" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Abdus Salam" target="Steven Weinberg" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Abdus Salam" target="Sheldon Glashow" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Steven Weinberg" target="1933" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Steven Weinberg" target="July 23, 2021" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Steven Weinberg" target="University of Texas at Austin" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Steven Weinberg" target="Josey Regental Chair in Science at the University of Texas at Austin" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Steven Weinberg" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Steven Weinberg" target="The Quantum Theory of Fields" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Steven Weinberg" target="Abdus Salam" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Steven Weinberg" target="Sheldon Glashow" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Arthur Compton" target="University of Cambridge" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Arthur Compton" target="Cavendish Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Arthur Compton" target="Manhattan Project" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Arthur Compton" target="Washington University in St. Louis" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Arthur Compton" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Arthur Compton" target="National Research Council Fellowship" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Arthur Compton" target="S-1 Executive Committee" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Arthur Compton" target="Head of 'X' projects" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Arthur Compton" target="Chancellor of Washington University in St. Louis" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="James Rainwater" target="1917" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="James Rainwater" target="May 31, 1986" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="James Rainwater" target="Columbia" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="James Rainwater" target="Manhattan Project" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="James Rainwater" target="United States Atomic Energy Commission" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="James Rainwater" target="naval research projects" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="James Rainwater" target="Ernest Orlando Lawrence Award for Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="James Rainwater" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="James Rainwater" target="Aage Bohr" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="James Rainwater" target="Ben Mottelson" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Richard E. Taylor" target="Stanford University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Richard E. Taylor" target="Stanford University" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Richard E. Taylor" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Richard E. Taylor" target="Jerome Friedman" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Richard E. Taylor" target="Henry Kendall" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Johannes Diderik van der Waals" target="1837" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Johannes Diderik van der Waals" target="University of Amsterdam" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Johannes Diderik van der Waals" target="University of Amsterdam" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Johannes Diderik van der Waals" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Edward Victor Appleton" target="University of Cambridge" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Edward Victor Appleton" target="Royal Engineers Signals Depot" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Edward Victor Appleton" target="King's College London" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Edward Victor Appleton" target="Cavendish Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Edward Victor Appleton" target="Department of Scientific and Industrial Research" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Edward Victor Appleton" target="Tube Alloys" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Edward Victor Appleton" target="University of Edinburgh" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Edward Victor Appleton" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Alain Aspect" target="1947" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Alain Aspect" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Alain Aspect" target="Académie Française" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Alain Aspect" target="John Clauser" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Alain Aspect" target="Anton Zeilinger" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="John Clauser" target="1942" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="John Clauser" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John Clauser" target="2022" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John Clauser" target="Alain Aspect" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="John Clauser" target="Anton Zeilinger" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Arthur B. McDonald" target="Canada" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Arthur B. McDonald" target="1943" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Arthur B. McDonald" target="Queen's University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Arthur B. McDonald" target="Sudbury Neutrino Observatory Collaboration" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Arthur B. McDonald" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Arthur B. McDonald" target="Takaaki Kajita" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Takaaki Kajita" target="1959" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Takaaki Kajita" target="Kamioka Observatory - Kamiokande and its successor, Super-Kamiokande" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Takaaki Kajita" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Takaaki Kajita" target="Arthur B. McDonald" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Vitaly Ginzburg" target="Lebedev Physical Institute of the Russian Academy of Sciences (FIAN)" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Vitaly Ginzburg" target="Department of Theoretical Physics of the Lebedev Physical Institute of the Russian Academy of Sciences (FIAN)" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Vitaly Ginzburg" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Vitaly Ginzburg" target="Russian Academy of Sciences" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Vitaly Ginzburg" target="Alexei Abrikosov" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Vitaly Ginzburg" target="Anthony Leggett" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Alexei Abrikosov" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Alexei Abrikosov" target="Vitaly Ginzburg" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Alexei Abrikosov" target="Anthony James Leggett" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Anthony Leggett" target="University of Illinois Urbana-Champaign" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Anthony Leggett" target="University of Illinois Urbana-Champaign" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Anthony Leggett" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Isidor Rabi" target="Rymanów, Austria-Hungary" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Isidor Rabi" target="1898" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Isidor Rabi" target="New York City" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Isidor Rabi" target="Cornell University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Isidor Rabi" target="Columbia University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Isidor Rabi" target="Massachusetts Institute of Technology (MIT) Radiation Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Isidor Rabi" target="Manhattan Project" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Isidor Rabi" target="Brookhaven National Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Isidor Rabi" target="United States delegate to UNESCO" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Isidor Rabi" target="CERN" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Isidor Rabi" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Arthur Leonard Schawlow" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Arthur Leonard Schawlow" target="Nicolaas Bloembergen" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Arthur Leonard Schawlow" target="Kai Siegbahn" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="John Clarke" target="1942" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="John Clarke" target="University of Cambridge" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="John Clarke" target="University of California, Berkeley" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John Clarke" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John Clarke" target="Steven Girvin" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="John Clarke" target="John M. Martinis" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="John Clarke" target="Michel Devoret" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="John M. Martinis" target="1958" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="John M. Martinis" target="University of California, Santa Barbara" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="John M. Martinis" target="Quantum AI Lab" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John M. Martinis" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John M. Martinis" target="Dirac Medal" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John M. Martinis" target="John Clarke" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="John M. Martinis" target="Michel Devoret" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Simon van der Meer" target="CERN" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Simon van der Meer" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Simon van der Meer" target="Carlo Rubbia" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="George Paget Thomson" target="University College London" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="George Paget Thomson" target="University College London" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="George Paget Thomson" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="George Paget Thomson" target="Clinton Davisson" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Hans Bethe" target="University of Munich" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Hans Bethe" target="Princeton University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Hans Bethe" target="Cornell University" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Hans Bethe" target="Los Alamos National Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Hans Bethe" target="Theoretical Division" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Hans Bethe" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Hans Bethe" target="Dirac Medal" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Klaus Hasselmann" target="Welwyn Garden City, England" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Klaus Hasselmann" target="1931" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Klaus Hasselmann" target="University of Hamburg" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Klaus Hasselmann" target="University of Hamburg" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Klaus Hasselmann" target="Max Planck Institute for Meteorology" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Klaus Hasselmann" target="Max Planck Institute for Meteorology" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Klaus Hasselmann" target="Scripps Institution of Oceanography" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Klaus Hasselmann" target="Woods Hole Oceanographic Institution" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Klaus Hasselmann" target="University of Cambridge" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Klaus Hasselmann" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Klaus Hasselmann" target="Dirac Medal" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Klaus Hasselmann" target="Syukuro Manabe" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Klaus Hasselmann" target="Giorgio Parisi" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Syukuro Manabe" target="1931" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Syukuro Manabe" target="Kyoto Imperial University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Syukuro Manabe" target="National Institute of Polar Research" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Syukuro Manabe" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Syukuro Manabe" target="Klaus Hasselmann" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Syukuro Manabe" target="Giorgio Parisi" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Claude Cohen-Tannoudji" target="École normale supérieure in Paris" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Claude Cohen-Tannoudji" target="École normale supérieure in Paris" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Claude Cohen-Tannoudji" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Claude Cohen-Tannoudji" target="Steven Chu" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Claude Cohen-Tannoudji" target="William Daniel Phillips" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Herbert Kroemer" target="Technische Universität Berlin" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Herbert Kroemer" target="Bell Labs" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Herbert Kroemer" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Herbert Kroemer" target="Zhores Alferov" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Zhores Alferov" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Carl Wieman" target="1951" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Carl Wieman" target="Stanford University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Carl Wieman" target="Stanford University" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Carl Wieman" target="Cornell University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Carl Wieman" target="University of Colorado Boulder" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Carl Wieman" target="Stanford Graduate School of Education" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Carl Wieman" target="Stanford University School of Engineering" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Carl Wieman" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Carl Wieman" target="Yidan Prize in Education Research" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Carl Wieman" target="Eric Allin Cornell" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="C. V. Raman" target="Tamil Nadu" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="C. V. Raman" target="1888" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="C. V. Raman" target="St Aloysius' Anglo-Indian High School" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="C. V. Raman" target="Presidency College" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="C. V. Raman" target="Indian Finance Service" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="C. V. Raman" target="Rajabazar Science College" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="C. V. Raman" target="Indian Institute of Science" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="C. V. Raman" target="Indian Academy of Sciences" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="C. V. Raman" target="Raman Research Institute" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="C. V. Raman" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Pavel Cherenkov" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Pavel Cherenkov" target="Ilya Frank" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Pavel Cherenkov" target="Igor Tamm" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Igor Tamm" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Igor Tamm" target="Pavel Cherenkov" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Igor Tamm" target="Ilya Frank" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Heike Kamerlingh Onnes" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Donna Strickland" target="1959" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Donna Strickland" target="University of Waterloo" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Donna Strickland" target="Natural Sciences and Engineering Research Council of Canada" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Donna Strickland" target="Gérard Mourou" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Gérard Mourou" target="1944" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Gérard Mourou" target="University of Michigan" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Gérard Mourou" target="University of Michigan" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Gérard Mourou" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Gérard Mourou" target="Donna Strickland" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Masatoshi Koshiba" target="University of Tokyo" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Masatoshi Koshiba" target="University of Tokyo" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Masatoshi Koshiba" target="International Center for Elementary Particle Physics (ICEPP)" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Masatoshi Koshiba" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Masatoshi Koshiba" target="Wolf Prize" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Masatoshi Koshiba" target="Raymond Davis Jr." id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Masatoshi Koshiba" target="Takaaki Kajita" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Raymond Davis Jr." target="Homestake experiment" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Raymond Davis Jr." target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Yoichiro Nambu" target="1921" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Yoichiro Nambu" target="5 July 2015" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Yoichiro Nambu" target="University of Chicago" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Yoichiro Nambu" target="University of Chicago" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Yoichiro Nambu" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Yoichiro Nambu" target="Makoto Kobayashi" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Yoichiro Nambu" target="Toshihide Maskawa" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Toshihide Maskawa" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Samuel C. C. Ting" target="Taiwan" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Samuel C. C. Ting" target="1936" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Samuel C. C. Ting" target="Massachusetts Institute of Technology (MIT)" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Samuel C. C. Ting" target="Thomas Dudley Cabot Institute" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Samuel C. C. Ting" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Samuel C. C. Ting" target="Burton Richter" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Burton Richter" target="Stanford Linear Accelerator Center (SLAC)" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Burton Richter" target="Brookhaven National Laboratory (BNL)" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Burton Richter" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Burton Richter" target="Samuel Ting" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Emilio Segrè" target="Rome" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Emilio Segrè" target="1905" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Emilio Segrè" target="University of Rome La Sapienza" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Emilio Segrè" target="Via Panisperna" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Emilio Segrè" target="University of Palermo" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Emilio Segrè" target="Berkeley Radiation Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Emilio Segrè" target="Los Alamos National Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Emilio Segrè" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Emilio Segrè" target="Dirac Medal" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Emilio Segrè" target="Owen Chamberlain" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="James Chadwick" target="Victoria University of Manchester" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="James Chadwick" target="Gonville and Caius College, Cambridge" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="James Chadwick" target="Cavendish Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="James Chadwick" target="University of Liverpool" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="James Chadwick" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="James Chadwick" target="MAUD Report" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="James Chadwick" target="Knighted" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Ernest Lawrence" target="1901" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Ernest Lawrence" target="August 27, 1958" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Ernest Lawrence" target="University of South Dakota" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Ernest Lawrence" target="University of Minnesota" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Ernest Lawrence" target="Yale" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Ernest Lawrence" target="Radiation Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Ernest Lawrence" target="Lawrence Berkeley National Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Ernest Lawrence" target="Lawrence Livermore National Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Ernest Lawrence" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Frederick Reines" target="Stevens Institute of Technology" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Frederick Reines" target="New York University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Frederick Reines" target="Los Alamos Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Frederick Reines" target="Theoretical Division" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Frederick Reines" target="Hanford Site" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Frederick Reines" target="Savannah River Site" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Frederick Reines" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Frederick Reines" target="Clyde Cowan" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Duncan Haldane" target="London" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Duncan Haldane" target="1951" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Duncan Haldane" target="Princeton University" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Duncan Haldane" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Duncan Haldane" target="David J. Thouless" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Duncan Haldane" target="J. Michael Kosterlitz" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="J. Michael Kosterlitz" target="1943" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="J. Michael Kosterlitz" target="Brown University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="J. Michael Kosterlitz" target="Brown University" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="J. Michael Kosterlitz" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="J. Michael Kosterlitz" target="David Thouless, Duncan Haldane" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Robert Coleman Richardson" target="Washington D.C." id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Robert Coleman Richardson" target="1937" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Robert Coleman Richardson" target="February 19, 2013" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Robert Coleman Richardson" target="Virginia Tech" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Robert Coleman Richardson" target="Duke University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Robert Coleman Richardson" target="Cornell University Laboratory of Atomic and Solid State Physics" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Robert Coleman Richardson" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Robert Coleman Richardson" target="David Lee" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Robert Coleman Richardson" target="Douglas Osheroff" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="John Cockcroft" target="Manchester Municipal College of Technology" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="John Cockcroft" target="Metropolitan Vickers Trafford Park" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="John Cockcroft" target="St John's College, Cambridge" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="John Cockcroft" target="Ministry of Supply" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John Cockcroft" target="MAUD Committee" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John Cockcroft" target="Tizard Mission" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John Cockcroft" target="Montreal Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John Cockcroft" target="Harwell" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John Cockcroft" target="Atomic Energy Research Establishment (AERE)" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John Cockcroft" target="Churchill College, Cambridge" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John Cockcroft" target="Australian National University" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John Cockcroft" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John Cockcroft" target="Dirac Medal" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John Cockcroft" target="Ernest Walton" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Ernest Walton" target="Dublin" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Ernest Walton" target="Dublin" id="1">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Ernest Walton" target="1903" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Ernest Walton" target="University of Cambridge" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Ernest Walton" target="University of Cambridge" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Ernest Walton" target="Trinity College Dublin" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Ernest Walton" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Ernest Walton" target="John Cockcroft" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Jean Perrin" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="David Thouless" target="Wolf Prize" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="David Thouless" target="Nobel Prize for Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="David Thouless" target="F. Duncan M. Haldane" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="David Thouless" target="J. Michael Kosterlitz" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Lev Landau" target="1908" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Lev Landau" target="1 April 1968" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Lev Landau" target="Moscow State University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Lev Landau" target="Institute of Theoretical and Experimental Physics" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Lev Landau" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John Hopfield" target="1933" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="John Hopfield" target="Princeton University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="John Hopfield" target="Princeton University" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John Hopfield" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John Hopfield" target="Dirac Medal" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John Hopfield" target="Geoffrey Hinton" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Kenneth G. Wilson" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Theodor W. Hänsch" target="1941" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Theodor W. Hänsch" target="Max-Planck-Institut für Quantenoptik (quantum optics)" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Theodor W. Hänsch" target="LMU Munich" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Theodor W. Hänsch" target="Max-Planck-Institut für Quantenoptik (quantum optics), Professor of experimental physics and laser spectroscopy at LMU Munich" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Theodor W. Hänsch" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Theodor W. Hänsch" target="John L. Hall" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Max Planck" target="1858" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Max Planck" target="4 October 1947" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Max Planck" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Max Planck" target="President of the Kaiser Wilhelm Society" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Arthur Ashkin" target="1922" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Arthur Ashkin" target="Rumson, New Jersey" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Arthur Ashkin" target="Bell Labs" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Arthur Ashkin" target="Bell Labs" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Arthur Ashkin" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Ernst Ruska" target="Max Planck Institute for Biophysical Chemistry" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Ernst Ruska" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Hideki Yukawa" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Andrea M. Ghez" target="1965" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Andrea M. Ghez" target="University of California, Berkeley" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Andrea M. Ghez" target="Department of Physics and Astronomy, University of California, Los Angeles" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Andrea M. Ghez" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Andrea M. Ghez" target="Reinhard Genzel" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Luis Walter Alvarez" target="University of Chicago" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Luis Walter Alvarez" target="Radiation Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Luis Walter Alvarez" target="MIT Radiation Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Luis Walter Alvarez" target="Los Alamos National Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Luis Walter Alvarez" target="Project Alberta" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Luis Walter Alvarez" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Wolfgang Pauli" target="1900" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Wolfgang Pauli" target="15 December 1958" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Wolfgang Pauli" target="Austrian University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Wolfgang Pauli" target="Theoretical physics" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Wolfgang Pauli" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Roger Penrose" target="University of Oxford" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Roger Penrose" target="Wadham College" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Roger Penrose" target="St John's College, Cambridge" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Roger Penrose" target="University College London" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Roger Penrose" target="Wolf Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Roger Penrose" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Roger Penrose" target="Royal Society Science Book Prize" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Roger Penrose" target="Shadows of the Mind" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Roger Penrose" target="The Large, the Small and the Human Mind" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Roger Penrose" target="The Road to Reality" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Roger Penrose" target="Stephen Hawking" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="George E. Smith" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="George E. Smith" target="Willard Boyle" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Willard Boyle" target="Bellcomm" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Willard Boyle" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Willard Boyle" target="George E. Smith" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="John William Strutt, 3rd Baron Rayleigh" target="Theoretical treatment of the elastic scattering of light by particles much smaller than the light's wavelength" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John William Strutt, 3rd Baron Rayleigh" target="Transverse surface waves in solids" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John William Strutt, 3rd Baron Rayleigh" target="Fluid dynamics" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John William Strutt, 3rd Baron Rayleigh" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John William Strutt, 3rd Baron Rayleigh" target="Rayleigh test for circular non-uniformity" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John William Strutt, 3rd Baron Rayleigh" target="Rayleigh plot" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John Bardeen" target="Wisconsin" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="John Bardeen" target="1908" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="John Bardeen" target="University of Wisconsin" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="John Bardeen" target="Princeton University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="John Bardeen" target="Bell Labs" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John Bardeen" target="University of Illinois" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="John Bardeen" target="William Shockley" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="John Bardeen" target="Leon Cooper" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="John Bardeen" target="John Robert Schrieffer" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="William Shockley" target="1910" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="William Shockley" target="Bell Labs" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="William Shockley" target="California's Silicon Valley" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="William Shockley" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="William Shockley" target="John Bardeen" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="William Shockley" target="Walter Brattain" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Leon Cooper" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Leon Cooper" target="John Bardeen" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Leon Cooper" target="John Robert Schrieffer" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="John Robert Schrieffer" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="John Robert Schrieffer" target="John Bardeen" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="John Robert Schrieffer" target="Leon Cooper" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Bertram Brockhouse" target="McGill University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Bertram Brockhouse" target="Atomic Energy of Canada Limited (AECL)" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Bertram Brockhouse" target="University of Toronto" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Bertram Brockhouse" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Bertram Brockhouse" target="Clifford Shull" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Albert Einstein" target="Germany" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Albert Einstein" target="1879" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Albert Einstein" target="Swiss Federal Polytechnic School in Zurich" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Albert Einstein" target="Prussian Academy of Sciences and the Humboldt University of Berlin" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Albert Einstein" target="Kaiser Wilhelm Institute for Physics" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Albert Einstein" target="United States Patent Office" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Albert Einstein" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Albert Einstein" target="Dirac Medal" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Eugene Wigner" target="Szeged" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Eugene Wigner" target="1902" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Eugene Wigner" target="New York City" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Eugene Wigner" target="Technical Hochschule Berlin (now Technische Universität Berlin)" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Eugene Wigner" target="Kaiser Wilhelm Institute in Berlin" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Eugene Wigner" target="University of Göttingen" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Eugene Wigner" target="Princeton University" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Eugene Wigner" target="DuPont" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Eugene Wigner" target="Clinton Laboratory (now the Oak Ridge National Laboratory)" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Eugene Wigner" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Walther Bothe" target="1891" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Walther Bothe" target="Heidelberg" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Walther Bothe" target="University of Giessen" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Walther Bothe" target="Heidelberg University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Walther Bothe" target="Kaiser Wilhelm Institute for Medical Research at Heidelberg University" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Walther Bothe" target="Physics Institute of the KWImf" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Walther Bothe" target="Max Planck Institute for Nuclear Physics" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Walther Bothe" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Walther Bothe" target="Max Born" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Rudolf Mössbauer" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Rudolf Mössbauer" target="Robert Hofstadter" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Paul Dirac" target="University of Bristol" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Paul Dirac" target="St John's College, Cambridge" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Paul Dirac" target="Florida State University" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Paul Dirac" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Gabriel Lippmann" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Wilhelm Wien" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Jack Kilby" target="Texas Instruments" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Jack Kilby" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Jack Kilby" target="Robert Noyce" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Gustav Ludwig Hertz" target="University of Göttingen" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Gustav Ludwig Hertz" target="Max Planck Institute for Physics" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Gustav Ludwig Hertz" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Gustav Ludwig Hertz" target="James Franck" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="James Cronin" target="University of Chicago" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="James Cronin" target="University of Chicago" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="James Cronin" target="Ernest Orlando Lawrence Award" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="James Cronin" target="National Medal of Science" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="James Cronin" target="Quantrell Award" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="James Cronin" target="spokesperson emeritus for the Auger project" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="James Cronin" target="Board of Sponsors of the Bulletin of the Atomic Scientists" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Brian Schmidt" target="1967" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Brian Schmidt" target="Australian National University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Brian Schmidt" target="Mount Stromlo Observatory and Research School of Astronomy and Astrophysics" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Brian Schmidt" target="Fellow of the Royal Society" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Brian Schmidt" target="Shaw Prize in Astronomy" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Brian Schmidt" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Brian Schmidt" target="Saul Perlmutter" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Brian Schmidt" target="Adam Riess" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Daniel C. Tsui" target="1939" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Daniel C. Tsui" target="Princeton University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Daniel C. Tsui" target="Princeton University" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Daniel C. Tsui" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Daniel C. Tsui" target="Robert B. Laughlin" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Daniel C. Tsui" target="Horst L. Störmer" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="William Alfred Fowler" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="William Alfred Fowler" target="Margaret Burbidge" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="William Alfred Fowler" target="Geoffrey Burbidge" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="William Alfred Fowler" target="Fred Hoyle" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Edward Mills Purcell" target="Harvard University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Edward Mills Purcell" target="Princeton University" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Edward Mills Purcell" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Edward Mills Purcell" target="Felix Bloch" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Joseph Hooton Taylor Jr." target="1941" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Joseph Hooton Taylor Jr." target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Joseph Hooton Taylor Jr." target="Russell Alan Hulse" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Russell Alan Hulse" target="New York City" id="0">
+      <data key="d1">born_in</data>
+    </edge>
+    <edge source="Russell Alan Hulse" target="1950" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Russell Alan Hulse" target="Princeton University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Russell Alan Hulse" target="Harvard University" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Enrico Fermi" target="University of Rome Tor Vergata" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Enrico Fermi" target="University of Chicago" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Los Alamos Scientific Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Enrico Fermi" target="General Advisory Committee" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Institute for Nuclear Studies" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Enrico Fermi National Accelerator Laboratory" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Enrico Fermi Award" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Enrico Fermi Institute" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Fermi 1 (breeder reactor)" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Fermi National Accelerator Laboratory (Fermilab)" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Martinus J. G. Veltman" target="Delft University of Technology" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Martinus J. G. Veltman" target="CERN" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Martinus J. G. Veltman" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Martinus J. G. Veltman" target="Gerardus 't Hooft" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Percy Williams Bridgman" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Charles H. Townes" target="Massachusetts Institute of Technology" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Charles H. Townes" target="U.S. Government" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Charles H. Townes" target="University of California, Berkeley" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Charles H. Townes" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Charles H. Townes" target="Nikolay Basov" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Charles H. Townes" target="Alexander Prokhorov" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Gerard 't Hooft" target="Utrecht University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Gerard 't Hooft" target="Utrecht University" id="1">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Gerard 't Hooft" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Gerard 't Hooft" target="Martinus J. G. Veltman" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Jim Peebles" target="1935" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Jim Peebles" target="Princeton University" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Jim Peebles" target="Canadian-American astrophysicist, astronomer, and theoretical cosmologist" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Jim Peebles" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Jim Peebles" target="Michel Mayor and Didier Queloz" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Didier Queloz" target="1966" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Didier Queloz" target="ETH Zurich" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Didier Queloz" target="Trinity College, Cambridge" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Didier Queloz" target="University of Cambridge" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Didier Queloz" target="Center for the Origin and Prevalence of Life at ETH Zurich" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Didier Queloz" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Didier Queloz" target="Jacksonian Professor of Natural Philosophy at the University of Cambridge" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Didier Queloz" target="Michel Mayor" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Philipp Lenard" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Walter Brattain" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Walter Brattain" target="John Bardeen" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Walter Brattain" target="William Shockley" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+    <edge source="Otto Stern" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Werner Heisenberg" target="1901" id="0">
+      <data key="d1">born_on</data>
+    </edge>
+    <edge source="Werner Heisenberg" target="1 February 1976" id="0">
+      <data key="d1">died_in</data>
+    </edge>
+    <edge source="Werner Heisenberg" target="University of Berlin" id="0">
+      <data key="d1">educated_at</data>
+    </edge>
+    <edge source="Werner Heisenberg" target="Kernforschungszentrum Karlsruhe" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Werner Heisenberg" target="Technische Hochschule München" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Werner Heisenberg" target="Max Planck Institute for Physics and Astrophysics" id="0">
+      <data key="d1">worked_at</data>
+    </edge>
+    <edge source="Werner Heisenberg" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Hendrik Lorentz" target="Nobel Prize in Physics" id="0">
+      <data key="d1">award_received</data>
+    </edge>
+    <edge source="Hendrik Lorentz" target="Pieter Zeeman" id="0">
+      <data key="d1">shared_prize_with</data>
+    </edge>
+  </graph>
+</graphml>

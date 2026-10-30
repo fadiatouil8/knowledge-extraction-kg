@@ -1,0 +1,23 @@
+{
+ "nœuds": 492,
+ "arcs": 699,
+ "types de nœuds": {
+  "Person": 197,
+  "Year": 77,
+  "Award": 32,
+  "Organization": 173,
+  "Place": 13
+ },
+ "relations": {
+  "born_on": 146,
+  "award_received": 178,
+  "worked_at": 220,
+  "shared_prize_with": 123,
+  "born_in": 11,
+  "educated_at": 19,
+  "died_in": 2
+ },
+ "composantes connexes": 4,
+ "taille plus grande composante": 484,
+ "densité": 0.00561
+}

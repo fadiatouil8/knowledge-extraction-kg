@@ -1,0 +1,7 @@
+,0
+entités spaCy,1572.0
+entités CRF,1947.0
+communes,806.0
+accord_precision,0.4139702105803801
+accord_recall,0.5127226463104325
+accord_f1,0.4580846831486218
